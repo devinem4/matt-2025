@@ -41,12 +41,15 @@ class Question:
         if self.answer is None:
             return
         history = ""
+        yes_count = 0
         for ans in self.all_answers:
             if ans == "Y":
                 history += ":star:"
+                yes_count += 1
             else:
                 history += ":x:"
-        table.add_row(self.quest_text, self.answer_to_str(), history)
+        history_w_summary = f"{history} ({yes_count}/{len(self.all_answers)})"
+        table.add_row(self.quest_text, self.answer_to_str(), history_w_summary)
 
     def log(self, f):
         f.write(f"{yesterday_formatted} -- {self.quest_text} = {self.answer_to_str()}\n")

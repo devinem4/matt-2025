@@ -20,6 +20,7 @@ default_keys = [
     "D",
     "A",
     "F",
+    "Bb",
     "Am",
     "Dm",
     "Em",
@@ -41,7 +42,8 @@ scales_group = Exercise_Group("Scales and Chords", scale_exercises)
 
 # dozen
 book = "Book 3"
-dozen_ex = ["2-12", "3-1", "3-2", "3-3", "3-4"]
+# dozen_ex = ["2-12", "3-1", "3-2", "3-3", "3-4"]
+dozen_ex = ["3-1", "3-2", "3-3", "3-4", "3-5", "3-6"]
 dozen_exercises = []
 for ex in dozen_ex:
     dozen_exercises.append(Exercise(f"{book} {ex}"))
