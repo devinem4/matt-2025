@@ -57,7 +57,7 @@ class Question:
 questions = [
     Question("Practice Piano?"),
     Question("Get some exercise?"),
-    Question("Late Night Snacking? :cake:"),
+    Question("Avoid Late Night Snacking? :cake:"),
 ]
 
 answer_table = Table(title="Today's Answers")
