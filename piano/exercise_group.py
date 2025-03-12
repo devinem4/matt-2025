@@ -76,5 +76,6 @@ class Exercise_Group:
             self.current_exercise.complete()
 
         console.print(f"Done with {self.name}")
+        console.print(self.make_table(complete_ex_only=True))
         console.print()
         logger.info(f"{self.name} complete")

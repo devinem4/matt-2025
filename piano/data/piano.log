@@ -545,3 +545,2366 @@
 2025-01-17 14:46:15,033|exercise_group|INFO|Repetoire Review complete
 2025-01-17 14:46:15,034|session|INFO|session complete
 2025-01-17 14:46:15,069|session|INFO|session saved to data/2025-01-17 13:47.log
+2025-01-20 11:03:42,455|session|INFO|starting session
+2025-01-20 11:03:43,680|exercise_group|INFO|Warm Ups start
+2025-01-20 11:03:54,697|exercise|INFO|Stretch start
+2025-01-20 11:04:41,111|exercise|INFO|Stretch complete
+2025-01-20 11:04:41,112|exercise|INFO|Rock start
+2025-01-20 11:05:05,199|exercise|INFO|Rock complete
+2025-01-20 11:05:05,200|exercise_group|INFO|Warm Ups complete
+2025-01-20 11:05:05,201|exercise_group|INFO|Scales and Chords start
+2025-01-20 11:06:17,663|exercise|INFO|Expanded Scale (C, G) start
+2025-01-20 11:10:04,697|exercise|INFO|Expanded Scale (C, G) complete
+2025-01-20 11:10:04,697|exercise|INFO|Four Octave Scale (C, G, D, A, F, Bb, Am, Dm, Em) start
+2025-01-20 11:14:33,171|exercise|INFO|Four Octave Scale (C, G, D, A, F, Bb, Am, Dm, Em) complete
+2025-01-20 11:14:33,171|exercise|INFO|Arpeggio (C, G, D, A, F, Bb, Am, Dm, Em) start
+2025-01-20 11:18:41,308|exercise|INFO|Arpeggio (C, G, D, A, F, Bb, Am, Dm, Em) complete
+2025-01-20 11:18:41,309|exercise|INFO|Chromatic Scale (D, Ab) start
+2025-01-20 11:19:13,293|exercise|INFO|Chromatic Scale (D, Ab) complete
+2025-01-20 11:19:13,293|exercise|INFO|Triads (C, G, D, A, F, Bb, Am, Dm, Em) start
+2025-01-20 11:21:37,989|exercise|INFO|Triads (C, G, D, A, F, Bb, Am, Dm, Em) complete
+2025-01-20 11:21:37,990|exercise|INFO|Broken Chords (C, G, D, A, F, Bb, Am, Dm, Em) start
+2025-01-20 11:28:11,496|exercise|INFO|Broken Chords (C, G, D, A, F, Bb, Am, Dm, Em) complete
+2025-01-20 11:28:11,496|exercise|INFO|Broken Triads (C, G, D, A, F, Bb, Am, Dm, Em) start
+2025-01-20 11:32:36,066|exercise|INFO|Broken Triads (C, G, D, A, F, Bb, Am, Dm, Em) complete
+2025-01-20 11:32:36,067|exercise_group|INFO|Scales and Chords complete
+2025-01-20 11:32:36,067|exercise_group|INFO|Daily Dozen start
+2025-01-20 11:32:41,905|exercise|INFO|Book 3 3-1 start
+2025-01-20 11:33:58,406|exercise|INFO|Book 3 3-1 complete
+2025-01-20 11:33:58,407|exercise|INFO|Book 3 3-2 start
+2025-01-20 11:34:30,008|exercise|INFO|Book 3 3-2 complete
+2025-01-20 11:34:30,008|exercise|INFO|Book 3 3-3 start
+2025-01-20 11:34:53,167|exercise|INFO|Book 3 3-3 complete
+2025-01-20 11:34:53,168|exercise|INFO|Book 3 3-4 start
+2025-01-20 11:35:54,967|exercise|INFO|Book 3 3-4 complete
+2025-01-20 11:35:54,967|exercise|INFO|Book 3 3-5 start
+2025-01-20 11:37:05,046|exercise|INFO|Book 3 3-5 complete
+2025-01-20 11:37:05,046|exercise|INFO|Book 3 3-6 start
+2025-01-20 11:38:01,040|exercise|INFO|Book 3 3-6 complete
+2025-01-20 11:38:01,041|exercise_group|INFO|Daily Dozen complete
+2025-01-20 11:38:01,041|exercise_group|INFO|Songs start
+2025-01-20 11:39:39,617|exercise|INFO|Easy Piano Classics - Sonatina (Op 36, No 1), Clementi (p60) start
+2025-01-20 11:46:50,329|exercise|INFO|Easy Piano Classics - Sonatina (Op 36, No 1), Clementi (p60) complete
+2025-01-20 11:46:50,331|exercise_group|INFO|Songs complete
+2025-01-20 11:46:50,331|exercise_group|INFO|Repetoire Review start
+2025-01-20 11:46:51,842|exercise_group|INFO|Repetoire Review complete
+2025-01-20 11:46:51,842|session|INFO|session complete
+2025-01-20 11:46:51,872|session|INFO|session saved to data/2025-01-20 11:03.log
+2025-01-21 20:50:38,718|session|INFO|starting session
+2025-01-21 20:50:56,104|session|INFO|starting session
+2025-01-21 20:51:01,458|exercise_group|INFO|Warm Ups start
+2025-01-21 20:51:03,273|exercise|INFO|Stretch start
+2025-01-21 20:52:24,066|exercise|INFO|Stretch complete
+2025-01-21 20:52:24,066|exercise|INFO|Rock start
+2025-01-21 20:52:48,258|exercise|INFO|Rock complete
+2025-01-21 20:52:48,259|exercise_group|INFO|Warm Ups complete
+2025-01-21 20:52:48,259|exercise_group|INFO|Scales and Chords start
+2025-01-21 20:52:50,521|exercise|INFO|Expanded Scale (C, G) start
+2025-01-21 20:54:34,122|exercise|INFO|Expanded Scale (C, G) complete
+2025-01-21 20:54:34,122|exercise|INFO|Four Octave Scale (C, G, D, A, F, Bb, Am, Dm, Em) start
+2025-01-21 21:00:53,068|exercise|INFO|Four Octave Scale (C, G, D, A, F, Bb, Am, Dm, Em) complete
+2025-01-21 21:00:53,068|exercise|INFO|Arpeggio (C, G, D, A, F, Bb, Am, Dm, Em) start
+2025-01-21 21:03:53,074|exercise|INFO|Arpeggio (C, G, D, A, F, Bb, Am, Dm, Em) complete
+2025-01-21 21:03:53,074|exercise|INFO|Chromatic Scale (D, Ab) start
+2025-01-21 21:04:36,274|exercise|INFO|Chromatic Scale (D, Ab) complete
+2025-01-21 21:04:36,275|exercise|INFO|Triads (C, G, D, A, F, Bb, Am, Dm, Em) start
+2025-01-21 21:06:41,587|exercise|INFO|Triads (C, G, D, A, F, Bb, Am, Dm, Em) complete
+2025-01-21 21:06:41,587|exercise|INFO|Broken Chords (C, G, D, A, F, Bb, Am, Dm, Em) start
+2025-01-21 21:13:30,006|exercise|INFO|Broken Chords (C, G, D, A, F, Bb, Am, Dm, Em) complete
+2025-01-21 21:13:30,006|exercise|INFO|Broken Triads (C, G, D, A, F, Bb, Am, Dm, Em) start
+2025-01-21 21:17:44,953|exercise|INFO|Broken Triads (C, G, D, A, F, Bb, Am, Dm, Em) complete
+2025-01-21 21:17:44,955|exercise_group|INFO|Scales and Chords complete
+2025-01-21 21:17:44,955|exercise_group|INFO|Daily Dozen start
+2025-01-21 21:17:46,863|exercise|INFO|Book 3 3-1 start
+2025-01-21 21:18:43,104|exercise|INFO|Book 3 3-1 complete
+2025-01-21 21:18:43,104|exercise|INFO|Book 3 3-2 start
+2025-01-21 21:19:17,104|exercise|INFO|Book 3 3-2 complete
+2025-01-21 21:19:17,104|exercise|INFO|Book 3 3-3 start
+2025-01-21 21:19:43,432|exercise|INFO|Book 3 3-3 complete
+2025-01-21 21:19:43,432|exercise|INFO|Book 3 3-4 start
+2025-01-21 21:20:14,856|exercise|INFO|Book 3 3-4 complete
+2025-01-21 21:20:14,856|exercise|INFO|Book 3 3-5 start
+2025-01-21 21:20:55,329|exercise|INFO|Book 3 3-5 complete
+2025-01-21 21:20:55,329|exercise|INFO|Book 3 3-6 start
+2025-01-21 21:22:58,801|exercise|INFO|Book 3 3-6 complete
+2025-01-21 21:22:58,801|exercise|INFO|Book 3 3-7 start
+2025-01-21 21:26:16,682|exercise|INFO|Book 3 3-7 complete
+2025-01-21 21:26:16,683|exercise|INFO|Book 3 3-8 start
+2025-01-21 21:28:58,940|exercise|INFO|Book 3 3-8 complete
+2025-01-21 21:28:58,940|exercise|INFO|Book 3 3-9 start
+2025-01-21 21:31:56,788|exercise|INFO|Book 3 3-9 complete
+2025-01-21 21:31:56,790|exercise_group|INFO|Daily Dozen complete
+2025-01-21 21:31:56,790|exercise_group|INFO|Songs start
+2025-01-21 21:32:21,228|exercise|INFO|Joy of Piano - Clair De Lune, Debussy (p20) start
+2025-01-21 21:39:37,866|exercise|INFO|Joy of Piano - Clair De Lune, Debussy (p20) complete
+2025-01-21 21:39:37,866|exercise|INFO|Easy Piano Classics - Sonatina (Op 36, No 1), Clementi (p60) start
+2025-01-21 22:08:53,653|exercise|INFO|Easy Piano Classics - Sonatina (Op 36, No 1), Clementi (p60) complete
+2025-01-21 22:08:53,656|exercise_group|INFO|Songs complete
+2025-01-21 22:08:53,656|exercise_group|INFO|Repetoire Review start
+2025-01-21 22:09:01,891|exercise|INFO|Easy Piano Classics - Nocturne (Op 9, No 2), Chopin (p148) start
+2025-01-21 22:12:36,574|exercise|INFO|Easy Piano Classics - Nocturne (Op 9, No 2), Chopin (p148) complete
+2025-01-21 22:12:36,575|exercise_group|INFO|Repetoire Review complete
+2025-01-21 22:12:36,576|session|INFO|session complete
+2025-01-21 22:12:36,611|session|INFO|session saved to data/2025-01-21 20:50.log
+2025-01-22 21:04:12,197|session|INFO|starting session
+2025-01-22 21:04:33,600|exercise_group|INFO|Warm Ups start
+2025-01-22 21:07:24,595|exercise|INFO|Stretch start
+2025-01-22 21:08:08,930|exercise|INFO|Stretch complete
+2025-01-22 21:08:08,930|exercise|INFO|Rock start
+2025-01-22 21:08:41,359|exercise|INFO|Rock complete
+2025-01-22 21:08:41,360|exercise_group|INFO|Warm Ups complete
+2025-01-22 21:08:41,361|exercise_group|INFO|Scales and Chords start
+2025-01-22 21:08:44,277|exercise|INFO|Expanded Scale (C, G) start
+2025-01-22 21:09:38,983|exercise|INFO|Expanded Scale (C, G) complete
+2025-01-22 21:09:38,983|exercise|INFO|Four Octave Scale (C, G, D, A, F, Bb, Am, Dm, Em) start
+2025-01-22 21:16:55,871|exercise|INFO|Four Octave Scale (C, G, D, A, F, Bb, Am, Dm, Em) complete
+2025-01-22 21:16:55,872|exercise|INFO|Arpeggio (C, G, D, A, F, Bb, Am, Dm, Em) start
+2025-01-22 21:19:19,382|exercise|INFO|Arpeggio (C, G, D, A, F, Bb, Am, Dm, Em) complete
+2025-01-22 21:19:19,382|exercise|INFO|Chromatic Scale (D, Ab) start
+2025-01-22 21:20:23,680|exercise|INFO|Chromatic Scale (D, Ab) complete
+2025-01-22 21:20:23,681|exercise|INFO|Triads (C, G, D, A, F, Bb, Am, Dm, Em) start
+2025-01-22 21:22:54,681|exercise|INFO|Triads (C, G, D, A, F, Bb, Am, Dm, Em) complete
+2025-01-22 21:22:54,681|exercise|INFO|Broken Chords (C, G, D, A, F, Bb, Am, Dm, Em) start
+2025-01-22 21:29:32,421|exercise|INFO|Broken Chords (C, G, D, A, F, Bb, Am, Dm, Em) complete
+2025-01-22 21:29:32,421|exercise|INFO|Broken Triads (C, G, D, A, F, Bb, Am, Dm, Em) start
+2025-01-22 21:34:12,688|exercise|INFO|Broken Triads (C, G, D, A, F, Bb, Am, Dm, Em) complete
+2025-01-22 21:34:12,690|exercise_group|INFO|Scales and Chords complete
+2025-01-22 21:34:12,691|exercise_group|INFO|Daily Dozen start
+2025-01-22 21:34:19,123|exercise|INFO|Book 3 3-1 start
+2025-01-22 21:35:17,002|exercise|INFO|Book 3 3-1 complete
+2025-01-22 21:35:17,002|exercise|INFO|Book 3 3-2 start
+2025-01-22 21:35:50,241|exercise|INFO|Book 3 3-2 complete
+2025-01-22 21:35:50,241|exercise|INFO|Book 3 3-3 start
+2025-01-22 21:36:16,786|exercise|INFO|Book 3 3-3 complete
+2025-01-22 21:36:16,786|exercise|INFO|Book 3 3-4 start
+2025-01-22 21:37:18,260|exercise|INFO|Book 3 3-4 complete
+2025-01-22 21:37:18,260|exercise|INFO|Book 3 3-5 start
+2025-01-22 21:38:02,283|exercise|INFO|Book 3 3-5 complete
+2025-01-22 21:38:02,284|exercise|INFO|Book 3 3-6 start
+2025-01-22 21:46:45,726|exercise|INFO|Book 3 3-6 complete
+2025-01-22 21:46:45,728|exercise|INFO|Book 3 3-7 start
+2025-01-22 21:49:13,783|exercise|INFO|Book 3 3-7 complete
+2025-01-22 21:49:13,784|exercise|INFO|Book 3 3-8 start
+2025-01-22 21:51:26,848|exercise|INFO|Book 3 3-8 complete
+2025-01-22 21:51:26,848|exercise|INFO|Book 3 3-9 start
+2025-01-22 21:54:07,237|exercise|INFO|Book 3 3-9 complete
+2025-01-22 21:54:07,239|exercise_group|INFO|Daily Dozen complete
+2025-01-22 21:54:07,239|exercise_group|INFO|Songs start
+2025-01-22 21:54:09,472|exercise|INFO|Joy of Piano - Clair De Lune, Debussy (p20) start
+2025-01-22 22:14:25,368|exercise|INFO|Joy of Piano - Clair De Lune, Debussy (p20) complete
+2025-01-22 22:14:25,370|exercise|INFO|Easy Piano Classics - Sonatina (Op 36, No 1), Clementi (p60) start
+2025-01-22 22:50:50,379|exercise|INFO|Easy Piano Classics - Sonatina (Op 36, No 1), Clementi (p60) complete
+2025-01-22 22:50:50,381|exercise_group|INFO|Songs complete
+2025-01-22 22:50:50,381|exercise_group|INFO|Repetoire Review start
+2025-01-22 22:51:47,011|exercise|INFO|Easy Piano Classics - Minuet in G Major, Bach (p24) start
+2025-01-22 22:55:37,059|exercise|INFO|Easy Piano Classics - Minuet in G Major, Bach (p24) complete
+2025-01-22 22:55:37,060|exercise_group|INFO|Repetoire Review complete
+2025-01-22 22:55:37,061|session|INFO|session complete
+2025-01-22 22:55:37,096|session|INFO|session saved to data/2025-01-22 21:04.log
+2025-01-23 21:42:07,974|session|INFO|starting session
+2025-01-23 21:42:09,113|exercise_group|INFO|Warm Ups start
+2025-01-23 21:44:41,071|exercise|INFO|Stretch start
+2025-01-23 21:45:09,890|exercise|INFO|Stretch complete
+2025-01-23 21:45:09,890|exercise|INFO|Rock start
+2025-01-23 21:45:30,283|exercise|INFO|Rock complete
+2025-01-23 21:45:30,285|exercise_group|INFO|Warm Ups complete
+2025-01-23 21:45:30,285|exercise_group|INFO|Scales and Chords start
+2025-01-23 21:45:32,471|exercise|INFO|Expanded Scale (C, G) start
+2025-01-23 21:46:28,256|exercise|INFO|Expanded Scale (C, G) complete
+2025-01-23 21:46:28,256|exercise|INFO|Four Octave Scale (C, G, D, A, F, Bb, Am, Dm, Em) start
+2025-01-23 21:56:03,963|exercise|INFO|Four Octave Scale (C, G, D, A, F, Bb, Am, Dm, Em) complete
+2025-01-23 21:56:03,964|exercise|INFO|Arpeggio (C, G, D, A, F, Bb, Am, Dm, Em) start
+2025-01-23 21:58:55,594|exercise|INFO|Arpeggio (C, G, D, A, F, Bb, Am, Dm, Em) complete
+2025-01-23 21:58:55,595|exercise|INFO|Chromatic Scale (D, Ab) start
+2025-01-23 21:59:25,498|exercise|INFO|Chromatic Scale (D, Ab) complete
+2025-01-23 21:59:25,498|exercise|INFO|Triads (C, G, D, A, F, Bb, Am, Dm, Em) start
+2025-01-23 22:00:52,867|exercise|INFO|Triads (C, G, D, A, F, Bb, Am, Dm, Em) complete
+2025-01-23 22:00:52,868|exercise|INFO|Broken Chords (C, G, D, A, F, Bb, Am, Dm, Em) start
+2025-01-23 22:06:40,576|exercise|INFO|Broken Chords (C, G, D, A, F, Bb, Am, Dm, Em) complete
+2025-01-23 22:06:40,577|exercise|INFO|Broken Triads (C, G, D, A, F, Bb, Am, Dm, Em) start
+2025-01-23 22:10:25,726|exercise|INFO|Broken Triads (C, G, D, A, F, Bb, Am, Dm, Em) complete
+2025-01-23 22:10:25,727|exercise_group|INFO|Scales and Chords complete
+2025-01-23 22:10:25,728|exercise_group|INFO|Daily Dozen start
+2025-01-23 22:10:54,822|exercise|INFO|Book 3 3-1 start
+2025-01-23 22:11:39,678|exercise|INFO|Book 3 3-1 complete
+2025-01-23 22:11:39,678|exercise|INFO|Book 3 3-2 start
+2025-01-23 22:12:17,000|exercise|INFO|Book 3 3-2 complete
+2025-01-23 22:12:17,001|exercise|INFO|Book 3 3-3 start
+2025-01-23 22:12:47,973|exercise|INFO|Book 3 3-3 complete
+2025-01-23 22:12:47,974|exercise|INFO|Book 3 3-4 start
+2025-01-23 22:14:01,040|exercise|INFO|Book 3 3-4 complete
+2025-01-23 22:14:01,041|exercise|INFO|Book 3 3-5 start
+2025-01-23 22:14:41,676|exercise|INFO|Book 3 3-5 complete
+2025-01-23 22:14:41,676|exercise|INFO|Book 3 3-6 start
+2025-01-23 22:16:54,234|exercise|INFO|Book 3 3-6 complete
+2025-01-23 22:16:54,235|exercise|INFO|Book 3 3-7 start
+2025-01-23 22:21:04,072|exercise|INFO|Book 3 3-7 complete
+2025-01-23 22:21:04,073|exercise|INFO|Book 3 3-8 start
+2025-01-23 22:21:31,056|exercise|INFO|Book 3 3-8 complete
+2025-01-23 22:21:31,056|exercise|INFO|Book 3 3-9 start
+2025-01-23 22:23:37,176|exercise|INFO|Book 3 3-9 complete
+2025-01-23 22:23:37,177|exercise_group|INFO|Daily Dozen complete
+2025-01-23 22:23:37,177|exercise_group|INFO|Songs start
+2025-01-23 22:23:44,407|exercise|INFO|Joy of Piano - Clair De Lune, Debussy (p20) start
+2025-01-23 22:32:18,610|exercise|INFO|Joy of Piano - Clair De Lune, Debussy (p20) complete
+2025-01-23 22:32:18,611|exercise|INFO|Easy Piano Classics - Sonatina (Op 36, No 1), Clementi (p60) start
+2025-01-23 23:12:24,679|exercise|INFO|Easy Piano Classics - Sonatina (Op 36, No 1), Clementi (p60) complete
+2025-01-23 23:12:24,681|exercise_group|INFO|Songs complete
+2025-01-23 23:12:24,682|exercise_group|INFO|Repetoire Review start
+2025-01-23 23:12:36,527|exercise|INFO|Jazzin Americana - Bird in the Bebop (p12) start
+2025-01-23 23:17:20,035|exercise|INFO|Jazzin Americana - Bird in the Bebop (p12) complete
+2025-01-23 23:17:20,036|exercise_group|INFO|Repetoire Review complete
+2025-01-23 23:17:20,037|session|INFO|session complete
+2025-01-23 23:17:20,074|session|INFO|session saved to data/2025-01-23 21:42.log
+2025-01-24 22:17:28,896|session|INFO|starting session
+2025-01-24 22:17:30,744|exercise_group|INFO|Warm Ups start
+2025-01-24 22:17:51,455|exercise|INFO|Stretch start
+2025-01-24 22:18:26,911|exercise|INFO|Stretch complete
+2025-01-24 22:18:26,912|exercise|INFO|Rock start
+2025-01-24 22:18:48,001|exercise|INFO|Rock complete
+2025-01-24 22:18:48,002|exercise_group|INFO|Warm Ups complete
+2025-01-24 22:18:48,002|exercise_group|INFO|Scales and Chords start
+2025-01-24 22:19:17,264|exercise|INFO|Expanded Scale (C, G) start
+2025-01-24 22:20:20,288|exercise|INFO|Expanded Scale (C, G) complete
+2025-01-24 22:20:20,289|exercise|INFO|Four Octave Scale (C, G, D, A, F, Bb, Am, Dm, Em) start
+2025-01-24 22:24:52,416|exercise|INFO|Four Octave Scale (C, G, D, A, F, Bb, Am, Dm, Em) complete
+2025-01-24 22:24:52,416|exercise|INFO|Arpeggio (C, G, D, A, F, Bb, Am, Dm, Em) start
+2025-01-24 22:26:57,140|exercise|INFO|Arpeggio (C, G, D, A, F, Bb, Am, Dm, Em) complete
+2025-01-24 22:26:57,142|exercise|INFO|Chromatic Scale (D, Ab) start
+2025-01-24 22:27:17,352|exercise|INFO|Chromatic Scale (D, Ab) complete
+2025-01-24 22:27:17,353|exercise|INFO|Triads (C, G, D, A, F, Bb, Am, Dm, Em) start
+2025-01-24 22:28:38,098|exercise|INFO|Triads (C, G, D, A, F, Bb, Am, Dm, Em) complete
+2025-01-24 22:28:38,098|exercise|INFO|Broken Chords (C, G, D, A, F, Bb, Am, Dm, Em) start
+2025-01-24 22:31:43,969|exercise|INFO|Broken Chords (C, G, D, A, F, Bb, Am, Dm, Em) complete
+2025-01-24 22:31:43,969|exercise|INFO|Broken Triads (C, G, D, A, F, Bb, Am, Dm, Em) start
+2025-01-24 22:33:56,097|exercise|INFO|Broken Triads (C, G, D, A, F, Bb, Am, Dm, Em) complete
+2025-01-24 22:33:56,099|exercise_group|INFO|Scales and Chords complete
+2025-01-24 22:33:56,099|exercise_group|INFO|Daily Dozen start
+2025-01-24 22:33:57,601|exercise|INFO|Book 3 3-1 start
+2025-01-24 22:34:53,657|exercise|INFO|Book 3 3-1 complete
+2025-01-24 22:34:53,657|exercise|INFO|Book 3 3-2 start
+2025-01-24 22:35:25,081|exercise|INFO|Book 3 3-2 complete
+2025-01-24 22:35:25,082|exercise|INFO|Book 3 3-3 start
+2025-01-24 22:35:49,666|exercise|INFO|Book 3 3-3 complete
+2025-01-24 22:35:49,666|exercise|INFO|Book 3 3-4 start
+2025-01-24 22:36:23,754|exercise|INFO|Book 3 3-4 complete
+2025-01-24 22:36:23,754|exercise|INFO|Book 3 3-5 start
+2025-01-24 22:36:37,857|exercise|INFO|Book 3 3-5 complete
+2025-01-24 22:36:37,857|exercise|INFO|Book 3 3-6 start
+2025-01-24 22:37:10,504|exercise|INFO|Book 3 3-6 complete
+2025-01-24 22:37:10,505|exercise|INFO|Book 3 3-7 start
+2025-01-24 22:38:07,840|exercise|INFO|Book 3 3-7 complete
+2025-01-24 22:38:07,840|exercise|INFO|Book 3 3-8 start
+2025-01-24 22:38:48,079|exercise|INFO|Book 3 3-8 complete
+2025-01-24 22:38:48,081|exercise|INFO|Book 3 3-9 start
+2025-01-24 22:39:24,189|exercise|INFO|Book 3 3-9 complete
+2025-01-24 22:39:24,190|exercise_group|INFO|Daily Dozen complete
+2025-01-24 22:39:24,190|exercise_group|INFO|Songs start
+2025-01-24 22:39:26,495|exercise|INFO|Joy of Piano - Clair De Lune, Debussy (p20) start
+2025-01-24 22:39:36,495|exercise|INFO|Joy of Piano - Clair De Lune, Debussy (p20) complete
+2025-01-24 22:39:36,496|exercise_group|INFO|Songs complete
+2025-01-24 22:39:36,496|exercise_group|INFO|Repetoire Review start
+2025-01-24 22:39:39,701|exercise_group|INFO|Repetoire Review complete
+2025-01-24 22:39:39,702|session|INFO|session complete
+2025-01-24 22:39:39,738|session|INFO|session saved to data/2025-01-24 22:17.log
+2025-02-01 15:57:57,136|session|INFO|starting session
+2025-02-01 15:58:01,442|exercise_group|INFO|Warm Ups start
+2025-02-01 15:58:44,665|exercise|INFO|Stretch start
+2025-02-01 15:59:08,251|exercise|INFO|Stretch complete
+2025-02-01 15:59:08,251|exercise|INFO|Rock start
+2025-02-01 15:59:18,555|exercise|INFO|Rock complete
+2025-02-01 15:59:18,557|exercise_group|INFO|Warm Ups complete
+2025-02-01 15:59:18,557|exercise_group|INFO|Scales and Chords start
+2025-02-01 15:59:22,921|exercise|INFO|Expanded Scale (C, G) start
+2025-02-01 16:01:00,690|exercise|INFO|Expanded Scale (C, G) complete
+2025-02-01 16:01:00,690|exercise|INFO|Four Octave Scale (C, G, D, A, F, Bb, Am, Dm, Em) start
+2025-02-01 16:10:36,770|exercise|INFO|Four Octave Scale (C, G, D, A, F, Bb, Am, Dm, Em) complete
+2025-02-01 16:10:36,771|exercise|INFO|Arpeggio (C, G, D, A, F, Bb, Am, Dm, Em) start
+2025-02-01 16:13:00,946|exercise|INFO|Arpeggio (C, G, D, A, F, Bb, Am, Dm, Em) complete
+2025-02-01 16:13:00,947|exercise|INFO|Chromatic Scale (D, Ab) start
+2025-02-01 16:13:31,869|exercise|INFO|Chromatic Scale (D, Ab) complete
+2025-02-01 16:13:31,869|exercise|INFO|Triads (C, G, D, A, F, Bb, Am, Dm, Em) start
+2025-02-01 16:15:22,011|exercise|INFO|Triads (C, G, D, A, F, Bb, Am, Dm, Em) complete
+2025-02-01 16:15:22,011|exercise|INFO|Broken Chords (C, G, D, A, F, Bb, Am, Dm, Em) start
+2025-02-01 16:20:21,695|exercise|INFO|Broken Chords (C, G, D, A, F, Bb, Am, Dm, Em) complete
+2025-02-01 16:20:21,695|exercise|INFO|Broken Triads (C, G, D, A, F, Bb, Am, Dm, Em) start
+2025-02-01 16:23:16,247|exercise|INFO|Broken Triads (C, G, D, A, F, Bb, Am, Dm, Em) complete
+2025-02-01 16:23:16,249|exercise_group|INFO|Scales and Chords complete
+2025-02-01 16:23:16,249|exercise_group|INFO|Daily Dozen start
+2025-02-01 16:23:24,960|exercise|INFO|Book 3 3-1 start
+2025-02-01 16:25:00,967|exercise|INFO|Book 3 3-1 complete
+2025-02-01 16:25:00,967|exercise|INFO|Book 3 3-2 start
+2025-02-01 16:25:00,993|exercise|INFO|Book 3 3-2 complete
+2025-02-01 16:25:00,993|exercise|INFO|Book 3 3-3 start
+2025-02-01 16:25:30,326|exercise|INFO|Book 3 3-3 complete
+2025-02-01 16:25:30,326|exercise|INFO|Book 3 3-4 start
+2025-02-01 16:26:03,159|exercise|INFO|Book 3 3-4 complete
+2025-02-01 16:26:03,160|exercise|INFO|Book 3 3-5 start
+2025-02-01 16:26:26,023|exercise|INFO|Book 3 3-5 complete
+2025-02-01 16:26:26,023|exercise|INFO|Book 3 3-6 start
+2025-02-01 16:28:32,694|exercise|INFO|Book 3 3-6 complete
+2025-02-01 16:28:32,694|exercise|INFO|Book 3 3-7 start
+2025-02-01 16:30:01,544|exercise|INFO|Book 3 3-7 complete
+2025-02-01 16:30:01,544|exercise|INFO|Book 3 3-8 start
+2025-02-01 16:32:05,627|exercise|INFO|Book 3 3-8 complete
+2025-02-01 16:32:05,628|exercise|INFO|Book 3 3-9 start
+2025-02-01 16:32:40,237|exercise|INFO|Book 3 3-9 complete
+2025-02-01 16:32:40,238|exercise_group|INFO|Daily Dozen complete
+2025-02-01 16:32:40,238|exercise_group|INFO|Songs start
+2025-02-01 16:33:15,788|exercise|INFO|Easy Piano Classics - Sonatina (Op 36, No 1), Clementi (p60) start
+2025-02-01 16:44:26,582|exercise|INFO|Easy Piano Classics - Sonatina (Op 36, No 1), Clementi (p60) complete
+2025-02-01 16:44:26,584|exercise_group|INFO|Songs complete
+2025-02-01 16:44:26,584|exercise_group|INFO|Repetoire Review start
+2025-02-01 16:44:27,982|exercise_group|INFO|Repetoire Review complete
+2025-02-01 16:44:27,983|session|INFO|session complete
+2025-02-01 16:44:28,016|session|INFO|session saved to data/2025-02-01 15:57.log
+2025-02-02 21:33:00,197|session|INFO|starting session
+2025-02-02 21:33:59,386|exercise_group|INFO|Warm Ups start
+2025-02-02 21:34:13,641|exercise|INFO|Stretch start
+2025-02-02 21:34:44,153|exercise|INFO|Stretch complete
+2025-02-02 21:34:44,153|exercise|INFO|Rock start
+2025-02-02 21:35:07,481|exercise|INFO|Rock complete
+2025-02-02 21:35:07,482|exercise_group|INFO|Warm Ups complete
+2025-02-02 21:35:07,482|exercise_group|INFO|Scales and Chords start
+2025-02-02 21:35:09,114|exercise|INFO|Expanded Scale (C, G) start
+2025-02-02 21:36:38,895|exercise|INFO|Expanded Scale (C, G) complete
+2025-02-02 21:36:38,896|exercise|INFO|Four Octave Scale (C, G, D, A, F, Bb, Am, Dm, Em) start
+2025-02-02 21:41:31,625|exercise|INFO|Four Octave Scale (C, G, D, A, F, Bb, Am, Dm, Em) complete
+2025-02-02 21:41:31,625|exercise|INFO|Arpeggio (C, G, D, A, F, Bb, Am, Dm, Em) start
+2025-02-02 21:44:52,145|exercise|INFO|Arpeggio (C, G, D, A, F, Bb, Am, Dm, Em) complete
+2025-02-02 21:44:52,145|exercise|INFO|Chromatic Scale (D, Ab) start
+2025-02-02 21:45:52,392|exercise|INFO|Chromatic Scale (D, Ab) complete
+2025-02-02 21:45:52,393|exercise|INFO|Triads (C, G, D, A, F, Bb, Am, Dm, Em) start
+2025-02-02 21:47:46,870|exercise|INFO|Triads (C, G, D, A, F, Bb, Am, Dm, Em) complete
+2025-02-02 21:47:46,870|exercise|INFO|Broken Chords (C, G, D, A, F, Bb, Am, Dm, Em) start
+2025-02-02 21:52:18,736|exercise|INFO|Broken Chords (C, G, D, A, F, Bb, Am, Dm, Em) complete
+2025-02-02 21:52:18,736|exercise|INFO|Broken Triads (C, G, D, A, F, Bb, Am, Dm, Em) start
+2025-02-02 21:54:34,936|exercise|INFO|Broken Triads (C, G, D, A, F, Bb, Am, Dm, Em) complete
+2025-02-02 21:54:34,938|exercise_group|INFO|Scales and Chords complete
+2025-02-02 21:54:34,938|exercise_group|INFO|Daily Dozen start
+2025-02-02 21:56:56,320|exercise|INFO|Book 3 3-1 start
+2025-02-02 21:57:33,393|exercise|INFO|Book 3 3-1 complete
+2025-02-02 21:57:33,393|exercise|INFO|Book 3 3-2 start
+2025-02-02 21:58:25,921|exercise|INFO|Book 3 3-2 complete
+2025-02-02 21:58:25,921|exercise|INFO|Book 3 3-3 start
+2025-02-02 21:58:48,857|exercise|INFO|Book 3 3-3 complete
+2025-02-02 21:58:48,858|exercise|INFO|Book 3 3-4 start
+2025-02-02 22:00:04,201|exercise|INFO|Book 3 3-4 complete
+2025-02-02 22:00:04,202|exercise|INFO|Book 3 3-5 start
+2025-02-02 22:00:56,154|exercise|INFO|Book 3 3-5 complete
+2025-02-02 22:00:56,154|exercise|INFO|Book 3 3-6 start
+2025-02-02 22:02:05,387|exercise|INFO|Book 3 3-6 complete
+2025-02-02 22:02:05,387|exercise|INFO|Book 3 3-7 start
+2025-02-02 22:03:30,995|exercise|INFO|Book 3 3-7 complete
+2025-02-02 22:03:30,995|exercise|INFO|Book 3 3-8 start
+2025-02-02 22:04:40,211|exercise|INFO|Book 3 3-8 complete
+2025-02-02 22:04:40,211|exercise|INFO|Book 3 3-9 start
+2025-02-02 22:08:18,485|exercise|INFO|Book 3 3-9 complete
+2025-02-02 22:08:18,486|exercise_group|INFO|Daily Dozen complete
+2025-02-02 22:08:18,486|exercise_group|INFO|Songs start
+2025-02-02 22:11:19,758|exercise|INFO|Joy of Piano - Clair De Lune, Debussy (p20) start
+2025-02-02 22:23:44,164|exercise|INFO|Joy of Piano - Clair De Lune, Debussy (p20) complete
+2025-02-02 22:23:44,164|exercise|INFO|Easy Piano Classics - Sonatina (Op 36, No 1), Clementi (p60) start
+2025-02-02 22:42:46,576|exercise|INFO|Easy Piano Classics - Sonatina (Op 36, No 1), Clementi (p60) complete
+2025-02-02 22:42:46,577|exercise_group|INFO|Songs complete
+2025-02-02 22:42:46,577|exercise_group|INFO|Repetoire Review start
+2025-02-02 22:42:53,988|exercise_group|INFO|Repetoire Review complete
+2025-02-02 22:42:53,988|session|INFO|session complete
+2025-02-02 22:42:54,022|session|INFO|session saved to data/2025-02-02 21:33.log
+2025-02-04 20:53:09,520|session|INFO|starting session
+2025-02-04 20:53:14,317|exercise_group|INFO|Warm Ups start
+2025-02-04 20:55:07,487|exercise|INFO|Stretch start
+2025-02-04 20:55:31,030|exercise|INFO|Stretch complete
+2025-02-04 20:55:31,030|exercise|INFO|Rock start
+2025-02-04 20:55:51,046|exercise|INFO|Rock complete
+2025-02-04 20:55:51,047|exercise_group|INFO|Warm Ups complete
+2025-02-04 20:55:51,047|exercise_group|INFO|Scales and Chords start
+2025-02-04 20:55:54,126|exercise_group|INFO|Scales and Chords complete
+2025-02-04 20:55:54,127|exercise_group|INFO|Daily Dozen start
+2025-02-04 20:55:55,030|exercise_group|INFO|Daily Dozen complete
+2025-02-04 20:55:55,030|exercise_group|INFO|Songs start
+2025-02-04 20:55:55,871|exercise_group|INFO|Songs complete
+2025-02-04 20:55:55,871|exercise_group|INFO|Repetoire Review start
+2025-02-04 20:55:56,829|exercise_group|INFO|Repetoire Review complete
+2025-02-04 20:55:56,830|session|INFO|session complete
+2025-02-04 20:55:56,857|session|INFO|session saved to data/2025-02-04 20:53.log
+2025-02-04 20:56:56,784|session|INFO|starting session
+2025-02-04 20:56:58,733|exercise_group|INFO|Warm Ups start
+2025-02-04 20:56:59,888|exercise_group|INFO|Warm Ups complete
+2025-02-04 20:56:59,888|exercise_group|INFO|Scales and Chords start
+2025-02-04 20:57:03,565|exercise|INFO|Expanded Scale (C, G) start
+2025-02-04 20:57:50,365|exercise|INFO|Expanded Scale (C, G) complete
+2025-02-04 20:57:50,365|exercise|INFO|Four Octave Scale (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-04 21:12:42,017|exercise|INFO|Four Octave Scale (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-04 21:12:42,017|exercise|INFO|Arpeggio (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-04 21:17:30,017|exercise|INFO|Arpeggio (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-04 21:17:30,017|exercise|INFO|Chromatic Scale (D, Ab) start
+2025-02-04 21:18:04,452|exercise|INFO|Chromatic Scale (D, Ab) complete
+2025-02-04 21:18:04,452|exercise|INFO|Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-04 21:20:02,178|exercise|INFO|Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-04 21:20:02,179|exercise|INFO|Broken Chords (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-04 21:26:05,773|exercise|INFO|Broken Chords (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-04 21:26:05,773|exercise|INFO|Broken Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-04 21:29:47,483|exercise|INFO|Broken Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-04 21:29:47,484|exercise_group|INFO|Scales and Chords complete
+2025-02-04 21:29:47,484|exercise_group|INFO|Daily Dozen start
+2025-02-04 21:30:04,383|exercise|INFO|Book 3 3-1 start
+2025-02-04 21:32:11,899|exercise|INFO|Book 3 3-1 complete
+2025-02-04 21:32:11,899|exercise|INFO|Book 3 3-2 start
+2025-02-04 21:32:55,915|exercise|INFO|Book 3 3-2 complete
+2025-02-04 21:32:55,915|exercise|INFO|Book 3 3-3 start
+2025-02-04 21:33:25,715|exercise|INFO|Book 3 3-3 complete
+2025-02-04 21:33:25,715|exercise|INFO|Book 3 3-4 start
+2025-02-04 21:34:28,388|exercise|INFO|Book 3 3-4 complete
+2025-02-04 21:34:28,388|exercise|INFO|Book 3 3-5 start
+2025-02-04 21:35:17,843|exercise|INFO|Book 3 3-5 complete
+2025-02-04 21:35:17,843|exercise|INFO|Book 3 3-6 start
+2025-02-04 21:36:18,292|exercise|INFO|Book 3 3-6 complete
+2025-02-04 21:36:18,292|exercise|INFO|Book 3 3-7 start
+2025-02-04 21:38:11,797|exercise|INFO|Book 3 3-7 complete
+2025-02-04 21:38:11,797|exercise|INFO|Book 3 3-8 start
+2025-02-04 21:39:13,348|exercise|INFO|Book 3 3-8 complete
+2025-02-04 21:39:13,348|exercise|INFO|Book 3 3-9 start
+2025-02-04 21:40:52,101|exercise|INFO|Book 3 3-9 complete
+2025-02-04 21:40:52,102|exercise_group|INFO|Daily Dozen complete
+2025-02-04 21:40:52,103|exercise_group|INFO|Songs start
+2025-02-04 21:40:54,311|exercise_group|INFO|Songs complete
+2025-02-04 21:40:54,311|exercise_group|INFO|Repetoire Review start
+2025-02-04 21:40:55,737|exercise_group|INFO|Repetoire Review complete
+2025-02-04 21:40:55,737|session|INFO|session complete
+2025-02-04 21:40:55,768|session|INFO|session saved to data/2025-02-04 20:56.log
+2025-02-04 21:41:32,894|session|INFO|starting session
+2025-02-04 21:41:35,709|exercise_group|INFO|Warm Ups start
+2025-02-04 21:41:37,054|exercise_group|INFO|Warm Ups complete
+2025-02-04 21:41:37,055|exercise_group|INFO|Scales and Chords start
+2025-02-04 21:41:38,007|exercise_group|INFO|Scales and Chords complete
+2025-02-04 21:41:38,007|exercise_group|INFO|Daily Dozen start
+2025-02-04 21:41:43,557|exercise|INFO|Book 3 3-10 start
+2025-02-04 21:48:06,178|exercise|INFO|Book 3 3-10 complete
+2025-02-04 21:48:06,178|exercise|INFO|Book 3 3-11 start
+2025-02-04 21:54:26,734|exercise|INFO|Book 3 3-11 complete
+2025-02-04 21:54:26,735|exercise|INFO|Book 3 3-12 start
+2025-02-04 21:59:15,936|exercise|INFO|Book 3 3-12 complete
+2025-02-04 21:59:15,938|exercise_group|INFO|Daily Dozen complete
+2025-02-04 21:59:15,938|exercise_group|INFO|Songs start
+2025-02-04 21:59:48,698|exercise|INFO|Easy Piano Classics - Sonatina (Op 36, No 1), Clementi (p60) start
+2025-02-04 22:18:31,169|exercise|INFO|Easy Piano Classics - Sonatina (Op 36, No 1), Clementi (p60) complete
+2025-02-04 22:18:31,169|exercise|INFO|Joy of Piano - Clair De Lune, Debussy (p20) start
+2025-02-04 22:24:52,193|exercise|INFO|Joy of Piano - Clair De Lune, Debussy (p20) complete
+2025-02-04 22:24:52,195|exercise_group|INFO|Songs complete
+2025-02-04 22:24:52,195|exercise_group|INFO|Repetoire Review start
+2025-02-04 22:24:54,362|exercise_group|INFO|Repetoire Review complete
+2025-02-04 22:24:54,363|session|INFO|session complete
+2025-02-04 22:24:54,392|session|INFO|session saved to data/2025-02-04 21:41.log
+2025-02-05 20:16:43,232|session|INFO|starting session
+2025-02-05 20:16:45,677|exercise_group|INFO|Warm Ups start
+2025-02-05 20:17:50,419|exercise|INFO|Stretch start
+2025-02-05 20:19:10,371|exercise|INFO|Stretch complete
+2025-02-05 20:19:10,371|exercise|INFO|Rock start
+2025-02-05 20:19:38,993|exercise|INFO|Rock complete
+2025-02-05 20:19:38,994|exercise_group|INFO|Warm Ups complete
+2025-02-05 20:19:38,994|exercise_group|INFO|Scales and Chords start
+2025-02-05 20:19:39,402|exercise|INFO|Expanded Scale (C, G) start
+2025-02-05 20:20:45,944|exercise|INFO|Expanded Scale (C, G) complete
+2025-02-05 20:20:45,945|exercise|INFO|Four Octave Scale (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-05 20:32:37,416|exercise|INFO|Four Octave Scale (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-05 20:32:37,416|exercise|INFO|Arpeggio (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-05 20:36:54,469|exercise|INFO|Arpeggio (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-05 20:36:54,469|exercise|INFO|Chromatic Scale (D, Ab) start
+2025-02-05 20:37:31,204|exercise|INFO|Chromatic Scale (D, Ab) complete
+2025-02-05 20:37:31,204|exercise|INFO|Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-05 20:40:32,461|exercise|INFO|Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-05 20:40:32,462|exercise|INFO|Broken Chords (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-05 20:48:18,259|exercise|INFO|Broken Chords (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-05 20:48:18,259|exercise|INFO|Broken Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-05 20:50:48,038|exercise|INFO|Broken Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-05 20:50:48,039|exercise_group|INFO|Scales and Chords complete
+2025-02-05 20:50:48,040|exercise_group|INFO|Daily Dozen start
+2025-02-05 20:51:01,048|exercise|INFO|Book 3 3-1 start
+2025-02-05 20:51:59,495|exercise|INFO|Book 3 3-1 complete
+2025-02-05 20:51:59,495|exercise|INFO|Book 3 3-2 start
+2025-02-05 20:52:38,803|exercise|INFO|Book 3 3-2 complete
+2025-02-05 20:52:38,804|exercise|INFO|Book 3 3-3 start
+2025-02-05 20:53:07,275|exercise|INFO|Book 3 3-3 complete
+2025-02-05 20:53:07,275|exercise|INFO|Book 3 3-4 start
+2025-02-05 20:54:07,411|exercise|INFO|Book 3 3-4 complete
+2025-02-05 20:54:07,411|exercise|INFO|Book 3 3-5 start
+2025-02-05 20:54:24,499|exercise|INFO|Book 3 3-5 complete
+2025-02-05 20:54:24,499|exercise|INFO|Book 3 3-6 start
+2025-02-05 20:55:18,267|exercise|INFO|Book 3 3-6 complete
+2025-02-05 20:55:18,268|exercise|INFO|Book 3 3-7 start
+2025-02-05 20:56:43,580|exercise|INFO|Book 3 3-7 complete
+2025-02-05 20:56:43,580|exercise|INFO|Book 3 3-8 start
+2025-02-05 20:57:53,452|exercise|INFO|Book 3 3-8 complete
+2025-02-05 20:57:53,452|exercise|INFO|Book 3 3-9 start
+2025-02-05 20:59:05,956|exercise|INFO|Book 3 3-9 complete
+2025-02-05 20:59:05,956|exercise|INFO|Book 3 3-10 start
+2025-02-05 21:02:49,250|exercise|INFO|Book 3 3-10 complete
+2025-02-05 21:02:49,251|exercise|INFO|Book 3 3-11 start
+2025-02-05 21:10:16,089|exercise|INFO|Book 3 3-11 complete
+2025-02-05 21:10:16,089|exercise|INFO|Book 3 3-12 start
+2025-02-05 21:14:10,040|exercise|INFO|Book 3 3-12 complete
+2025-02-05 21:14:10,041|exercise_group|INFO|Daily Dozen complete
+2025-02-05 21:14:10,041|exercise_group|INFO|Songs start
+2025-02-05 21:14:15,120|exercise|INFO|Joy of Piano - Clair De Lune, Debussy (p20) start
+2025-02-05 21:31:18,938|exercise|INFO|Joy of Piano - Clair De Lune, Debussy (p20) complete
+2025-02-05 21:31:18,939|exercise|INFO|Easy Piano Classics - Sonatina (Op 36, No 1), Clementi (p60) start
+2025-02-05 21:54:05,726|exercise|INFO|Easy Piano Classics - Sonatina (Op 36, No 1), Clementi (p60) complete
+2025-02-05 21:54:05,728|exercise_group|INFO|Songs complete
+2025-02-05 21:54:05,728|exercise_group|INFO|Repetoire Review start
+2025-02-05 21:54:08,624|exercise_group|INFO|Repetoire Review complete
+2025-02-05 21:54:08,625|session|INFO|session complete
+2025-02-05 21:54:08,663|session|INFO|session saved to data/2025-02-05 20:16.log
+2025-02-06 13:29:09,888|session|INFO|starting session
+2025-02-06 13:29:10,859|exercise_group|INFO|Warm Ups start
+2025-02-06 13:29:43,355|exercise|INFO|Stretch start
+2025-02-06 13:30:04,883|exercise|INFO|Stretch complete
+2025-02-06 13:30:04,884|exercise|INFO|Rock start
+2025-02-06 13:30:24,515|exercise|INFO|Rock complete
+2025-02-06 13:30:24,517|exercise_group|INFO|Warm Ups complete
+2025-02-06 13:30:24,517|exercise_group|INFO|Scales and Chords start
+2025-02-06 13:30:25,277|exercise|INFO|Expanded Scale (C, G) start
+2025-02-06 13:31:43,627|exercise|INFO|Expanded Scale (C, G) complete
+2025-02-06 13:31:43,628|exercise|INFO|Four Octave Scale (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-06 13:42:18,326|exercise|INFO|Four Octave Scale (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-06 13:42:18,327|exercise|INFO|Arpeggio (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-06 13:45:10,700|exercise|INFO|Arpeggio (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-06 13:45:10,701|exercise|INFO|Chromatic Scale (D, Ab) start
+2025-02-06 13:45:37,167|exercise|INFO|Chromatic Scale (D, Ab) complete
+2025-02-06 13:45:37,167|exercise|INFO|Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-06 13:48:07,838|exercise|INFO|Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-06 13:48:07,838|exercise|INFO|Broken Chords (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-06 13:51:19,294|exercise|INFO|Broken Chords (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-06 13:51:19,294|exercise|INFO|Broken Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-06 13:56:58,715|exercise|INFO|Broken Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-06 13:56:58,716|exercise_group|INFO|Scales and Chords complete
+2025-02-06 13:56:58,717|exercise_group|INFO|Daily Dozen start
+2025-02-06 13:57:00,053|exercise_group|INFO|Daily Dozen complete
+2025-02-06 13:57:00,054|exercise_group|INFO|Songs start
+2025-02-06 13:57:01,454|exercise_group|INFO|Songs complete
+2025-02-06 13:57:01,454|exercise_group|INFO|Repetoire Review start
+2025-02-06 13:57:02,790|exercise_group|INFO|Repetoire Review complete
+2025-02-06 13:57:02,790|session|INFO|session complete
+2025-02-06 13:57:02,821|session|INFO|session saved to data/2025-02-06 13:29.log
+2025-02-06 16:46:14,623|session|INFO|starting session
+2025-02-06 16:46:16,278|exercise_group|INFO|Warm Ups start
+2025-02-06 16:46:18,109|exercise_group|INFO|Warm Ups complete
+2025-02-06 16:46:18,109|exercise_group|INFO|Scales and Chords start
+2025-02-06 16:46:19,525|exercise_group|INFO|Scales and Chords complete
+2025-02-06 16:46:19,526|exercise_group|INFO|Daily Dozen start
+2025-02-06 16:46:59,780|exercise|INFO|Book 3 3-1 start
+2025-02-06 16:47:51,915|exercise|INFO|Book 3 3-1 complete
+2025-02-06 16:47:51,915|exercise|INFO|Book 3 3-2 start
+2025-02-06 16:48:57,540|exercise|INFO|Book 3 3-2 complete
+2025-02-06 16:48:57,540|exercise|INFO|Book 3 3-3 start
+2025-02-06 16:49:22,403|exercise|INFO|Book 3 3-3 complete
+2025-02-06 16:49:22,404|exercise|INFO|Book 3 3-4 start
+2025-02-06 16:50:24,804|exercise|INFO|Book 3 3-4 complete
+2025-02-06 16:50:24,804|exercise|INFO|Book 3 3-5 start
+2025-02-06 16:50:43,275|exercise|INFO|Book 3 3-5 complete
+2025-02-06 16:50:43,275|exercise|INFO|Book 3 3-6 start
+2025-02-06 16:52:15,155|exercise|INFO|Book 3 3-6 complete
+2025-02-06 16:52:15,156|exercise|INFO|Book 3 3-7 start
+2025-02-06 16:53:23,842|exercise|INFO|Book 3 3-7 complete
+2025-02-06 16:53:23,843|exercise|INFO|Book 3 3-8 start
+2025-02-06 16:54:43,803|exercise|INFO|Book 3 3-8 complete
+2025-02-06 16:54:43,803|exercise|INFO|Book 3 3-9 start
+2025-02-06 16:55:26,178|exercise|INFO|Book 3 3-9 complete
+2025-02-06 16:55:26,178|exercise|INFO|Book 3 3-10 start
+2025-02-06 16:57:48,890|exercise|INFO|Book 3 3-10 complete
+2025-02-06 16:57:48,890|exercise|INFO|Book 3 3-11 start
+2025-02-06 17:01:22,330|exercise|INFO|Book 3 3-11 complete
+2025-02-06 17:01:22,330|exercise|INFO|Book 3 3-12 start
+2025-02-06 17:05:04,610|exercise|INFO|Book 3 3-12 complete
+2025-02-06 17:05:04,611|exercise_group|INFO|Daily Dozen complete
+2025-02-06 17:05:04,611|exercise_group|INFO|Songs start
+2025-02-06 17:05:12,698|exercise_group|INFO|Songs complete
+2025-02-06 17:05:12,698|exercise_group|INFO|Repetoire Review start
+2025-02-06 17:05:14,586|exercise_group|INFO|Repetoire Review complete
+2025-02-06 17:05:14,587|session|INFO|session complete
+2025-02-06 17:05:14,618|session|INFO|session saved to data/2025-02-06 16:46.log
+2025-02-07 08:24:20,755|session|INFO|starting session
+2025-02-07 08:24:21,895|exercise_group|INFO|Warm Ups start
+2025-02-07 08:24:24,496|exercise|INFO|Stretch start
+2025-02-07 08:24:55,733|exercise|INFO|Stretch complete
+2025-02-07 08:24:55,734|exercise|INFO|Rock start
+2025-02-07 08:25:18,079|exercise|INFO|Rock complete
+2025-02-07 08:25:18,080|exercise_group|INFO|Warm Ups complete
+2025-02-07 08:25:18,080|exercise_group|INFO|Scales and Chords start
+2025-02-07 08:25:19,974|exercise|INFO|Expanded Scale (C, G) start
+2025-02-07 08:27:19,158|exercise|INFO|Expanded Scale (C, G) complete
+2025-02-07 08:27:19,159|exercise|INFO|Four Octave Scale (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-07 08:36:50,604|exercise|INFO|Four Octave Scale (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-07 08:36:50,604|exercise|INFO|Arpeggio (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-07 08:39:50,915|exercise|INFO|Arpeggio (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-07 08:39:50,915|exercise|INFO|Chromatic Scale (D, Ab) start
+2025-02-07 08:40:21,058|exercise|INFO|Chromatic Scale (D, Ab) complete
+2025-02-07 08:40:21,058|exercise|INFO|Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-07 08:43:37,946|exercise|INFO|Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-07 08:43:37,946|exercise|INFO|Broken Chords (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-07 08:47:05,257|exercise|INFO|Broken Chords (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-07 08:47:05,257|exercise|INFO|Broken Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-07 08:50:01,816|exercise|INFO|Broken Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-07 08:50:01,818|exercise_group|INFO|Scales and Chords complete
+2025-02-07 08:50:01,818|exercise_group|INFO|Daily Dozen start
+2025-02-07 08:50:03,536|exercise_group|INFO|Daily Dozen complete
+2025-02-07 08:50:03,536|exercise_group|INFO|Songs start
+2025-02-07 08:50:03,944|exercise_group|INFO|Songs complete
+2025-02-07 08:50:03,944|exercise_group|INFO|Repetoire Review start
+2025-02-07 08:50:04,304|exercise_group|INFO|Repetoire Review complete
+2025-02-07 08:50:04,305|session|INFO|session complete
+2025-02-07 08:50:04,336|session|INFO|session saved to data/2025-02-07 08:24.log
+2025-02-07 17:30:41,305|session|INFO|starting session
+2025-02-07 17:31:00,197|exercise_group|INFO|Warm Ups start
+2025-02-07 17:31:37,349|exercise|INFO|Stretch start
+2025-02-07 17:31:55,461|exercise|INFO|Stretch complete
+2025-02-07 17:31:55,461|exercise|INFO|Rock start
+2025-02-07 17:32:19,933|exercise|INFO|Rock complete
+2025-02-07 17:32:19,935|exercise_group|INFO|Warm Ups complete
+2025-02-07 17:32:19,935|exercise_group|INFO|Scales and Chords start
+2025-02-07 17:32:26,374|exercise_group|INFO|Scales and Chords complete
+2025-02-07 17:32:26,374|exercise_group|INFO|Daily Dozen start
+2025-02-07 17:32:27,917|exercise|INFO|Book 3 3-1 start
+2025-02-07 17:33:41,101|exercise|INFO|Book 3 3-1 complete
+2025-02-07 17:33:41,101|exercise|INFO|Book 3 3-2 start
+2025-02-07 17:34:27,373|exercise|INFO|Book 3 3-2 complete
+2025-02-07 17:34:27,373|exercise|INFO|Book 3 3-3 start
+2025-02-07 17:34:55,389|exercise|INFO|Book 3 3-3 complete
+2025-02-07 17:34:55,389|exercise|INFO|Book 3 3-4 start
+2025-02-07 17:36:43,860|exercise|INFO|Book 3 3-4 complete
+2025-02-07 17:36:43,861|exercise|INFO|Book 3 3-5 start
+2025-02-07 17:37:00,516|exercise|INFO|Book 3 3-5 complete
+2025-02-07 17:37:00,517|exercise|INFO|Book 3 3-6 start
+2025-02-07 17:37:47,732|exercise|INFO|Book 3 3-6 complete
+2025-02-07 17:37:47,733|exercise|INFO|Book 3 3-7 start
+2025-02-07 17:38:45,516|exercise|INFO|Book 3 3-7 complete
+2025-02-07 17:38:45,516|exercise|INFO|Book 3 3-8 start
+2025-02-07 17:39:38,252|exercise|INFO|Book 3 3-8 complete
+2025-02-07 17:39:38,252|exercise|INFO|Book 3 3-9 start
+2025-02-07 17:41:15,116|exercise|INFO|Book 3 3-9 complete
+2025-02-07 17:41:15,116|exercise|INFO|Book 3 3-10 start
+2025-02-07 17:47:11,621|exercise|INFO|Book 3 3-10 complete
+2025-02-07 17:47:11,621|exercise|INFO|Book 3 3-11 start
+2025-02-07 17:50:33,875|exercise|INFO|Book 3 3-11 complete
+2025-02-07 17:50:33,875|exercise|INFO|Book 3 3-12 start
+2025-02-07 17:54:11,641|exercise|INFO|Book 3 3-12 complete
+2025-02-07 17:54:11,642|exercise_group|INFO|Daily Dozen complete
+2025-02-07 17:54:11,643|exercise_group|INFO|Songs start
+2025-02-07 17:54:14,695|exercise|INFO|Easy Piano Classics - Sonatina (Op 36, No 1), Clementi (p60) start
+2025-02-07 18:14:01,308|exercise|INFO|Easy Piano Classics - Sonatina (Op 36, No 1), Clementi (p60) complete
+2025-02-07 18:14:01,309|exercise|INFO|Joy of Piano - Clair De Lune, Debussy (p20) start
+2025-02-07 18:31:14,291|exercise|INFO|Joy of Piano - Clair De Lune, Debussy (p20) complete
+2025-02-07 18:31:14,292|exercise_group|INFO|Songs complete
+2025-02-07 18:31:14,292|exercise_group|INFO|Repetoire Review start
+2025-02-07 18:31:34,553|exercise|INFO|Jazzin Americana - In the Hall of the Jazz Kings (p4) start
+2025-02-07 18:41:05,333|exercise|INFO|Jazzin Americana - In the Hall of the Jazz Kings (p4) complete
+2025-02-07 18:41:05,334|exercise_group|INFO|Repetoire Review complete
+2025-02-07 18:41:05,334|session|INFO|session complete
+2025-02-07 18:41:05,372|session|INFO|session saved to data/2025-02-07 17:30.log
+2025-02-08 10:52:25,285|session|INFO|starting session
+2025-02-08 10:52:25,924|exercise_group|INFO|Warm Ups start
+2025-02-08 10:52:27,748|exercise|INFO|Stretch start
+2025-02-08 10:52:47,780|exercise|INFO|Stretch complete
+2025-02-08 10:52:47,781|exercise|INFO|Rock start
+2025-02-08 10:53:26,476|exercise|INFO|Rock complete
+2025-02-08 10:53:26,478|exercise_group|INFO|Warm Ups complete
+2025-02-08 10:53:26,478|exercise_group|INFO|Scales and Chords start
+2025-02-08 10:53:27,660|exercise|INFO|Expanded Scale (C, G) start
+2025-02-08 10:54:55,187|exercise|INFO|Expanded Scale (C, G) complete
+2025-02-08 10:54:55,187|exercise|INFO|Four Octave Scale (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-08 11:01:50,788|exercise|INFO|Four Octave Scale (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-08 11:01:50,789|exercise|INFO|Arpeggio (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-08 11:04:58,472|exercise|INFO|Arpeggio (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-08 11:04:58,473|exercise|INFO|Chromatic Scale (D, Ab) start
+2025-02-08 11:05:24,839|exercise|INFO|Chromatic Scale (D, Ab) complete
+2025-02-08 11:05:24,840|exercise|INFO|Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-08 11:08:05,097|exercise|INFO|Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-08 11:08:05,097|exercise|INFO|Broken Chords (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-08 11:14:22,440|exercise|INFO|Broken Chords (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-08 11:14:22,441|exercise|INFO|Broken Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-08 11:18:54,630|exercise|INFO|Broken Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-08 11:18:54,631|exercise_group|INFO|Scales and Chords complete
+2025-02-08 11:18:54,631|exercise_group|INFO|Daily Dozen start
+2025-02-08 11:19:13,246|exercise|INFO|Book 3 3-1 start
+2025-02-08 11:19:50,573|exercise|INFO|Book 3 3-1 complete
+2025-02-08 11:19:50,574|exercise|INFO|Book 3 3-2 start
+2025-02-08 11:20:25,437|exercise|INFO|Book 3 3-2 complete
+2025-02-08 11:20:25,437|exercise|INFO|Book 3 3-3 start
+2025-02-08 11:20:48,453|exercise|INFO|Book 3 3-3 complete
+2025-02-08 11:20:48,454|exercise|INFO|Book 3 3-4 start
+2025-02-08 11:22:47,684|exercise|INFO|Book 3 3-4 complete
+2025-02-08 11:22:47,684|exercise|INFO|Book 3 3-5 start
+2025-02-08 11:23:12,852|exercise|INFO|Book 3 3-5 complete
+2025-02-08 11:23:12,852|exercise|INFO|Book 3 3-6 start
+2025-02-08 11:24:08,220|exercise|INFO|Book 3 3-6 complete
+2025-02-08 11:24:08,220|exercise|INFO|Book 3 3-7 start
+2025-02-08 11:25:07,062|exercise|INFO|Book 3 3-7 complete
+2025-02-08 11:25:07,063|exercise|INFO|Book 3 3-8 start
+2025-02-08 11:26:33,335|exercise|INFO|Book 3 3-8 complete
+2025-02-08 11:26:33,335|exercise|INFO|Book 3 3-9 start
+2025-02-08 11:26:58,270|exercise|INFO|Book 3 3-9 complete
+2025-02-08 11:26:58,271|exercise|INFO|Book 3 3-10 start
+2025-02-08 11:29:04,732|exercise|INFO|Book 3 3-10 complete
+2025-02-08 11:29:04,732|exercise|INFO|Book 3 3-11 start
+2025-02-08 11:32:19,856|exercise|INFO|Book 3 3-11 complete
+2025-02-08 11:32:19,857|exercise|INFO|Book 3 3-12 start
+2025-02-08 11:33:52,263|exercise|INFO|Book 3 3-12 complete
+2025-02-08 11:33:52,264|exercise_group|INFO|Daily Dozen complete
+2025-02-08 11:33:52,264|exercise_group|INFO|Songs start
+2025-02-08 11:34:05,518|exercise_group|INFO|Songs complete
+2025-02-08 11:34:05,519|exercise_group|INFO|Repetoire Review start
+2025-02-08 11:34:06,518|exercise_group|INFO|Repetoire Review complete
+2025-02-08 11:34:06,519|session|INFO|session complete
+2025-02-08 11:34:06,557|session|INFO|session saved to data/2025-02-08 10:52.log
+2025-02-09 22:15:54,129|session|INFO|starting session
+2025-02-09 22:15:56,133|exercise_group|INFO|Warm Ups start
+2025-02-09 22:16:24,717|exercise|INFO|Stretch start
+2025-02-09 22:16:44,997|exercise|INFO|Stretch complete
+2025-02-09 22:16:44,997|exercise|INFO|Rock start
+2025-02-09 22:17:13,453|exercise|INFO|Rock complete
+2025-02-09 22:17:13,454|exercise_group|INFO|Warm Ups complete
+2025-02-09 22:17:13,454|exercise_group|INFO|Scales and Chords start
+2025-02-09 22:17:14,533|exercise|INFO|Expanded Scale (C, G) start
+2025-02-09 22:18:43,493|exercise|INFO|Expanded Scale (C, G) complete
+2025-02-09 22:18:43,494|exercise|INFO|Four Octave Scale (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-09 22:27:02,278|exercise|INFO|Four Octave Scale (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-09 22:27:02,278|exercise|INFO|Arpeggio (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-09 22:29:27,696|exercise|INFO|Arpeggio (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-09 22:29:27,696|exercise|INFO|Chromatic Scale (D, Ab) start
+2025-02-09 22:29:53,614|exercise|INFO|Chromatic Scale (D, Ab) complete
+2025-02-09 22:29:53,614|exercise|INFO|Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-09 22:32:38,038|exercise|INFO|Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-09 22:32:38,039|exercise|INFO|Broken Chords (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-09 22:39:13,779|exercise|INFO|Broken Chords (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-09 22:39:13,780|exercise|INFO|Broken Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-09 22:42:18,316|exercise|INFO|Broken Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-09 22:42:18,317|exercise_group|INFO|Scales and Chords complete
+2025-02-09 22:42:18,317|exercise_group|INFO|Daily Dozen start
+2025-02-09 22:44:47,038|exercise|INFO|Book 3 3-1 start
+2025-02-09 22:45:21,380|exercise|INFO|Book 3 3-1 complete
+2025-02-09 22:45:21,381|exercise|INFO|Book 3 3-2 start
+2025-02-09 22:45:56,828|exercise|INFO|Book 3 3-2 complete
+2025-02-09 22:45:56,828|exercise|INFO|Book 3 3-3 start
+2025-02-09 22:46:22,157|exercise|INFO|Book 3 3-3 complete
+2025-02-09 22:46:22,157|exercise|INFO|Book 3 3-4 start
+2025-02-09 22:46:52,237|exercise|INFO|Book 3 3-4 complete
+2025-02-09 22:46:52,237|exercise|INFO|Book 3 3-5 start
+2025-02-09 22:47:11,045|exercise|INFO|Book 3 3-5 complete
+2025-02-09 22:47:11,045|exercise|INFO|Book 3 3-6 start
+2025-02-09 22:53:40,654|exercise|INFO|Book 3 3-6 complete
+2025-02-09 22:53:40,654|exercise|INFO|Book 3 3-7 start
+2025-02-09 22:55:20,470|exercise|INFO|Book 3 3-7 complete
+2025-02-09 22:55:20,470|exercise|INFO|Book 3 3-8 start
+2025-02-09 22:56:13,331|exercise|INFO|Book 3 3-8 complete
+2025-02-09 22:56:13,331|exercise|INFO|Book 3 3-9 start
+2025-02-09 22:56:45,954|exercise|INFO|Book 3 3-9 complete
+2025-02-09 22:56:45,954|exercise|INFO|Book 3 3-10 start
+2025-02-09 22:59:36,648|exercise|INFO|Book 3 3-10 complete
+2025-02-09 22:59:36,648|exercise|INFO|Book 3 3-11 start
+2025-02-09 23:01:00,115|exercise|INFO|Book 3 3-11 complete
+2025-02-09 23:01:00,116|exercise|INFO|Book 3 3-12 start
+2025-02-09 23:03:39,399|exercise|INFO|Book 3 3-12 complete
+2025-02-09 23:03:39,401|exercise_group|INFO|Daily Dozen complete
+2025-02-09 23:03:39,401|exercise_group|INFO|Songs start
+2025-02-09 23:03:43,767|exercise|INFO|Joy of Piano - Clair De Lune, Debussy (p20) start
+2025-02-09 23:09:32,981|exercise|INFO|Joy of Piano - Clair De Lune, Debussy (p20) complete
+2025-02-09 23:09:32,982|exercise|INFO|Easy Piano Classics - Sonatina (Op 36, No 1), Clementi (p60) start
+2025-02-09 23:21:51,185|exercise|INFO|Easy Piano Classics - Sonatina (Op 36, No 1), Clementi (p60) complete
+2025-02-09 23:21:51,187|exercise_group|INFO|Songs complete
+2025-02-09 23:21:51,187|exercise_group|INFO|Repetoire Review start
+2025-02-09 23:21:53,426|exercise_group|INFO|Repetoire Review complete
+2025-02-09 23:21:53,426|session|INFO|session complete
+2025-02-09 23:21:53,464|session|INFO|session saved to data/2025-02-09 22:15.log
+2025-02-11 21:17:46,777|session|INFO|starting session
+2025-02-11 21:17:54,093|exercise_group|INFO|Warm Ups start
+2025-02-11 21:18:16,757|exercise|INFO|Stretch start
+2025-02-11 21:19:02,677|exercise|INFO|Stretch complete
+2025-02-11 21:19:02,678|exercise|INFO|Rock start
+2025-02-11 21:19:31,205|exercise|INFO|Rock complete
+2025-02-11 21:19:31,206|exercise_group|INFO|Warm Ups complete
+2025-02-11 21:19:31,206|exercise_group|INFO|Scales and Chords start
+2025-02-11 21:19:31,853|exercise|INFO|Expanded Scale (C, G) start
+2025-02-11 21:20:30,103|exercise|INFO|Expanded Scale (C, G) complete
+2025-02-11 21:20:30,103|exercise|INFO|Four Octave Scale (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-11 21:34:00,318|exercise|INFO|Four Octave Scale (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-11 21:34:00,318|exercise|INFO|Arpeggio (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-11 21:37:10,462|exercise|INFO|Arpeggio (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-11 21:37:10,463|exercise|INFO|Chromatic Scale (D, Ab) start
+2025-02-11 21:38:12,135|exercise|INFO|Chromatic Scale (D, Ab) complete
+2025-02-11 21:38:12,135|exercise|INFO|Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-11 21:40:06,903|exercise|INFO|Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-11 21:40:06,904|exercise|INFO|Broken Chords (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-11 21:46:03,922|exercise|INFO|Broken Chords (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-11 21:46:03,922|exercise|INFO|Broken Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-11 21:48:41,554|exercise|INFO|Broken Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-11 21:48:41,555|exercise_group|INFO|Scales and Chords complete
+2025-02-11 21:48:41,555|exercise_group|INFO|Daily Dozen start
+2025-02-11 21:49:08,242|exercise_group|INFO|Daily Dozen complete
+2025-02-11 21:49:08,243|exercise_group|INFO|Songs start
+2025-02-11 21:49:08,893|exercise_group|INFO|Songs complete
+2025-02-11 21:49:08,893|exercise_group|INFO|Repetoire Review start
+2025-02-11 21:49:09,493|exercise_group|INFO|Repetoire Review complete
+2025-02-11 21:49:09,494|session|INFO|session complete
+2025-02-11 21:49:09,526|session|INFO|session saved to data/2025-02-11 21:17.log
+2025-02-11 21:50:08,927|session|INFO|starting session
+2025-02-11 21:50:10,595|exercise_group|INFO|Warm Ups start
+2025-02-11 21:50:11,659|exercise_group|INFO|Warm Ups complete
+2025-02-11 21:50:11,659|exercise_group|INFO|Scales and Chords start
+2025-02-11 21:50:13,026|exercise_group|INFO|Scales and Chords complete
+2025-02-11 21:50:13,026|exercise_group|INFO|Daily Dozen start
+2025-02-11 21:50:14,986|exercise|INFO|Book 2 3-10 start
+2025-02-11 21:56:22,737|exercise|INFO|Book 2 3-10 complete
+2025-02-11 21:56:22,737|exercise|INFO|Book 2 4-1 start
+2025-02-11 22:02:14,162|exercise|INFO|Book 2 4-1 complete
+2025-02-11 22:02:14,162|exercise|INFO|Book 2 4-2 start
+2025-02-11 22:07:43,503|exercise|INFO|Book 2 4-2 complete
+2025-02-11 22:07:43,504|exercise_group|INFO|Daily Dozen complete
+2025-02-11 22:07:43,504|exercise_group|INFO|Songs start
+2025-02-11 22:10:39,773|exercise|INFO|Joy of Piano - Clair De Lune, Debussy (p20) start
+2025-02-11 22:31:47,292|exercise|INFO|Joy of Piano - Clair De Lune, Debussy (p20) complete
+2025-02-11 22:31:47,292|exercise|INFO|Easy Piano Classics - Sonatina (Op 36, No 1), Clementi (p60) start
+2025-02-11 23:12:46,897|exercise|INFO|Easy Piano Classics - Sonatina (Op 36, No 1), Clementi (p60) complete
+2025-02-11 23:12:46,899|exercise_group|INFO|Songs complete
+2025-02-11 23:12:46,899|exercise_group|INFO|Repetoire Review start
+2025-02-11 23:12:50,472|exercise_group|INFO|Repetoire Review complete
+2025-02-11 23:12:50,473|session|INFO|session complete
+2025-02-11 23:12:50,501|session|INFO|session saved to data/2025-02-11 21:50.log
+2025-02-12 13:06:55,441|session|INFO|starting session
+2025-02-12 13:06:57,177|exercise_group|INFO|Warm Ups start
+2025-02-12 13:06:58,321|exercise|INFO|Stretch start
+2025-02-12 13:07:51,897|exercise|INFO|Stretch complete
+2025-02-12 13:07:51,898|exercise|INFO|Rock start
+2025-02-12 13:08:06,393|exercise|INFO|Rock complete
+2025-02-12 13:08:06,395|exercise_group|INFO|Warm Ups complete
+2025-02-12 13:08:06,395|exercise_group|INFO|Scales and Chords start
+2025-02-12 13:08:07,953|exercise|INFO|Expanded Scale (C, G) start
+2025-02-12 13:09:43,786|exercise|INFO|Expanded Scale (C, G) complete
+2025-02-12 13:09:43,786|exercise|INFO|Four Octave Scale (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-12 13:17:56,973|exercise|INFO|Four Octave Scale (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-12 13:17:56,974|exercise|INFO|Arpeggio (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-12 13:20:12,970|exercise|INFO|Arpeggio (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-12 13:20:12,970|exercise|INFO|Chromatic Scale (D, Ab) start
+2025-02-12 13:20:36,762|exercise|INFO|Chromatic Scale (D, Ab) complete
+2025-02-12 13:20:36,762|exercise|INFO|Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-12 13:22:58,436|exercise|INFO|Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-12 13:22:58,437|exercise|INFO|Broken Chords (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-12 13:27:19,066|exercise|INFO|Broken Chords (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-12 13:27:19,067|exercise|INFO|Broken Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-12 13:29:53,363|exercise|INFO|Broken Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-12 13:29:53,364|exercise_group|INFO|Scales and Chords complete
+2025-02-12 13:29:53,365|exercise_group|INFO|Daily Dozen start
+2025-02-12 13:31:29,843|exercise|INFO|Book 2 3-10 start
+2025-02-12 13:34:59,731|exercise|INFO|Book 2 3-10 complete
+2025-02-12 13:34:59,732|exercise|INFO|Book 2 4-1 start
+2025-02-12 13:37:59,754|exercise|INFO|Book 2 4-1 complete
+2025-02-12 13:37:59,754|exercise|INFO|Book 2 4-2 start
+2025-02-12 13:43:48,775|exercise|INFO|Book 2 4-2 complete
+2025-02-12 13:43:48,777|exercise_group|INFO|Daily Dozen complete
+2025-02-12 13:43:48,777|exercise_group|INFO|Songs start
+2025-02-12 13:43:50,968|exercise_group|INFO|Songs complete
+2025-02-12 13:43:50,968|exercise_group|INFO|Repetoire Review start
+2025-02-12 13:43:51,872|exercise_group|INFO|Repetoire Review complete
+2025-02-12 13:43:51,872|session|INFO|session complete
+2025-02-12 13:43:51,902|session|INFO|session saved to data/2025-02-12 13:06.log
+2025-02-12 22:05:12,639|session|INFO|starting session
+2025-02-12 22:05:16,369|exercise_group|INFO|Warm Ups start
+2025-02-12 22:05:17,738|exercise_group|INFO|Warm Ups complete
+2025-02-12 22:05:17,738|exercise_group|INFO|Scales and Chords start
+2025-02-12 22:05:18,465|exercise_group|INFO|Scales and Chords complete
+2025-02-12 22:05:18,465|exercise_group|INFO|Daily Dozen start
+2025-02-12 22:05:21,026|exercise_group|INFO|Daily Dozen complete
+2025-02-12 22:05:21,027|exercise_group|INFO|Songs start
+2025-02-12 22:15:27,984|exercise|INFO|Joy of Piano - Clair De Lune, Debussy (p20) start
+2025-02-12 22:19:56,185|exercise|INFO|Joy of Piano - Clair De Lune, Debussy (p20) complete
+2025-02-12 22:19:56,185|exercise|INFO|Easy Piano Classics - Sonatina (Op 36, No 1), Clementi (p60) start
+2025-02-12 22:37:23,295|exercise|INFO|Easy Piano Classics - Sonatina (Op 36, No 1), Clementi (p60) complete
+2025-02-12 22:37:23,297|exercise_group|INFO|Songs complete
+2025-02-12 22:37:23,297|exercise_group|INFO|Repetoire Review start
+2025-02-12 22:37:25,911|exercise_group|INFO|Repetoire Review complete
+2025-02-12 22:37:25,912|session|INFO|session complete
+2025-02-12 22:37:25,936|session|INFO|session saved to data/2025-02-12 22:05.log
+2025-02-13 22:25:43,923|session|INFO|starting session
+2025-02-13 22:25:45,195|exercise_group|INFO|Warm Ups start
+2025-02-13 22:25:46,955|exercise|INFO|Stretch start
+2025-02-13 22:26:19,992|exercise|INFO|Stretch complete
+2025-02-13 22:26:19,993|exercise|INFO|Rock start
+2025-02-13 22:26:48,311|exercise|INFO|Rock complete
+2025-02-13 22:26:48,313|exercise_group|INFO|Warm Ups complete
+2025-02-13 22:26:48,313|exercise_group|INFO|Scales and Chords start
+2025-02-13 22:26:49,327|exercise|INFO|Expanded Scale (C, G) start
+2025-02-13 22:27:44,842|exercise|INFO|Expanded Scale (C, G) complete
+2025-02-13 22:27:44,843|exercise|INFO|Four Octave Scale (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-13 22:35:24,977|exercise|INFO|Four Octave Scale (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-13 22:35:24,977|exercise|INFO|Arpeggio (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-13 22:38:11,903|exercise|INFO|Arpeggio (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-13 22:38:11,903|exercise|INFO|Chromatic Scale (D, Ab) start
+2025-02-13 22:38:36,224|exercise|INFO|Chromatic Scale (D, Ab) complete
+2025-02-13 22:38:36,224|exercise|INFO|Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-13 22:41:30,040|exercise|INFO|Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-13 22:41:30,041|exercise|INFO|Broken Chords (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-13 22:46:10,535|exercise|INFO|Broken Chords (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-13 22:46:10,536|exercise|INFO|Broken Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-13 22:49:19,799|exercise|INFO|Broken Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-13 22:49:19,801|exercise_group|INFO|Scales and Chords complete
+2025-02-13 22:49:19,801|exercise_group|INFO|Daily Dozen start
+2025-02-13 22:49:22,288|exercise|INFO|Book 2 3-10 start
+2025-02-13 22:53:14,473|exercise|INFO|Book 2 3-10 complete
+2025-02-13 22:53:14,473|exercise|INFO|Book 2 4-1 start
+2025-02-13 22:58:18,561|exercise|INFO|Book 2 4-1 complete
+2025-02-13 22:58:18,561|exercise|INFO|Book 2 4-2 start
+2025-02-13 23:07:34,032|exercise|INFO|Book 2 4-2 complete
+2025-02-13 23:07:34,034|exercise_group|INFO|Daily Dozen complete
+2025-02-13 23:07:34,034|exercise_group|INFO|Songs start
+2025-02-13 23:09:17,960|exercise|INFO|Joy of Piano - Clair De Lune, Debussy (p20) start
+2025-02-13 23:26:37,476|exercise|INFO|Joy of Piano - Clair De Lune, Debussy (p20) complete
+2025-02-13 23:26:37,476|exercise|INFO|Easy Piano Classics - Sonatina (Op 36, No 1), Clementi (p60) start
+2025-02-13 23:40:45,935|exercise|INFO|Easy Piano Classics - Sonatina (Op 36, No 1), Clementi (p60) complete
+2025-02-13 23:40:45,936|exercise_group|INFO|Songs complete
+2025-02-13 23:40:45,937|exercise_group|INFO|Repetoire Review start
+2025-02-13 23:40:47,170|exercise_group|INFO|Repetoire Review complete
+2025-02-13 23:40:47,172|session|INFO|session complete
+2025-02-13 23:40:47,204|session|INFO|session saved to data/2025-02-13 22:25.log
+2025-02-14 19:13:34,472|session|INFO|starting session
+2025-02-14 19:13:42,618|exercise_group|INFO|Warm Ups start
+2025-02-14 19:13:55,578|exercise|INFO|Stretch start
+2025-02-14 19:14:17,929|exercise|INFO|Stretch complete
+2025-02-14 19:14:17,930|exercise|INFO|Rock start
+2025-02-14 19:14:30,602|exercise|INFO|Rock complete
+2025-02-14 19:14:30,607|exercise_group|INFO|Warm Ups complete
+2025-02-14 19:14:30,607|exercise_group|INFO|Scales and Chords start
+2025-02-14 19:14:53,369|exercise|INFO|Expanded Scale (C, G) start
+2025-02-14 19:15:50,594|exercise|INFO|Expanded Scale (C, G) complete
+2025-02-14 19:15:50,595|exercise|INFO|Four Octave Scale (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-14 19:24:42,445|exercise|INFO|Four Octave Scale (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-14 19:24:42,445|exercise|INFO|Arpeggio (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-14 19:27:04,521|exercise|INFO|Arpeggio (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-14 19:27:04,522|exercise|INFO|Chromatic Scale (D, Ab) start
+2025-02-14 19:27:27,657|exercise|INFO|Chromatic Scale (D, Ab) complete
+2025-02-14 19:27:27,658|exercise|INFO|Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-14 19:29:57,184|exercise|INFO|Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-14 19:29:57,185|exercise|INFO|Broken Chords (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-14 19:34:36,296|exercise|INFO|Broken Chords (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-14 19:34:36,296|exercise|INFO|Broken Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-14 19:37:20,901|exercise|INFO|Broken Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-14 19:37:20,908|exercise_group|INFO|Scales and Chords complete
+2025-02-14 19:37:20,908|exercise_group|INFO|Daily Dozen start
+2025-02-14 19:37:22,394|exercise_group|INFO|Daily Dozen complete
+2025-02-14 19:37:22,394|exercise_group|INFO|Songs start
+2025-02-14 19:37:33,546|exercise_group|INFO|Songs complete
+2025-02-14 19:37:33,546|exercise_group|INFO|Repetoire Review start
+2025-02-14 19:37:35,291|exercise_group|INFO|Repetoire Review complete
+2025-02-14 19:37:35,292|session|INFO|session complete
+2025-02-14 19:37:35,311|session|INFO|session saved to data/2025-02-14 19:13.log
+2025-02-14 20:04:29,763|session|INFO|starting session
+2025-02-14 20:04:31,579|exercise_group|INFO|Warm Ups start
+2025-02-14 20:04:36,813|exercise_group|INFO|Warm Ups complete
+2025-02-14 20:04:36,814|exercise_group|INFO|Scales and Chords start
+2025-02-14 20:04:38,337|exercise_group|INFO|Scales and Chords complete
+2025-02-14 20:04:38,337|exercise_group|INFO|Daily Dozen start
+2025-02-14 20:04:39,995|exercise|INFO|Book 2 3-10 start
+2025-02-14 20:07:39,763|exercise|INFO|Book 2 3-10 complete
+2025-02-14 20:07:39,763|exercise|INFO|Book 2 4-1 start
+2025-02-14 20:10:53,852|exercise|INFO|Book 2 4-1 complete
+2025-02-14 20:10:53,852|exercise|INFO|Book 2 4-2 start
+2025-02-14 20:17:59,579|exercise|INFO|Book 2 4-2 complete
+2025-02-14 20:17:59,586|exercise_group|INFO|Daily Dozen complete
+2025-02-14 20:17:59,586|exercise_group|INFO|Songs start
+2025-02-14 20:18:02,446|exercise_group|INFO|Songs complete
+2025-02-14 20:18:02,446|exercise_group|INFO|Repetoire Review start
+2025-02-14 20:18:03,254|exercise_group|INFO|Repetoire Review complete
+2025-02-14 20:18:03,255|session|INFO|session complete
+2025-02-14 20:18:03,264|session|INFO|session saved to data/2025-02-14 20:04.log
+2025-02-14 21:37:51,251|session|INFO|starting session
+2025-02-14 21:37:52,467|exercise_group|INFO|Warm Ups start
+2025-02-14 21:37:53,871|exercise_group|INFO|Warm Ups complete
+2025-02-14 21:37:53,871|exercise_group|INFO|Scales and Chords start
+2025-02-14 21:37:54,958|exercise_group|INFO|Scales and Chords complete
+2025-02-14 21:37:54,958|exercise_group|INFO|Daily Dozen start
+2025-02-14 21:37:56,319|exercise_group|INFO|Daily Dozen complete
+2025-02-14 21:37:56,319|exercise_group|INFO|Songs start
+2025-02-14 21:37:57,180|exercise|INFO|Joy of Piano - Clair De Lune, Debussy (p20) start
+2025-02-14 21:50:21,647|exercise|INFO|Joy of Piano - Clair De Lune, Debussy (p20) complete
+2025-02-14 21:50:21,648|exercise|INFO|Easy Piano Classics - Sonatina (Op 36, No 1), Clementi (p60) start
+2025-02-14 22:09:07,247|exercise|INFO|Easy Piano Classics - Sonatina (Op 36, No 1), Clementi (p60) complete
+2025-02-14 22:09:07,252|exercise_group|INFO|Songs complete
+2025-02-14 22:09:07,252|exercise_group|INFO|Repetoire Review start
+2025-02-14 22:09:08,337|exercise_group|INFO|Repetoire Review complete
+2025-02-14 22:09:08,337|session|INFO|session complete
+2025-02-14 22:09:08,346|session|INFO|session saved to data/2025-02-14 21:37.log
+2025-02-15 11:20:59,435|session|INFO|starting session
+2025-02-15 11:21:01,509|exercise_group|INFO|Warm Ups start
+2025-02-15 11:21:23,101|exercise|INFO|Stretch start
+2025-02-15 11:21:54,029|exercise|INFO|Stretch complete
+2025-02-15 11:21:54,029|exercise|INFO|Rock start
+2025-02-15 11:21:58,093|exercise|INFO|Rock complete
+2025-02-15 11:21:58,098|exercise_group|INFO|Warm Ups complete
+2025-02-15 11:21:58,098|exercise_group|INFO|Scales and Chords start
+2025-02-15 11:22:00,188|exercise|INFO|Expanded Scale (C, G) start
+2025-02-15 11:23:28,205|exercise|INFO|Expanded Scale (C, G) complete
+2025-02-15 11:23:28,206|exercise|INFO|Four Octave Scale (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-15 11:30:31,661|exercise|INFO|Four Octave Scale (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-15 11:30:31,661|exercise|INFO|Arpeggio (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-15 11:33:43,957|exercise|INFO|Arpeggio (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-15 11:33:43,957|exercise|INFO|Chromatic Scale (D, Ab) start
+2025-02-15 11:34:12,596|exercise|INFO|Chromatic Scale (D, Ab) complete
+2025-02-15 11:34:12,597|exercise|INFO|Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-15 11:36:10,180|exercise|INFO|Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-15 11:36:10,180|exercise|INFO|Broken Chords (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-15 11:42:42,965|exercise|INFO|Broken Chords (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-15 11:42:42,966|exercise|INFO|Broken Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-15 11:48:08,494|exercise|INFO|Broken Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-15 11:48:08,500|exercise_group|INFO|Scales and Chords complete
+2025-02-15 11:48:08,500|exercise_group|INFO|Daily Dozen start
+2025-02-15 11:48:10,288|exercise_group|INFO|Daily Dozen complete
+2025-02-15 11:48:10,288|exercise_group|INFO|Songs start
+2025-02-15 11:48:10,889|exercise_group|INFO|Songs complete
+2025-02-15 11:48:10,889|exercise_group|INFO|Repetoire Review start
+2025-02-15 11:48:11,704|exercise_group|INFO|Repetoire Review complete
+2025-02-15 11:48:11,705|session|INFO|session complete
+2025-02-15 11:48:11,721|session|INFO|session saved to data/2025-02-15 11:20.log
+2025-02-15 12:38:40,639|session|INFO|starting session
+2025-02-15 12:38:41,765|exercise_group|INFO|Warm Ups start
+2025-02-15 12:38:42,483|exercise_group|INFO|Warm Ups complete
+2025-02-15 12:38:42,483|exercise_group|INFO|Scales and Chords start
+2025-02-15 12:38:44,704|exercise_group|INFO|Scales and Chords complete
+2025-02-15 12:38:44,705|exercise_group|INFO|Daily Dozen start
+2025-02-15 12:38:26,406|exercise|INFO|Book 2 3-10 start
+2025-02-15 12:43:56,060|exercise|INFO|Book 2 3-10 complete
+2025-02-15 12:43:56,060|exercise|INFO|Book 2 4-1 start
+2025-02-15 12:48:06,460|exercise|INFO|Book 2 4-1 complete
+2025-02-15 12:48:06,460|exercise|INFO|Book 2 4-2 start
+2025-02-15 12:52:52,155|exercise|INFO|Book 2 4-2 complete
+2025-02-15 12:52:52,160|exercise_group|INFO|Daily Dozen complete
+2025-02-15 12:52:52,160|exercise_group|INFO|Songs start
+2025-02-15 12:52:53,581|exercise_group|INFO|Songs complete
+2025-02-15 12:52:53,582|exercise_group|INFO|Repetoire Review start
+2025-02-15 12:52:54,782|exercise_group|INFO|Repetoire Review complete
+2025-02-15 12:52:54,783|session|INFO|session complete
+2025-02-15 12:52:54,792|session|INFO|session saved to data/2025-02-15 12:38.log
+2025-02-15 16:33:13,648|session|INFO|starting session: 2025-02-15 16:33
+2025-02-15 16:33:14,774|exercise_group|INFO|Warm Ups start
+2025-02-15 16:33:16,656|exercise_group|INFO|Warm Ups complete
+2025-02-15 16:33:16,657|exercise_group|INFO|Scales and Chords start
+2025-02-15 16:33:17,192|exercise_group|INFO|Scales and Chords complete
+2025-02-15 16:33:17,193|exercise_group|INFO|Daily Dozen start
+2025-02-15 16:33:18,817|exercise_group|INFO|Daily Dozen complete
+2025-02-15 16:33:18,817|exercise_group|INFO|Songs start
+2025-02-15 16:33:21,230|exercise|INFO|Joy of Piano - Clair De Lune, Debussy (p20) start
+2025-02-15 16:37:44,524|exercise|INFO|Joy of Piano - Clair De Lune, Debussy (p20) complete
+2025-02-15 16:37:44,529|exercise_group|INFO|Songs complete
+2025-02-15 16:37:44,529|exercise_group|INFO|Repetoire Review start
+2025-02-15 16:37:46,200|exercise_group|INFO|Repetoire Review complete
+2025-02-15 16:37:46,200|session|INFO|session complete: 2025-02-15 16:33
+2025-02-15 16:37:46,207|session|INFO|session saved to data/2025-02-15 16:33.log
+2025-02-15 20:13:29,637|session|INFO|starting session: 2025-02-15 20:13
+2025-02-15 20:13:30,517|exercise_group|INFO|Warm Ups start
+2025-02-15 20:13:31,736|exercise_group|INFO|Warm Ups complete
+2025-02-15 20:13:31,736|exercise_group|INFO|Scales and Chords start
+2025-02-15 20:13:32,232|exercise_group|INFO|Scales and Chords complete
+2025-02-15 20:13:32,232|exercise_group|INFO|Daily Dozen start
+2025-02-15 20:13:33,063|exercise_group|INFO|Daily Dozen complete
+2025-02-15 20:13:33,064|exercise_group|INFO|Songs start
+2025-02-15 20:13:33,845|exercise|INFO|Joy of Piano - Clair De Lune, Debussy (p20) start
+2025-02-15 20:41:23,990|exercise|INFO|Joy of Piano - Clair De Lune, Debussy (p20) complete
+2025-02-15 20:41:23,991|exercise|INFO|Easy Piano Classics - Sonatina (Op 36, No 1), Clementi (p60) start
+2025-02-15 21:03:44,042|exercise|INFO|Easy Piano Classics - Sonatina (Op 36, No 1), Clementi (p60) complete
+2025-02-15 21:03:44,047|exercise_group|INFO|Songs complete
+2025-02-15 21:03:44,047|exercise_group|INFO|Repetoire Review start
+2025-02-15 21:03:46,277|exercise_group|INFO|Repetoire Review complete
+2025-02-15 21:03:46,277|session|INFO|session complete: 2025-02-15 20:13
+2025-02-15 21:03:46,287|session|INFO|session saved to data/2025-02-15 20:13.log
+2025-02-16 14:59:02,701|session|INFO|starting session: 2025-02-16 14:59
+2025-02-16 14:59:03,678|exercise_group|INFO|Warm Ups start
+2025-02-16 14:59:08,814|exercise|INFO|Stretch start
+2025-02-16 14:59:28,390|exercise|INFO|Stretch complete
+2025-02-16 14:59:28,390|exercise|INFO|Rock start
+2025-02-16 14:59:50,510|exercise|INFO|Rock complete
+2025-02-16 14:59:50,514|exercise_group|INFO|Warm Ups complete
+2025-02-16 14:59:50,515|exercise_group|INFO|Scales and Chords start
+2025-02-16 15:00:11,641|exercise|INFO|Expanded Scale (C, G) start
+2025-02-16 15:01:23,422|exercise|INFO|Expanded Scale (C, G) complete
+2025-02-16 15:01:23,422|exercise|INFO|Four Octave Scale (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-16 15:07:04,154|exercise|INFO|Four Octave Scale (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-16 15:07:04,155|exercise|INFO|Arpeggio (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-16 15:09:09,301|exercise|INFO|Arpeggio (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-16 15:09:09,302|exercise|INFO|Chromatic Scale (D, Ab) start
+2025-02-16 15:09:47,395|exercise|INFO|Chromatic Scale (D, Ab) complete
+2025-02-16 15:09:47,395|exercise|INFO|Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-16 15:11:39,915|exercise|INFO|Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-16 15:11:39,915|exercise|INFO|Broken Chords (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-16 15:17:24,250|exercise|INFO|Broken Chords (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-16 15:17:24,250|exercise|INFO|Broken Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-16 15:20:23,385|exercise|INFO|Broken Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-16 15:20:23,393|exercise_group|INFO|Scales and Chords complete
+2025-02-16 15:20:23,393|exercise_group|INFO|Daily Dozen start
+2025-02-16 15:20:24,577|exercise|INFO|Book 2 3-10 start
+2025-02-16 15:24:04,048|exercise|INFO|Book 2 3-10 complete
+2025-02-16 15:24:04,049|exercise|INFO|Book 2 4-1 start
+2025-02-16 15:26:11,944|exercise|INFO|Book 2 4-1 complete
+2025-02-16 15:26:11,944|exercise|INFO|Book 2 4-2 start
+2025-02-16 15:32:14,973|exercise|INFO|Book 2 4-2 complete
+2025-02-16 15:32:14,979|exercise_group|INFO|Daily Dozen complete
+2025-02-16 15:32:14,979|exercise_group|INFO|Songs start
+2025-02-16 15:32:16,526|exercise_group|INFO|Songs complete
+2025-02-16 15:32:16,526|exercise_group|INFO|Repetoire Review start
+2025-02-16 15:32:17,526|exercise_group|INFO|Repetoire Review complete
+2025-02-16 15:32:17,526|session|INFO|session complete: 2025-02-16 14:59
+2025-02-16 15:32:17,548|session|INFO|session saved to data/2025-02-16 14:59.log
+2025-02-16 20:30:23,426|session|INFO|starting session: 2025-02-16 20:30
+2025-02-16 20:30:24,852|exercise_group|INFO|Warm Ups start
+2025-02-16 20:30:26,079|exercise_group|INFO|Warm Ups complete
+2025-02-16 20:30:26,079|exercise_group|INFO|Scales and Chords start
+2025-02-16 20:30:27,438|exercise_group|INFO|Scales and Chords complete
+2025-02-16 20:30:27,438|exercise_group|INFO|Daily Dozen start
+2025-02-16 20:30:29,478|exercise_group|INFO|Daily Dozen complete
+2025-02-16 20:30:29,478|exercise_group|INFO|Songs start
+2025-02-16 20:30:32,339|exercise|INFO|Easy Piano Classics - Sonatina (Op 36, No 1), Clementi (p60) start
+2025-02-16 21:18:07,663|exercise|INFO|Easy Piano Classics - Sonatina (Op 36, No 1), Clementi (p60) complete
+2025-02-16 21:18:07,664|exercise|INFO|Joy of Piano - Clair De Lune, Debussy (p20) start
+2025-02-16 21:18:07,691|exercise|INFO|Joy of Piano - Clair De Lune, Debussy (p20) complete
+2025-02-16 21:18:07,695|exercise_group|INFO|Songs complete
+2025-02-16 21:18:07,695|exercise_group|INFO|Repetoire Review start
+2025-02-16 21:18:14,857|exercise_group|INFO|Repetoire Review complete
+2025-02-16 21:18:14,858|session|INFO|session complete: 2025-02-16 20:30
+2025-02-16 21:18:14,866|session|INFO|session saved to data/2025-02-16 20:30.log
+2025-02-18 14:36:39,078|session|INFO|starting session: 2025-02-18 14:36
+2025-02-18 14:36:39,674|exercise_group|INFO|Warm Ups start
+2025-02-18 14:36:41,296|exercise|INFO|Stretch start
+2025-02-18 14:37:15,106|exercise|INFO|Stretch complete
+2025-02-18 14:37:15,106|exercise|INFO|Rock start
+2025-02-18 14:37:41,153|exercise|INFO|Rock complete
+2025-02-18 14:37:41,158|exercise_group|INFO|Warm Ups complete
+2025-02-18 14:37:41,158|exercise_group|INFO|Scales and Chords start
+2025-02-18 14:37:43,088|exercise|INFO|Expanded Scale (C, G) start
+2025-02-18 14:38:48,155|exercise|INFO|Expanded Scale (C, G) complete
+2025-02-18 14:38:48,155|exercise|INFO|Four Octave Scale (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-18 14:43:21,023|exercise|INFO|Four Octave Scale (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-18 14:43:21,024|exercise|INFO|Arpeggio (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-18 14:45:46,159|exercise|INFO|Arpeggio (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-18 14:45:46,160|exercise|INFO|Chromatic Scale (D, Ab) start
+2025-02-18 14:46:19,207|exercise|INFO|Chromatic Scale (D, Ab) complete
+2025-02-18 14:46:19,207|exercise|INFO|Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-18 14:48:06,736|exercise|INFO|Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-18 14:48:06,737|exercise|INFO|Broken Chords (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-18 14:51:29,918|exercise|INFO|Broken Chords (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-18 14:51:29,918|exercise|INFO|Broken Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-18 14:53:22,229|exercise|INFO|Broken Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-18 14:53:22,238|exercise_group|INFO|Scales and Chords complete
+2025-02-18 14:53:22,238|exercise_group|INFO|Daily Dozen start
+2025-02-18 14:53:23,128|exercise_group|INFO|Daily Dozen complete
+2025-02-18 14:53:23,128|exercise_group|INFO|Songs start
+2025-02-18 14:53:23,439|exercise_group|INFO|Songs complete
+2025-02-18 14:53:23,440|exercise_group|INFO|Repetoire Review start
+2025-02-18 14:53:24,040|exercise_group|INFO|Repetoire Review complete
+2025-02-18 14:53:24,041|session|INFO|session complete: 2025-02-18 14:36
+2025-02-18 14:53:24,059|session|INFO|session saved to data/2025-02-18 14:36.log
+2025-02-18 20:32:40,839|session|INFO|starting session: 2025-02-18 20:32
+2025-02-18 20:32:41,942|exercise_group|INFO|Warm Ups start
+2025-02-18 20:32:43,705|exercise_group|INFO|Warm Ups complete
+2025-02-18 20:32:43,705|exercise_group|INFO|Scales and Chords start
+2025-02-18 20:32:45,041|exercise_group|INFO|Scales and Chords complete
+2025-02-18 20:32:45,041|exercise_group|INFO|Daily Dozen start
+2025-02-18 20:33:28,072|exercise_group|INFO|Daily Dozen complete
+2025-02-18 20:33:28,073|exercise_group|INFO|Songs start
+2025-02-18 20:33:28,537|exercise_group|INFO|Songs complete
+2025-02-18 20:33:28,537|exercise_group|INFO|Repetoire Review start
+2025-02-18 20:33:29,528|exercise_group|INFO|Repetoire Review complete
+2025-02-18 20:33:29,529|session|INFO|session complete: 2025-02-18 20:32
+2025-02-18 20:33:29,532|session|INFO|session saved to data/2025-02-18 20:32.log
+2025-02-18 20:35:16,456|session|INFO|starting session: 2025-02-18 20:35
+2025-02-18 20:35:18,231|exercise_group|INFO|Warm Ups start
+2025-02-18 20:35:19,898|exercise_group|INFO|Warm Ups complete
+2025-02-18 20:35:19,898|exercise_group|INFO|Scales and Chords start
+2025-02-18 20:35:21,290|exercise_group|INFO|Scales and Chords complete
+2025-02-18 20:35:21,291|exercise_group|INFO|Daily Dozen start
+2025-02-18 20:35:29,455|exercise|INFO|Book 2 4-1 start
+2025-02-18 20:39:23,302|exercise|INFO|Book 2 4-1 complete
+2025-02-18 20:39:23,303|exercise|INFO|Book 2 4-2 start
+2025-02-18 20:44:35,278|exercise|INFO|Book 2 4-2 complete
+2025-02-18 20:44:35,278|exercise|INFO|Book 2 4-3 start
+2025-02-18 20:46:40,405|exercise|INFO|Book 2 4-3 complete
+2025-02-18 20:46:40,406|exercise|INFO|Book 2 4-4 start
+2025-02-18 20:47:51,309|exercise|INFO|Book 2 4-4 complete
+2025-02-18 20:47:51,309|exercise|INFO|Book 2 4-5 start
+2025-02-18 20:49:26,669|exercise|INFO|Book 2 4-5 complete
+2025-02-18 20:49:26,669|exercise|INFO|Book 2 4-6 start
+2025-02-18 20:55:12,795|exercise|INFO|Book 2 4-6 complete
+2025-02-18 20:55:12,803|exercise_group|INFO|Daily Dozen complete
+2025-02-18 20:55:12,803|exercise_group|INFO|Songs start
+2025-02-18 20:55:16,836|exercise|INFO|Joy of Piano - Clair De Lune, Debussy (p20) start
+2025-02-18 21:01:28,350|exercise|INFO|Joy of Piano - Clair De Lune, Debussy (p20) complete
+2025-02-18 21:01:28,350|exercise|INFO|Easy Piano Classics - Sonatina (Op 36, No 1), Clementi (p60) start
+2025-02-18 21:13:29,451|exercise|INFO|Easy Piano Classics - Sonatina (Op 36, No 1), Clementi (p60) complete
+2025-02-18 21:13:29,456|exercise_group|INFO|Songs complete
+2025-02-18 21:13:29,457|exercise_group|INFO|Repetoire Review start
+2025-02-18 21:13:31,348|exercise_group|INFO|Repetoire Review complete
+2025-02-18 21:13:31,349|session|INFO|session complete: 2025-02-18 20:35
+2025-02-18 21:13:31,366|session|INFO|session saved to data/2025-02-18 20:35.log
+2025-02-19 17:29:58,495|session|INFO|starting session: 2025-02-19 17:29
+2025-02-19 17:29:58,999|exercise_group|INFO|Warm Ups start
+2025-02-19 17:30:01,518|exercise|INFO|Stretch start
+2025-02-19 17:30:29,199|exercise|INFO|Stretch complete
+2025-02-19 17:30:29,199|exercise|INFO|Rock start
+2025-02-19 17:30:43,823|exercise|INFO|Rock complete
+2025-02-19 17:30:43,827|exercise_group|INFO|Warm Ups complete
+2025-02-19 17:30:43,827|exercise_group|INFO|Scales and Chords start
+2025-02-19 17:30:46,343|exercise|INFO|Expanded Scale (C, G) start
+2025-02-19 17:32:05,806|exercise|INFO|Expanded Scale (C, G) complete
+2025-02-19 17:32:05,807|exercise|INFO|Four Octave Scale (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-19 17:38:35,020|exercise|INFO|Four Octave Scale (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-19 17:38:35,020|exercise|INFO|Arpeggio (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-19 17:40:46,606|exercise|INFO|Arpeggio (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-19 17:40:46,607|exercise|INFO|Chromatic Scale (D, Ab) start
+2025-02-19 17:41:08,294|exercise|INFO|Chromatic Scale (D, Ab) complete
+2025-02-19 17:41:08,295|exercise|INFO|Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-19 17:44:22,246|exercise|INFO|Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-19 17:44:22,247|exercise|INFO|Broken Chords (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-19 17:49:20,157|exercise|INFO|Broken Chords (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-19 17:49:20,158|exercise|INFO|Broken Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-19 17:52:25,958|exercise|INFO|Broken Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-19 17:52:25,966|exercise_group|INFO|Scales and Chords complete
+2025-02-19 17:52:25,966|exercise_group|INFO|Daily Dozen start
+2025-02-19 17:52:29,007|exercise_group|INFO|Daily Dozen complete
+2025-02-19 17:52:29,007|exercise_group|INFO|Songs start
+2025-02-19 17:52:29,455|exercise_group|INFO|Songs complete
+2025-02-19 17:52:29,455|exercise_group|INFO|Repetoire Review start
+2025-02-19 17:52:29,990|exercise_group|INFO|Repetoire Review complete
+2025-02-19 17:52:29,991|session|INFO|session complete: 2025-02-19 17:29
+2025-02-19 17:52:30,008|session|INFO|session saved to data/2025-02-19 17:29.log
+2025-02-19 21:14:18,784|session|INFO|starting session: 2025-02-19 21:14
+2025-02-19 21:14:19,787|exercise_group|INFO|Warm Ups start
+2025-02-19 21:14:21,286|exercise_group|INFO|Warm Ups complete
+2025-02-19 21:14:21,286|exercise_group|INFO|Scales and Chords start
+2025-02-19 21:14:22,733|exercise_group|INFO|Scales and Chords complete
+2025-02-19 21:14:22,733|exercise_group|INFO|Daily Dozen start
+2025-02-19 21:14:23,603|exercise|INFO|Book 2 3-10 start
+2025-02-19 21:16:40,427|exercise|INFO|Book 2 3-10 complete
+2025-02-19 21:16:40,427|exercise|INFO|Book 2 4-1 start
+2025-02-19 21:18:37,050|exercise|INFO|Book 2 4-1 complete
+2025-02-19 21:18:37,051|exercise|INFO|Book 2 4-2 start
+2025-02-19 21:20:28,387|exercise|INFO|Book 2 4-2 complete
+2025-02-19 21:20:28,387|exercise|INFO|Book 2 4-3 start
+2025-02-19 21:21:25,756|exercise|INFO|Book 2 4-3 complete
+2025-02-19 21:21:25,756|exercise|INFO|Book 2 4-4 start
+2025-02-19 21:21:58,508|exercise|INFO|Book 2 4-4 complete
+2025-02-19 21:21:58,508|exercise|INFO|Book 2 4-5 start
+2025-02-19 21:23:06,732|exercise|INFO|Book 2 4-5 complete
+2025-02-19 21:23:06,732|exercise|INFO|Book 2 4-6 start
+2025-02-19 21:26:34,628|exercise|INFO|Book 2 4-6 complete
+2025-02-19 21:26:34,637|exercise_group|INFO|Daily Dozen complete
+2025-02-19 21:26:34,637|exercise_group|INFO|Songs start
+2025-02-19 21:26:35,420|exercise|INFO|Joy of Piano - Clair De Lune, Debussy (p20) start
+2025-02-19 21:34:46,018|exercise|INFO|Joy of Piano - Clair De Lune, Debussy (p20) complete
+2025-02-19 21:34:46,018|exercise|INFO|Easy Piano Classics - Sonatina (Op 36, No 1), Clementi (p60) start
+2025-02-19 22:03:35,710|exercise|INFO|Easy Piano Classics - Sonatina (Op 36, No 1), Clementi (p60) complete
+2025-02-19 22:03:35,715|exercise_group|INFO|Songs complete
+2025-02-19 22:03:35,715|exercise_group|INFO|Repetoire Review start
+2025-02-19 22:03:38,529|exercise_group|INFO|Repetoire Review complete
+2025-02-19 22:03:38,529|session|INFO|session complete: 2025-02-19 21:14
+2025-02-19 22:03:38,547|session|INFO|session saved to data/2025-02-19 21:14.log
+2025-02-20 21:43:15,069|session|INFO|starting session: 2025-02-20 21:43
+2025-02-20 21:43:17,510|exercise_group|INFO|Warm Ups start
+2025-02-20 21:43:21,478|exercise|INFO|Stretch start
+2025-02-20 21:43:40,918|exercise|INFO|Stretch complete
+2025-02-20 21:43:40,918|exercise|INFO|Rock start
+2025-02-20 21:44:07,709|exercise|INFO|Rock complete
+2025-02-20 21:44:07,714|exercise_group|INFO|Warm Ups complete
+2025-02-20 21:44:07,714|exercise_group|INFO|Scales and Chords start
+2025-02-20 21:44:08,901|exercise|INFO|Expanded Scale (C, G) start
+2025-02-20 21:45:37,677|exercise|INFO|Expanded Scale (C, G) complete
+2025-02-20 21:45:37,677|exercise|INFO|Four Octave Scale (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-20 21:50:30,327|exercise|INFO|Four Octave Scale (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-20 21:50:30,327|exercise|INFO|Arpeggio (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-20 21:52:27,008|exercise|INFO|Arpeggio (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-20 21:52:27,008|exercise|INFO|Chromatic Scale (D, Ab) start
+2025-02-20 21:52:52,992|exercise|INFO|Chromatic Scale (D, Ab) complete
+2025-02-20 21:52:52,992|exercise|INFO|Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-20 21:54:25,943|exercise|INFO|Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-20 21:54:25,943|exercise|INFO|Broken Chords (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-20 22:03:41,478|exercise|INFO|Broken Chords (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-20 22:03:41,479|exercise|INFO|Broken Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-20 22:06:33,862|exercise|INFO|Broken Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-20 22:06:33,870|exercise_group|INFO|Scales and Chords complete
+2025-02-20 22:06:33,870|exercise_group|INFO|Daily Dozen start
+2025-02-20 22:06:34,663|exercise|INFO|Book 2 3-10 start
+2025-02-20 22:11:21,056|exercise|INFO|Book 2 3-10 complete
+2025-02-20 22:11:21,056|exercise|INFO|Book 2 4-1 start
+2025-02-20 22:12:26,784|exercise|INFO|Book 2 4-1 complete
+2025-02-20 22:12:26,784|exercise|INFO|Book 2 4-2 start
+2025-02-20 22:15:06,929|exercise|INFO|Book 2 4-2 complete
+2025-02-20 22:15:06,929|exercise|INFO|Book 2 4-3 start
+2025-02-20 22:16:22,385|exercise|INFO|Book 2 4-3 complete
+2025-02-20 22:16:22,386|exercise|INFO|Book 2 4-4 start
+2025-02-20 22:17:13,409|exercise|INFO|Book 2 4-4 complete
+2025-02-20 22:17:13,410|exercise|INFO|Book 2 4-5 start
+2025-02-20 22:18:21,122|exercise|INFO|Book 2 4-5 complete
+2025-02-20 22:18:21,122|exercise|INFO|Book 2 4-6 start
+2025-02-20 22:21:06,242|exercise|INFO|Book 2 4-6 complete
+2025-02-20 22:21:06,249|exercise_group|INFO|Daily Dozen complete
+2025-02-20 22:21:06,249|exercise_group|INFO|Songs start
+2025-02-20 22:21:13,219|exercise|INFO|Joy of Piano - Clair De Lune, Debussy (p20) start
+2025-02-20 22:30:33,045|exercise|INFO|Joy of Piano - Clair De Lune, Debussy (p20) complete
+2025-02-20 22:30:33,045|exercise|INFO|Easy Piano Classics - Sonatina (Op 36, No 1), Clementi (p60) start
+2025-02-20 22:40:04,887|exercise|INFO|Easy Piano Classics - Sonatina (Op 36, No 1), Clementi (p60) complete
+2025-02-20 22:40:04,891|exercise_group|INFO|Songs complete
+2025-02-20 22:40:04,891|exercise_group|INFO|Repetoire Review start
+2025-02-20 22:40:06,146|exercise_group|INFO|Repetoire Review complete
+2025-02-20 22:40:06,146|session|INFO|session complete: 2025-02-20 21:43
+2025-02-20 22:40:06,175|session|INFO|session saved to data/2025-02-20 21:43.log
+2025-02-21 08:21:10,056|session|INFO|starting session: 2025-02-21 08:21
+2025-02-21 08:21:10,978|exercise_group|INFO|Warm Ups start
+2025-02-21 08:21:47,756|exercise|INFO|Stretch start
+2025-02-21 08:22:18,676|exercise|INFO|Stretch complete
+2025-02-21 08:22:18,676|exercise|INFO|Rock start
+2025-02-21 08:22:42,388|exercise|INFO|Rock complete
+2025-02-21 08:22:42,391|exercise_group|INFO|Warm Ups complete
+2025-02-21 08:22:42,391|exercise_group|INFO|Scales and Chords start
+2025-02-21 08:22:43,467|exercise|INFO|Expanded Scale (C, G) start
+2025-02-21 08:24:19,820|exercise|INFO|Expanded Scale (C, G) complete
+2025-02-21 08:24:19,821|exercise|INFO|Four Octave Scale (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-21 08:30:13,742|exercise|INFO|Four Octave Scale (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-21 08:30:13,742|exercise|INFO|Arpeggio (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-21 08:32:20,277|exercise|INFO|Arpeggio (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-21 08:32:20,278|exercise|INFO|Chromatic Scale (D, Ab) start
+2025-02-21 08:32:47,510|exercise|INFO|Chromatic Scale (D, Ab) complete
+2025-02-21 08:32:47,510|exercise|INFO|Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-21 08:34:21,127|exercise|INFO|Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-21 08:34:21,127|exercise|INFO|Broken Chords (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-21 08:39:31,624|exercise|INFO|Broken Chords (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-21 08:39:31,625|exercise|INFO|Broken Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-21 08:41:49,209|exercise|INFO|Broken Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-21 08:41:49,217|exercise_group|INFO|Scales and Chords complete
+2025-02-21 08:41:49,217|exercise_group|INFO|Daily Dozen start
+2025-02-21 08:41:56,552|exercise|INFO|Book 2 3-10 start
+2025-02-21 08:44:17,279|exercise|INFO|Book 2 3-10 complete
+2025-02-21 08:44:17,279|exercise|INFO|Book 2 4-1 start
+2025-02-21 08:45:23,974|exercise|INFO|Book 2 4-1 complete
+2025-02-21 08:45:23,974|exercise|INFO|Book 2 4-2 start
+2025-02-21 08:46:55,159|exercise|INFO|Book 2 4-2 complete
+2025-02-21 08:46:55,159|exercise|INFO|Book 2 4-3 start
+2025-02-21 08:47:16,215|exercise|INFO|Book 2 4-3 complete
+2025-02-21 08:47:16,215|exercise|INFO|Book 2 4-4 start
+2025-02-21 08:47:37,509|exercise|INFO|Book 2 4-4 complete
+2025-02-21 08:47:37,510|exercise|INFO|Book 2 4-5 start
+2025-02-21 08:48:08,639|exercise|INFO|Book 2 4-5 complete
+2025-02-21 08:48:08,640|exercise|INFO|Book 2 4-6 start
+2025-02-21 08:49:50,190|exercise|INFO|Book 2 4-6 complete
+2025-02-21 08:49:50,197|exercise_group|INFO|Daily Dozen complete
+2025-02-21 08:49:50,197|exercise_group|INFO|Songs start
+2025-02-21 08:49:51,322|exercise_group|INFO|Songs complete
+2025-02-21 08:49:51,322|exercise_group|INFO|Repetoire Review start
+2025-02-21 08:49:55,249|exercise_group|INFO|Repetoire Review complete
+2025-02-21 08:49:55,249|session|INFO|session complete: 2025-02-21 08:21
+2025-02-21 08:49:55,275|session|INFO|session saved to data/2025-02-21 08:21.log
+2025-02-22 11:38:02,927|session|INFO|starting session: 2025-02-22 11:38
+2025-02-22 11:38:03,535|exercise_group|INFO|Warm Ups start
+2025-02-22 11:38:05,696|exercise|INFO|Stretch start
+2025-02-22 11:38:31,400|exercise|INFO|Stretch complete
+2025-02-22 11:38:31,400|exercise|INFO|Rock start
+2025-02-22 11:38:55,328|exercise|INFO|Rock complete
+2025-02-22 11:38:55,333|exercise_group|INFO|Warm Ups complete
+2025-02-22 11:38:55,333|exercise_group|INFO|Scales and Chords start
+2025-02-22 11:40:42,106|exercise|INFO|Expanded Scale (C, G) start
+2025-02-22 11:41:33,898|exercise|INFO|Expanded Scale (C, G) complete
+2025-02-22 11:41:33,898|exercise|INFO|Four Octave Scale (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-22 11:49:27,582|exercise|INFO|Four Octave Scale (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-22 11:49:27,583|exercise|INFO|Arpeggio (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-22 11:51:53,831|exercise|INFO|Arpeggio (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-22 11:51:53,832|exercise|INFO|Chromatic Scale (D, Ab) start
+2025-02-22 11:53:27,051|exercise|INFO|Chromatic Scale (D, Ab) complete
+2025-02-22 11:53:27,051|exercise|INFO|Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-22 11:54:25,948|exercise|INFO|Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-22 11:54:25,948|exercise|INFO|Broken Chords (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-22 12:03:01,928|exercise|INFO|Broken Chords (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-22 12:03:01,928|exercise|INFO|Broken Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-22 12:08:25,715|exercise|INFO|Broken Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-22 12:08:25,722|exercise_group|INFO|Scales and Chords complete
+2025-02-22 12:08:25,722|exercise_group|INFO|Daily Dozen start
+2025-02-22 12:08:28,482|exercise|INFO|Book 2 3-10 start
+2025-02-22 12:11:31,812|exercise|INFO|Book 2 3-10 complete
+2025-02-22 12:11:31,812|exercise|INFO|Book 2 4-1 start
+2025-02-22 12:13:27,488|exercise|INFO|Book 2 4-1 complete
+2025-02-22 12:13:27,489|exercise|INFO|Book 2 4-2 start
+2025-02-22 12:16:47,006|exercise|INFO|Book 2 4-2 complete
+2025-02-22 12:16:47,007|exercise|INFO|Book 2 4-3 start
+2025-02-22 12:18:50,695|exercise|INFO|Book 2 4-3 complete
+2025-02-22 12:18:50,695|exercise|INFO|Book 2 4-4 start
+2025-02-22 12:19:25,103|exercise|INFO|Book 2 4-4 complete
+2025-02-22 12:19:25,104|exercise|INFO|Book 2 4-5 start
+2025-02-22 12:22:05,040|exercise|INFO|Book 2 4-5 complete
+2025-02-22 12:22:05,040|exercise|INFO|Book 2 4-6 start
+2025-02-22 12:22:38,473|exercise|INFO|Book 2 4-6 complete
+2025-02-22 12:22:38,480|exercise_group|INFO|Daily Dozen complete
+2025-02-22 12:22:38,480|exercise_group|INFO|Songs start
+2025-02-22 12:22:40,435|exercise_group|INFO|Songs complete
+2025-02-22 12:22:40,435|exercise_group|INFO|Repetoire Review start
+2025-02-22 12:22:40,995|exercise_group|INFO|Repetoire Review complete
+2025-02-22 12:22:40,996|session|INFO|session complete: 2025-02-22 11:38
+2025-02-22 12:22:41,019|session|INFO|session saved to data/2025-02-22 11:38.log
+2025-02-22 14:11:27,501|session|INFO|starting session: 2025-02-22 14:11
+2025-02-22 14:11:28,923|exercise_group|INFO|Warm Ups start
+2025-02-22 14:11:30,587|exercise_group|INFO|Warm Ups complete
+2025-02-22 14:11:30,587|exercise_group|INFO|Scales and Chords start
+2025-02-22 14:11:31,371|exercise_group|INFO|Scales and Chords complete
+2025-02-22 14:11:31,371|exercise_group|INFO|Daily Dozen start
+2025-02-22 14:11:32,658|exercise_group|INFO|Daily Dozen complete
+2025-02-22 14:11:32,658|exercise_group|INFO|Songs start
+2025-02-22 14:11:33,904|exercise|INFO|Joy of Piano - Clair De Lune, Debussy (p20) start
+2025-02-22 14:20:58,216|exercise|INFO|Joy of Piano - Clair De Lune, Debussy (p20) complete
+2025-02-22 14:20:58,217|exercise|INFO|Easy Piano Classics - Sonatina (Op 36, No 1), Clementi (p60) start
+2025-02-22 14:33:52,405|exercise|INFO|Easy Piano Classics - Sonatina (Op 36, No 1), Clementi (p60) complete
+2025-02-22 14:33:52,408|exercise_group|INFO|Songs complete
+2025-02-22 14:33:52,408|exercise_group|INFO|Repetoire Review start
+2025-02-22 14:33:53,463|exercise_group|INFO|Repetoire Review complete
+2025-02-22 14:33:53,464|session|INFO|session complete: 2025-02-22 14:11
+2025-02-22 14:33:53,471|session|INFO|session saved to data/2025-02-22 14:11.log
+2025-02-23 18:08:17,399|session|INFO|starting session: 2025-02-23 18:08
+2025-02-23 18:08:19,391|exercise_group|INFO|Warm Ups start
+2025-02-23 18:08:54,103|exercise|INFO|Stretch start
+2025-02-23 18:09:11,479|exercise|INFO|Stretch complete
+2025-02-23 18:09:11,479|exercise|INFO|Rock start
+2025-02-23 18:10:08,567|exercise|INFO|Rock complete
+2025-02-23 18:10:08,571|exercise_group|INFO|Warm Ups complete
+2025-02-23 18:10:08,571|exercise_group|INFO|Scales and Chords start
+2025-02-23 18:10:10,326|exercise|INFO|Expanded Scale (C, G) start
+2025-02-23 18:11:31,927|exercise|INFO|Expanded Scale (C, G) complete
+2025-02-23 18:11:31,927|exercise|INFO|Four Octave Scale (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-23 18:17:07,650|exercise|INFO|Four Octave Scale (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-23 18:17:07,650|exercise|INFO|Arpeggio (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-23 18:19:30,715|exercise|INFO|Arpeggio (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-23 18:19:30,715|exercise|INFO|Chromatic Scale (D, Ab) start
+2025-02-23 18:19:54,893|exercise|INFO|Chromatic Scale (D, Ab) complete
+2025-02-23 18:19:54,893|exercise|INFO|Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-23 18:21:17,460|exercise|INFO|Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-23 18:21:17,461|exercise|INFO|Broken Chords (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-23 18:27:40,527|exercise|INFO|Broken Chords (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-23 18:27:40,528|exercise|INFO|Broken Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-23 18:29:45,598|exercise|INFO|Broken Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-23 18:29:45,605|exercise_group|INFO|Scales and Chords complete
+2025-02-23 18:29:45,605|exercise_group|INFO|Daily Dozen start
+2025-02-23 18:34:41,527|exercise|INFO|Book 2 3-10 start
+2025-02-23 18:34:41,654|exercise|INFO|Book 2 3-10 complete
+2025-02-23 18:34:41,654|exercise|INFO|Book 2 4-1 start
+2025-02-23 18:36:22,837|exercise|INFO|Book 2 4-1 complete
+2025-02-23 18:36:22,837|exercise|INFO|Book 2 4-2 start
+2025-02-23 18:38:40,782|exercise|INFO|Book 2 4-2 complete
+2025-02-23 18:38:40,783|exercise|INFO|Book 2 4-3 start
+2025-02-23 18:39:43,184|exercise|INFO|Book 2 4-3 complete
+2025-02-23 18:39:43,184|exercise|INFO|Book 2 4-4 start
+2025-02-23 18:40:05,373|exercise|INFO|Book 2 4-4 complete
+2025-02-23 18:40:05,373|exercise|INFO|Book 2 4-5 start
+2025-02-23 18:40:37,741|exercise|INFO|Book 2 4-5 complete
+2025-02-23 18:40:37,741|exercise|INFO|Book 2 4-6 start
+2025-02-23 18:43:05,461|exercise|INFO|Book 2 4-6 complete
+2025-02-23 18:43:05,468|exercise_group|INFO|Daily Dozen complete
+2025-02-23 18:43:05,468|exercise_group|INFO|Songs start
+2025-02-23 18:43:06,720|exercise_group|INFO|Songs complete
+2025-02-23 18:43:06,720|exercise_group|INFO|Repetoire Review start
+2025-02-23 18:43:08,711|exercise_group|INFO|Repetoire Review complete
+2025-02-23 18:43:08,712|session|INFO|session complete: 2025-02-23 18:08
+2025-02-23 18:43:08,737|session|INFO|session saved to data/2025-02-23 18:08.log
+2025-02-23 22:03:03,267|session|INFO|starting session: 2025-02-23 22:03
+2025-02-23 22:03:06,733|exercise_group|INFO|Warm Ups start
+2025-02-23 22:03:10,135|exercise_group|INFO|Warm Ups complete
+2025-02-23 22:03:10,135|exercise_group|INFO|Scales and Chords start
+2025-02-23 22:03:11,927|exercise_group|INFO|Scales and Chords complete
+2025-02-23 22:03:11,927|exercise_group|INFO|Daily Dozen start
+2025-02-23 22:03:13,679|exercise_group|INFO|Daily Dozen complete
+2025-02-23 22:03:13,680|exercise_group|INFO|Songs start
+2025-02-23 22:03:14,428|exercise|INFO|Joy of Piano - Clair De Lune, Debussy (p20) start
+2025-02-23 22:19:48,709|exercise|INFO|Joy of Piano - Clair De Lune, Debussy (p20) complete
+2025-02-23 22:19:48,710|exercise|INFO|Easy Piano Classics - Sonatina (Op 36, No 1), Clementi (p60) start
+2025-02-23 22:54:37,050|exercise|INFO|Easy Piano Classics - Sonatina (Op 36, No 1), Clementi (p60) complete
+2025-02-23 22:54:37,056|exercise_group|INFO|Songs complete
+2025-02-23 22:54:37,056|exercise_group|INFO|Repetoire Review start
+2025-02-23 22:54:38,276|exercise_group|INFO|Repetoire Review complete
+2025-02-23 22:54:38,277|session|INFO|session complete: 2025-02-23 22:03
+2025-02-23 22:54:38,284|session|INFO|session saved to data/2025-02-23 22:03.log
+2025-02-25 21:09:01,713|session|INFO|starting session: 2025-02-25 21:09
+2025-02-25 21:09:02,533|exercise_group|INFO|Warm Ups start
+2025-02-25 21:09:12,885|exercise|INFO|Stretch start
+2025-02-25 21:09:53,381|exercise|INFO|Stretch complete
+2025-02-25 21:09:53,381|exercise|INFO|Rock start
+2025-02-25 21:10:13,811|exercise|INFO|Rock complete
+2025-02-25 21:10:13,815|exercise_group|INFO|Warm Ups complete
+2025-02-25 21:10:13,815|exercise_group|INFO|Scales and Chords start
+2025-02-25 21:10:18,724|exercise|INFO|Expanded Scale (C, G) start
+2025-02-25 21:12:11,838|exercise|INFO|Expanded Scale (C, G) complete
+2025-02-25 21:12:11,838|exercise|INFO|Four Octave Scale (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-25 21:17:19,445|exercise|INFO|Four Octave Scale (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-25 21:17:19,445|exercise|INFO|Arpeggio (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-25 21:20:49,818|exercise|INFO|Arpeggio (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-25 21:20:49,819|exercise|INFO|Chromatic Scale (D, Ab) start
+2025-02-25 21:21:19,037|exercise|INFO|Chromatic Scale (D, Ab) complete
+2025-02-25 21:21:19,037|exercise|INFO|Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-25 21:23:10,049|exercise|INFO|Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-25 21:23:10,049|exercise|INFO|Broken Chords (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-25 21:34:10,586|exercise|INFO|Broken Chords (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-25 21:34:10,587|exercise|INFO|Broken Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-25 21:37:43,090|exercise|INFO|Broken Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-25 21:37:43,091|exercise|INFO|Running (C, G, D, A, F, Bb) start
+2025-02-25 21:42:20,970|exercise|INFO|Running (C, G, D, A, F, Bb) complete
+2025-02-25 21:42:20,979|exercise_group|INFO|Scales and Chords complete
+2025-02-25 21:42:20,980|exercise_group|INFO|Daily Dozen start
+2025-02-25 21:42:52,521|exercise|INFO|Book 2 4-1 start
+2025-02-25 21:44:37,794|exercise|INFO|Book 2 4-1 complete
+2025-02-25 21:44:37,795|exercise|INFO|Book 2 4-2 start
+2025-02-25 21:47:51,517|exercise|INFO|Book 2 4-2 complete
+2025-02-25 21:47:51,518|exercise|INFO|Book 2 4-3 start
+2025-02-25 21:48:40,332|exercise|INFO|Book 2 4-3 complete
+2025-02-25 21:48:40,332|exercise|INFO|Book 2 4-4 start
+2025-02-25 21:49:13,185|exercise|INFO|Book 2 4-4 complete
+2025-02-25 21:49:13,185|exercise|INFO|Book 2 4-5 start
+2025-02-25 21:49:49,149|exercise|INFO|Book 2 4-5 complete
+2025-02-25 21:49:49,149|exercise|INFO|Book 2 4-6 start
+2025-02-25 21:52:31,237|exercise|INFO|Book 2 4-6 complete
+2025-02-25 21:52:31,237|exercise|INFO|Book 2 4-7 start
+2025-02-25 21:58:47,489|exercise|INFO|Book 2 4-7 complete
+2025-02-25 21:58:47,496|exercise_group|INFO|Daily Dozen complete
+2025-02-25 21:58:47,496|exercise_group|INFO|Songs start
+2025-02-25 21:58:53,790|exercise|INFO|Joy of Piano - Clair De Lune, Debussy (p20) start
+2025-02-25 22:13:56,489|exercise|INFO|Joy of Piano - Clair De Lune, Debussy (p20) complete
+2025-02-25 22:13:56,491|exercise|INFO|Easy Piano Classics - Sonatina (Op 36, No 1), Clementi (p60) start
+2025-02-25 22:26:49,065|exercise|INFO|Easy Piano Classics - Sonatina (Op 36, No 1), Clementi (p60) complete
+2025-02-25 22:26:49,070|exercise_group|INFO|Songs complete
+2025-02-25 22:26:49,070|exercise_group|INFO|Repetoire Review start
+2025-02-25 22:26:50,661|exercise_group|INFO|Repetoire Review complete
+2025-02-25 22:26:50,661|session|INFO|session complete: 2025-02-25 21:09
+2025-02-25 22:26:50,689|session|INFO|session saved to data/2025-02-25 21:09.log
+2025-02-26 21:51:04,359|session|INFO|starting session: 2025-02-26 21:51
+2025-02-26 21:51:04,984|exercise_group|INFO|Warm Ups start
+2025-02-26 21:51:05,936|exercise|INFO|Stretch start
+2025-02-26 21:51:32,192|exercise|INFO|Stretch complete
+2025-02-26 21:51:32,192|exercise|INFO|Rock start
+2025-02-26 21:51:44,752|exercise|INFO|Rock complete
+2025-02-26 21:51:44,756|exercise_group|INFO|Warm Ups complete
+2025-02-26 21:51:44,756|exercise_group|INFO|Scales and Chords start
+2025-02-26 21:51:46,592|exercise|INFO|Expanded Scale (C, G) start
+2025-02-26 21:52:48,048|exercise|INFO|Expanded Scale (C, G) complete
+2025-02-26 21:52:48,048|exercise|INFO|Four Octave Scale (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-26 21:57:21,712|exercise|INFO|Four Octave Scale (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-26 21:57:21,712|exercise|INFO|Arpeggio (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-26 22:00:57,230|exercise|INFO|Arpeggio (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-26 22:00:57,231|exercise|INFO|Chromatic Scale (D, Ab) start
+2025-02-26 22:01:36,174|exercise|INFO|Chromatic Scale (D, Ab) complete
+2025-02-26 22:01:36,174|exercise|INFO|Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-26 22:03:39,830|exercise|INFO|Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-26 22:03:39,830|exercise|INFO|Broken Chords (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-26 22:11:15,546|exercise|INFO|Broken Chords (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-26 22:11:15,547|exercise|INFO|Broken Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-26 22:18:11,810|exercise|INFO|Broken Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-26 22:18:11,810|exercise|INFO|Running (C, G, D, A, F, Bb) start
+2025-02-26 22:21:20,283|exercise|INFO|Running (C, G, D, A, F, Bb) complete
+2025-02-26 22:21:20,291|exercise_group|INFO|Scales and Chords complete
+2025-02-26 22:21:20,291|exercise_group|INFO|Daily Dozen start
+2025-02-26 22:21:21,691|exercise|INFO|Book 2 4-1 start
+2025-02-26 22:23:00,275|exercise|INFO|Book 2 4-1 complete
+2025-02-26 22:23:00,275|exercise|INFO|Book 2 4-2 start
+2025-02-26 22:24:44,164|exercise|INFO|Book 2 4-2 complete
+2025-02-26 22:24:44,164|exercise|INFO|Book 2 4-3 start
+2025-02-26 22:26:05,980|exercise|INFO|Book 2 4-3 complete
+2025-02-26 22:26:05,980|exercise|INFO|Book 2 4-4 start
+2025-02-26 22:26:25,308|exercise|INFO|Book 2 4-4 complete
+2025-02-26 22:26:25,308|exercise|INFO|Book 2 4-5 start
+2025-02-26 22:26:51,254|exercise|INFO|Book 2 4-5 complete
+2025-02-26 22:26:51,254|exercise|INFO|Book 2 4-6 start
+2025-02-26 22:28:58,607|exercise|INFO|Book 2 4-6 complete
+2025-02-26 22:28:58,607|exercise|INFO|Book 2 4-7 start
+2025-02-26 22:34:59,192|exercise|INFO|Book 2 4-7 complete
+2025-02-26 22:34:59,200|exercise_group|INFO|Daily Dozen complete
+2025-02-26 22:34:59,200|exercise_group|INFO|Songs start
+2025-02-26 22:35:02,920|exercise|INFO|Joy of Piano - Clair De Lune, Debussy (p20) start
+2025-02-26 22:39:48,776|exercise|INFO|Joy of Piano - Clair De Lune, Debussy (p20) complete
+2025-02-26 22:39:48,777|exercise|INFO|Easy Piano Classics - Sonatina (Op 36, No 1), Clementi (p60) start
+2025-02-26 22:46:57,466|exercise|INFO|Easy Piano Classics - Sonatina (Op 36, No 1), Clementi (p60) complete
+2025-02-26 22:46:57,470|exercise_group|INFO|Songs complete
+2025-02-26 22:46:57,470|exercise_group|INFO|Repetoire Review start
+2025-02-26 22:46:59,429|exercise_group|INFO|Repetoire Review complete
+2025-02-26 22:46:59,430|session|INFO|session complete: 2025-02-26 21:51
+2025-02-26 22:46:59,458|session|INFO|session saved to data/2025-02-26 21:51.log
+2025-02-27 11:26:52,528|session|INFO|starting session: 2025-02-27 11:26
+2025-02-27 11:26:53,590|exercise_group|INFO|Warm Ups start
+2025-02-27 11:27:33,053|exercise|INFO|Stretch start
+2025-02-27 11:27:43,326|exercise|INFO|Stretch complete
+2025-02-27 11:27:43,326|exercise|INFO|Rock start
+2025-02-27 11:28:02,952|exercise|INFO|Rock complete
+2025-02-27 11:28:02,957|exercise_group|INFO|Warm Ups complete
+2025-02-27 11:28:02,957|exercise_group|INFO|Scales and Chords start
+2025-02-27 11:28:08,189|exercise|INFO|Expanded Scale (C, G) start
+2025-02-27 11:29:09,886|exercise|INFO|Expanded Scale (C, G) complete
+2025-02-27 11:29:09,886|exercise|INFO|Four Octave Scale (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-27 11:36:50,487|exercise|INFO|Four Octave Scale (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-27 11:36:50,488|exercise|INFO|Arpeggio (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-27 11:39:38,399|exercise|INFO|Arpeggio (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-27 11:39:38,400|exercise|INFO|Chromatic Scale (D, Ab) start
+2025-02-27 11:40:02,545|exercise|INFO|Chromatic Scale (D, Ab) complete
+2025-02-27 11:40:02,545|exercise|INFO|Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-27 11:41:35,166|exercise|INFO|Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-27 11:41:35,166|exercise|INFO|Broken Chords (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-27 11:46:57,719|exercise|INFO|Broken Chords (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-27 11:46:57,720|exercise|INFO|Broken Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-27 11:48:53,343|exercise|INFO|Broken Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-27 11:48:53,343|exercise|INFO|Running (C, G, D, A, F, Bb) start
+2025-02-27 11:52:04,032|exercise|INFO|Running (C, G, D, A, F, Bb) complete
+2025-02-27 11:52:04,042|exercise_group|INFO|Scales and Chords complete
+2025-02-27 11:52:04,042|exercise_group|INFO|Daily Dozen start
+2025-02-27 11:52:38,926|exercise|INFO|Book 2 4-1 start
+2025-02-27 11:54:02,321|exercise|INFO|Book 2 4-1 complete
+2025-02-27 11:54:02,322|exercise|INFO|Book 2 4-2 start
+2025-02-27 11:55:48,503|exercise|INFO|Book 2 4-2 complete
+2025-02-27 11:55:48,503|exercise|INFO|Book 2 4-3 start
+2025-02-27 11:57:20,127|exercise|INFO|Book 2 4-3 complete
+2025-02-27 11:57:20,127|exercise|INFO|Book 2 4-4 start
+2025-02-27 11:57:43,934|exercise|INFO|Book 2 4-4 complete
+2025-02-27 11:57:43,934|exercise|INFO|Book 2 4-5 start
+2025-02-27 11:58:04,290|exercise|INFO|Book 2 4-5 complete
+2025-02-27 11:58:04,290|exercise|INFO|Book 2 4-6 start
+2025-02-27 11:59:31,303|exercise|INFO|Book 2 4-6 complete
+2025-02-27 11:59:31,303|exercise|INFO|Book 2 4-7 start
+2025-02-27 12:03:23,727|exercise|INFO|Book 2 4-7 complete
+2025-02-27 12:03:23,734|exercise_group|INFO|Daily Dozen complete
+2025-02-27 12:03:23,735|exercise_group|INFO|Songs start
+2025-02-27 12:03:24,516|exercise_group|INFO|Songs complete
+2025-02-27 12:03:24,517|exercise_group|INFO|Repetoire Review start
+2025-02-27 12:03:24,729|exercise_group|INFO|Repetoire Review complete
+2025-02-27 12:03:24,730|session|INFO|session complete: 2025-02-27 11:26
+2025-02-27 12:03:24,756|session|INFO|session saved to data/2025-02-27 11:26.log
+2025-02-27 21:28:36,389|session|INFO|starting session: 2025-02-27 21:28
+2025-02-27 21:28:37,149|exercise_group|INFO|Warm Ups start
+2025-02-27 21:28:38,688|exercise_group|INFO|Warm Ups complete
+2025-02-27 21:28:38,688|exercise_group|INFO|Scales and Chords start
+2025-02-27 21:28:39,360|exercise_group|INFO|Scales and Chords complete
+2025-02-27 21:28:39,360|exercise_group|INFO|Daily Dozen start
+2025-02-27 21:28:43,630|exercise_group|INFO|Daily Dozen complete
+2025-02-27 21:28:43,630|exercise_group|INFO|Songs start
+2025-02-27 21:28:44,494|exercise|INFO|Joy of Piano - Clair De Lune, Debussy (p20) start
+2025-02-27 21:41:06,763|exercise|INFO|Joy of Piano - Clair De Lune, Debussy (p20) complete
+2025-02-27 21:41:06,764|exercise|INFO|Easy Piano Classics - Sonatina (Op 36, No 1), Clementi (p60) start
+2025-02-27 22:16:48,133|exercise|INFO|Easy Piano Classics - Sonatina (Op 36, No 1), Clementi (p60) complete
+2025-02-27 22:16:48,137|exercise_group|INFO|Songs complete
+2025-02-27 22:16:48,137|exercise_group|INFO|Repetoire Review start
+2025-02-27 22:16:50,384|exercise_group|INFO|Repetoire Review complete
+2025-02-27 22:16:50,385|session|INFO|session complete: 2025-02-27 21:28
+2025-02-27 22:16:50,393|session|INFO|session saved to data/2025-02-27 21:28.log
+2025-02-28 08:20:15,465|session|INFO|starting session: 2025-02-28 08:20
+2025-02-28 08:20:17,531|exercise_group|INFO|Warm Ups start
+2025-02-28 08:20:29,771|exercise|INFO|Stretch start
+2025-02-28 08:20:49,723|exercise|INFO|Stretch complete
+2025-02-28 08:20:49,724|exercise|INFO|Rock start
+2025-02-28 08:21:03,546|exercise|INFO|Rock complete
+2025-02-28 08:21:03,551|exercise_group|INFO|Warm Ups complete
+2025-02-28 08:21:03,551|exercise_group|INFO|Scales and Chords start
+2025-02-28 08:21:07,258|exercise|INFO|Expanded Scale (C, G) start
+2025-02-28 08:22:26,122|exercise|INFO|Expanded Scale (C, G) complete
+2025-02-28 08:22:26,123|exercise|INFO|Four Octave Scale (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-28 08:27:22,687|exercise|INFO|Four Octave Scale (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-28 08:27:22,687|exercise|INFO|Arpeggio (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-28 08:30:32,916|exercise|INFO|Arpeggio (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-28 08:30:32,916|exercise|INFO|Chromatic Scale (D, Ab) start
+2025-02-28 08:31:22,723|exercise|INFO|Chromatic Scale (D, Ab) complete
+2025-02-28 08:31:22,724|exercise|INFO|Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-28 08:32:40,012|exercise|INFO|Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-28 08:32:40,012|exercise|INFO|Broken Chords (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-28 08:32:54,147|exercise|INFO|Broken Chords (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-28 08:32:54,154|exercise_group|INFO|Scales and Chords complete
+2025-02-28 08:32:54,155|exercise_group|INFO|Daily Dozen start
+2025-02-28 08:32:56,958|exercise_group|INFO|Daily Dozen complete
+2025-02-28 08:32:56,958|exercise_group|INFO|Songs start
+2025-02-28 08:32:58,717|exercise_group|INFO|Songs complete
+2025-02-28 08:32:58,717|exercise_group|INFO|Repetoire Review start
+2025-02-28 08:33:02,989|exercise_group|INFO|Repetoire Review complete
+2025-02-28 08:33:02,989|session|INFO|session complete: 2025-02-28 08:20
+2025-02-28 08:33:03,005|session|INFO|session saved to data/2025-02-28 08:20.log
+2025-02-28 17:45:20,151|session|INFO|starting session: 2025-02-28 17:45
+2025-02-28 17:45:21,032|exercise_group|INFO|Warm Ups start
+2025-02-28 17:45:22,867|exercise_group|INFO|Warm Ups complete
+2025-02-28 17:45:22,868|exercise_group|INFO|Scales and Chords start
+2025-02-28 17:45:26,824|exercise|INFO|Broken Chords (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-28 17:53:40,900|exercise|INFO|Broken Chords (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-28 17:53:40,901|exercise|INFO|Expanded Scale (C, G) start
+2025-02-28 17:53:47,179|exercise|INFO|Expanded Scale (C, G) complete
+2025-02-28 17:53:47,180|exercise|INFO|Broken Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-28 17:55:13,004|exercise|INFO|Broken Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-28 17:55:13,004|exercise|INFO|Running (C, G, D, A, F, Bb) start
+2025-02-28 17:59:11,722|exercise|INFO|Running (C, G, D, A, F, Bb) complete
+2025-02-28 17:59:11,723|exercise|INFO|Four Octave Scale (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-02-28 17:59:15,537|exercise|INFO|Four Octave Scale (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-02-28 17:59:15,543|exercise_group|INFO|Scales and Chords complete
+2025-02-28 17:59:15,543|exercise_group|INFO|Daily Dozen start
+2025-02-28 17:59:27,481|exercise|INFO|Book 2 4-1 start
+2025-02-28 18:01:21,705|exercise|INFO|Book 2 4-1 complete
+2025-02-28 18:01:21,705|exercise|INFO|Book 2 4-2 start
+2025-02-28 18:02:24,016|exercise|INFO|Book 2 4-2 complete
+2025-02-28 18:02:24,017|exercise|INFO|Book 2 4-3 start
+2025-02-28 18:03:28,448|exercise|INFO|Book 2 4-3 complete
+2025-02-28 18:03:28,448|exercise|INFO|Book 2 4-4 start
+2025-02-28 18:03:48,304|exercise|INFO|Book 2 4-4 complete
+2025-02-28 18:03:48,304|exercise|INFO|Book 2 4-5 start
+2025-02-28 18:04:32,527|exercise|INFO|Book 2 4-5 complete
+2025-02-28 18:04:32,528|exercise|INFO|Book 2 4-6 start
+2025-02-28 18:05:51,350|exercise|INFO|Book 2 4-6 complete
+2025-02-28 18:05:51,351|exercise|INFO|Book 2 4-7 start
+2025-02-28 18:07:21,286|exercise|INFO|Book 2 4-7 complete
+2025-02-28 18:07:21,294|exercise_group|INFO|Daily Dozen complete
+2025-02-28 18:07:21,295|exercise_group|INFO|Songs start
+2025-02-28 18:07:52,789|exercise|INFO|Joy of Piano - Clair De Lune, Debussy (p20) start
+2025-02-28 18:20:01,345|exercise|INFO|Joy of Piano - Clair De Lune, Debussy (p20) complete
+2025-02-28 18:20:01,346|exercise|INFO|Easy Piano Classics - Sonatina (Op 36, No 1), Clementi (p60) start
+2025-02-28 18:26:35,589|exercise|INFO|Easy Piano Classics - Sonatina (Op 36, No 1), Clementi (p60) complete
+2025-02-28 18:26:35,594|exercise_group|INFO|Songs complete
+2025-02-28 18:26:35,594|exercise_group|INFO|Repetoire Review start
+2025-02-28 18:26:36,367|exercise_group|INFO|Repetoire Review complete
+2025-02-28 18:26:36,367|session|INFO|session complete: 2025-02-28 17:45
+2025-02-28 18:26:36,391|session|INFO|session saved to data/2025-02-28 17:45.log
+2025-03-01 10:49:17,703|session|INFO|starting session: 2025-03-01 10:49
+2025-03-01 10:49:18,472|exercise_group|INFO|Warm Ups start
+2025-03-01 10:49:20,112|exercise|INFO|Stretch start
+2025-03-01 10:49:49,496|exercise|INFO|Stretch complete
+2025-03-01 10:49:49,496|exercise|INFO|Rock start
+2025-03-01 10:50:04,793|exercise|INFO|Rock complete
+2025-03-01 10:50:04,797|exercise_group|INFO|Warm Ups complete
+2025-03-01 10:50:04,797|exercise_group|INFO|Scales and Chords start
+2025-03-01 10:51:16,344|exercise|INFO|Expanded Scale (C, G) start
+2025-03-01 10:52:26,390|exercise|INFO|Expanded Scale (C, G) complete
+2025-03-01 10:52:26,391|exercise|INFO|Four Octave Scale (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-03-01 10:57:14,315|exercise|INFO|Four Octave Scale (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-03-01 10:57:14,316|exercise|INFO|Arpeggio (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-03-01 10:59:26,955|exercise|INFO|Arpeggio (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-03-01 10:59:26,955|exercise|INFO|Chromatic Scale (D, Ab) start
+2025-03-01 10:59:56,211|exercise|INFO|Chromatic Scale (D, Ab) complete
+2025-03-01 10:59:56,211|exercise|INFO|Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-03-01 11:01:05,642|exercise|INFO|Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-03-01 11:01:05,642|exercise|INFO|Broken Chords (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-03-01 11:07:21,262|exercise|INFO|Broken Chords (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-03-01 11:07:21,270|exercise_group|INFO|Scales and Chords complete
+2025-03-01 11:07:21,270|exercise_group|INFO|Daily Dozen start
+2025-03-01 11:07:23,241|exercise_group|INFO|Daily Dozen complete
+2025-03-01 11:07:23,241|exercise_group|INFO|Songs start
+2025-03-01 11:07:25,720|exercise_group|INFO|Songs complete
+2025-03-01 11:07:25,720|exercise_group|INFO|Repetoire Review start
+2025-03-01 17:25:55,509|exercise_group|INFO|Repetoire Review complete
+2025-03-01 17:25:55,511|session|INFO|session complete: 2025-03-01 10:49
+2025-03-01 17:25:55,527|session|INFO|session saved to data/2025-03-01 10:49.log
+2025-03-01 17:26:03,970|session|INFO|starting session: 2025-03-01 17:26
+2025-03-01 17:26:05,498|exercise_group|INFO|Warm Ups start
+2025-03-01 17:26:06,853|exercise_group|INFO|Warm Ups complete
+2025-03-01 17:26:06,853|exercise_group|INFO|Scales and Chords start
+2025-03-01 17:26:14,594|exercise|INFO|Broken Chords (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-03-01 17:32:58,253|exercise|INFO|Broken Chords (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-03-01 17:32:58,254|exercise|INFO|Expanded Scale (C, G) start
+2025-03-01 17:33:03,203|exercise|INFO|Expanded Scale (C, G) complete
+2025-03-01 17:33:03,203|exercise|INFO|Broken Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-03-01 17:35:16,341|exercise|INFO|Broken Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-03-01 17:35:16,342|exercise|INFO|Running (C, G, D, A, F, Bb) start
+2025-03-01 17:40:59,854|exercise|INFO|Running (C, G, D, A, F, Bb) complete
+2025-03-01 17:40:59,855|exercise|INFO|Four Octave Scale (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-03-01 17:41:02,183|exercise|INFO|Four Octave Scale (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-03-01 17:41:02,190|exercise_group|INFO|Scales and Chords complete
+2025-03-01 17:41:02,190|exercise_group|INFO|Daily Dozen start
+2025-03-01 17:42:27,447|exercise|INFO|Book 2 4-1 start
+2025-03-01 17:43:24,623|exercise|INFO|Book 2 4-1 complete
+2025-03-01 17:43:24,623|exercise|INFO|Book 2 4-2 start
+2025-03-01 17:44:23,189|exercise|INFO|Book 2 4-2 complete
+2025-03-01 17:44:23,190|exercise|INFO|Book 2 4-3 start
+2025-03-01 17:45:27,110|exercise|INFO|Book 2 4-3 complete
+2025-03-01 17:45:27,110|exercise|INFO|Book 2 4-4 start
+2025-03-01 17:45:47,525|exercise|INFO|Book 2 4-4 complete
+2025-03-01 17:45:47,525|exercise|INFO|Book 2 4-5 start
+2025-03-01 17:46:39,077|exercise|INFO|Book 2 4-5 complete
+2025-03-01 17:46:39,078|exercise|INFO|Book 2 4-6 start
+2025-03-01 17:47:52,308|exercise|INFO|Book 2 4-6 complete
+2025-03-01 17:47:52,309|exercise|INFO|Book 2 4-7 start
+2025-03-01 17:49:25,037|exercise|INFO|Book 2 4-7 complete
+2025-03-01 17:49:25,044|exercise_group|INFO|Daily Dozen complete
+2025-03-01 17:49:25,044|exercise_group|INFO|Songs start
+2025-03-01 17:49:27,176|exercise_group|INFO|Songs complete
+2025-03-01 17:49:27,176|exercise_group|INFO|Repetoire Review start
+2025-03-01 17:49:28,950|exercise_group|INFO|Repetoire Review complete
+2025-03-01 17:49:28,950|session|INFO|session complete: 2025-03-01 17:26
+2025-03-01 17:49:28,971|session|INFO|session saved to data/2025-03-01 17:26.log
+2025-03-02 09:59:11,172|session|INFO|starting session: 2025-03-02 09:59
+2025-03-02 09:59:12,007|exercise_group|INFO|Warm Ups start
+2025-03-02 09:59:13,415|exercise|INFO|Stretch start
+2025-03-02 09:59:49,064|exercise|INFO|Stretch complete
+2025-03-02 09:59:49,064|exercise|INFO|Rock start
+2025-03-02 10:00:10,712|exercise|INFO|Rock complete
+2025-03-02 10:00:10,717|exercise_group|INFO|Warm Ups complete
+2025-03-02 10:00:10,717|exercise_group|INFO|Scales and Chords start
+2025-03-02 10:00:12,767|exercise|INFO|Expanded Scale (C, G) start
+2025-03-02 10:01:23,689|exercise|INFO|Expanded Scale (C, G) complete
+2025-03-02 10:01:23,689|exercise|INFO|Four Octave Scale (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-03-02 10:04:19,882|exercise|INFO|Four Octave Scale (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-03-02 10:04:19,882|exercise|INFO|Arpeggio (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-03-02 10:06:42,620|exercise|INFO|Arpeggio (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-03-02 10:06:42,620|exercise|INFO|Chromatic Scale (D, Ab) start
+2025-03-02 10:07:16,229|exercise|INFO|Chromatic Scale (D, Ab) complete
+2025-03-02 10:07:16,229|exercise|INFO|Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-03-02 10:08:40,582|exercise|INFO|Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-03-02 10:08:40,582|exercise|INFO|Broken Chords (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-03-02 10:16:58,131|exercise|INFO|Broken Chords (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-03-02 10:16:58,132|exercise|INFO|Broken Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) start
+2025-03-02 10:18:50,116|exercise|INFO|Broken Triads (C, G, D, A, F, Bb, Am, Dm, Em, Gm) complete
+2025-03-02 10:18:50,116|exercise|INFO|Running (C, G, D, A, F, Bb) start
+2025-03-02 10:23:00,599|exercise|INFO|Running (C, G, D, A, F, Bb) complete
+2025-03-02 10:23:00,606|exercise_group|INFO|Scales and Chords complete
+2025-03-02 10:23:00,606|exercise_group|INFO|Daily Dozen start
+2025-03-02 10:24:26,584|exercise|INFO|Book 2 4-1 start
+2025-03-02 10:25:06,807|exercise|INFO|Book 2 4-1 complete
+2025-03-02 10:25:06,807|exercise|INFO|Book 2 4-2 start
+2025-03-02 10:26:57,881|exercise|INFO|Book 2 4-2 complete
+2025-03-02 10:26:57,882|exercise|INFO|Book 2 4-3 start
+2025-03-02 10:27:59,642|exercise|INFO|Book 2 4-3 complete
+2025-03-02 10:27:59,642|exercise|INFO|Book 2 4-4 start
+2025-03-02 10:28:24,282|exercise|INFO|Book 2 4-4 complete
+2025-03-02 10:28:24,283|exercise|INFO|Book 2 4-5 start
+2025-03-02 10:28:43,962|exercise|INFO|Book 2 4-5 complete
+2025-03-02 10:28:43,962|exercise|INFO|Book 2 4-6 start
+2025-03-02 10:29:52,459|exercise|INFO|Book 2 4-6 complete
+2025-03-02 10:29:52,460|exercise|INFO|Book 2 4-7 start
+2025-03-02 10:34:35,558|exercise|INFO|Book 2 4-7 complete
+2025-03-02 10:34:35,565|exercise_group|INFO|Daily Dozen complete
+2025-03-02 10:34:35,565|exercise_group|INFO|Songs start
+2025-03-02 10:34:39,287|exercise_group|INFO|Songs complete
+2025-03-02 10:34:39,287|exercise_group|INFO|Repetoire Review start
+2025-03-02 10:34:40,024|exercise_group|INFO|Repetoire Review complete
+2025-03-02 10:34:40,025|session|INFO|session complete: 2025-03-02 09:59
+2025-03-02 10:34:40,047|session|INFO|session saved to data/2025-03-02 09:59.log
+2025-03-03 20:33:07,281|session|INFO|starting session: 2025-03-03 20:33
+2025-03-03 20:33:08,364|exercise_group|INFO|Warm Ups start
+2025-03-03 20:33:08,450|exercise|INFO|Stretch start
+2025-03-03 20:34:21,515|exercise|INFO|Stretch complete
+2025-03-03 20:34:21,516|exercise|INFO|Rock start
+2025-03-03 20:34:46,474|exercise|INFO|Rock complete
+2025-03-03 20:34:46,479|exercise_group|INFO|Warm Ups complete
+2025-03-03 20:34:46,479|exercise_group|INFO|Scales and Chords start
+2025-03-03 20:34:50,195|exercise|INFO|Expanded Scale (C, G, Am, Dm) start
+2025-03-03 20:42:56,355|exercise|INFO|Expanded Scale (C, G, Am, Dm) complete
+2025-03-03 20:42:56,356|exercise|INFO|Four Octave Scale (C, G, D, A, F, Bb, E, Am, Dm, Em, Gm) start
+2025-03-03 20:48:39,218|exercise|INFO|Four Octave Scale (C, G, D, A, F, Bb, E, Am, Dm, Em, Gm) complete
+2025-03-03 20:48:39,218|exercise|INFO|Arpeggio (C, G, D, A, F, Bb, E, Am, Dm, Em, Gm) start
+2025-03-03 20:52:21,338|exercise|INFO|Arpeggio (C, G, D, A, F, Bb, E, Am, Dm, Em, Gm) complete
+2025-03-03 20:52:21,338|exercise|INFO|Chromatic Scale (D, Ab) start
+2025-03-03 20:52:45,626|exercise|INFO|Chromatic Scale (D, Ab) complete
+2025-03-03 20:52:45,626|exercise|INFO|Triads (C, G, D, A, F, Bb, E, Am, Dm, Em, Gm) start
+2025-03-03 20:54:56,417|exercise|INFO|Triads (C, G, D, A, F, Bb, E, Am, Dm, Em, Gm) complete
+2025-03-03 20:54:56,417|exercise|INFO|Broken Chords (C, G, D, A, F, Bb, E, Am, Dm, Em, Gm) start
+2025-03-03 21:04:51,876|exercise|INFO|Broken Chords (C, G, D, A, F, Bb, E, Am, Dm, Em, Gm) complete
+2025-03-03 21:04:51,876|exercise|INFO|Broken Triads (C, G, D, A, F, Bb, E, Am, Dm, Em, Gm) start
+2025-03-03 21:08:20,617|exercise|INFO|Broken Triads (C, G, D, A, F, Bb, E, Am, Dm, Em, Gm) complete
+2025-03-03 21:08:20,617|exercise|INFO|Running (C, G, D, A, F, Bb, E) start
+2025-03-03 21:12:01,675|exercise|INFO|Running (C, G, D, A, F, Bb, E) complete
+2025-03-03 21:12:01,684|exercise_group|INFO|Scales and Chords complete
+2025-03-03 21:12:01,684|exercise_group|INFO|Daily Dozen start
+2025-03-03 21:13:55,502|exercise|INFO|Book 2 4-1 start
+2025-03-03 21:15:37,743|exercise|INFO|Book 2 4-1 complete
+2025-03-03 21:15:37,743|exercise|INFO|Book 2 4-2 start
+2025-03-03 21:16:47,900|exercise|INFO|Book 2 4-2 complete
+2025-03-03 21:16:47,901|exercise|INFO|Book 2 4-3 start
+2025-03-03 21:17:32,453|exercise|INFO|Book 2 4-3 complete
+2025-03-03 21:17:32,453|exercise|INFO|Book 2 4-4 start
+2025-03-03 21:18:07,014|exercise|INFO|Book 2 4-4 complete
+2025-03-03 21:18:07,014|exercise|INFO|Book 2 4-5 start
+2025-03-03 21:18:26,492|exercise|INFO|Book 2 4-5 complete
+2025-03-03 21:18:26,492|exercise|INFO|Book 2 4-6 start
+2025-03-03 21:19:59,188|exercise|INFO|Book 2 4-6 complete
+2025-03-03 21:19:59,189|exercise|INFO|Book 2 4-7 start
+2025-03-03 21:21:25,756|exercise|INFO|Book 2 4-7 complete
+2025-03-03 21:21:25,757|exercise|INFO|Book 2 4-8 start
+2025-03-03 21:24:53,502|exercise|INFO|Book 2 4-8 complete
+2025-03-03 21:24:53,502|exercise|INFO|Book 2 4-9 start
+2025-03-03 21:27:14,291|exercise|INFO|Book 2 4-9 complete
+2025-03-03 21:27:14,291|exercise|INFO|Book 2 4-10 start
+2025-03-03 21:28:56,620|exercise|INFO|Book 2 4-10 complete
+2025-03-03 21:28:56,620|exercise|INFO|Book 2 4-11 start
+2025-03-03 21:30:20,485|exercise|INFO|Book 2 4-11 complete
+2025-03-03 21:30:20,485|exercise|INFO|Book 2 4-12 start
+2025-03-03 21:36:43,620|exercise|INFO|Book 2 4-12 complete
+2025-03-03 21:36:43,631|exercise_group|INFO|Daily Dozen complete
+2025-03-03 21:36:43,632|exercise_group|INFO|Songs start
+2025-03-03 21:36:51,107|exercise|INFO|Joy of Piano - Clair De Lune, Debussy (p20) start
+2025-03-03 21:46:16,318|exercise|INFO|Joy of Piano - Clair De Lune, Debussy (p20) complete
+2025-03-03 21:46:16,319|exercise|INFO|Easy Piano Classics - Sonatina (Op 36, No 1), Clementi (p60) start
+2025-03-03 22:17:45,236|exercise|INFO|Easy Piano Classics - Sonatina (Op 36, No 1), Clementi (p60) complete
+2025-03-03 22:17:45,240|exercise_group|INFO|Songs complete
+2025-03-03 22:17:45,240|exercise_group|INFO|Repetoire Review start
+2025-03-03 22:17:52,454|exercise_group|INFO|Repetoire Review complete
+2025-03-03 22:17:52,455|session|INFO|session complete: 2025-03-03 20:33
+2025-03-03 22:17:52,487|session|INFO|session saved to data/2025-03-03 20:33.log
+2025-03-04 08:13:47,907|session|INFO|starting session: 2025-03-04 08:13
+2025-03-04 08:13:49,500|exercise_group|INFO|Warm Ups start
+2025-03-04 08:14:02,462|exercise|INFO|Stretch start
+2025-03-04 08:14:27,813|exercise|INFO|Stretch complete
+2025-03-04 08:14:27,813|exercise|INFO|Rock start
+2025-03-04 08:14:42,325|exercise|INFO|Rock complete
+2025-03-04 08:14:42,329|exercise_group|INFO|Warm Ups complete
+2025-03-04 08:14:42,329|exercise_group|INFO|Scales and Chords start
+2025-03-04 08:15:39,734|exercise|INFO|Expanded Scale (C, G, Am, Dm) start
+2025-03-04 08:19:35,910|exercise|INFO|Expanded Scale (C, G, Am, Dm) complete
+2025-03-04 08:19:35,910|exercise|INFO|Four Octave Scale (C, G, D, A, F, Bb, E, Am, Dm, Em, Gm) start
+2025-03-04 08:25:35,766|exercise|INFO|Four Octave Scale (C, G, D, A, F, Bb, E, Am, Dm, Em, Gm) complete
+2025-03-04 08:25:35,767|exercise|INFO|Arpeggio (C, G, D, A, F, Bb, E, Am, Dm, Em, Gm) start
+2025-03-04 08:28:15,214|exercise|INFO|Arpeggio (C, G, D, A, F, Bb, E, Am, Dm, Em, Gm) complete
+2025-03-04 08:28:15,215|exercise|INFO|Chromatic Scale (D, Ab) start
+2025-03-04 08:28:45,143|exercise|INFO|Chromatic Scale (D, Ab) complete
+2025-03-04 08:28:45,143|exercise|INFO|Triads (C, G, D, A, F, Bb, E, Am, Dm, Em, Gm) start
+2025-03-04 08:30:25,815|exercise|INFO|Triads (C, G, D, A, F, Bb, E, Am, Dm, Em, Gm) complete
+2025-03-04 08:30:25,815|exercise|INFO|Broken Chords (C, G, D, A, F, Bb, E, Am, Dm, Em, Gm) start
+2025-03-04 08:39:07,055|exercise|INFO|Broken Chords (C, G, D, A, F, Bb, E, Am, Dm, Em, Gm) complete
+2025-03-04 08:39:07,056|exercise|INFO|Broken Triads (C, G, D, A, F, Bb, E, Am, Dm, Em, Gm) start
+2025-03-04 08:40:33,351|exercise|INFO|Broken Triads (C, G, D, A, F, Bb, E, Am, Dm, Em, Gm) complete
+2025-03-04 08:40:33,352|exercise|INFO|Running (C, G, D, A, F, Bb, E) start
+2025-03-04 08:43:28,064|exercise|INFO|Running (C, G, D, A, F, Bb, E) complete
+2025-03-04 08:43:28,072|exercise_group|INFO|Scales and Chords complete
+2025-03-04 08:43:28,072|exercise_group|INFO|Daily Dozen start
+2025-03-04 08:43:30,113|exercise_group|INFO|Daily Dozen complete
+2025-03-04 08:43:30,113|exercise_group|INFO|Songs start
+2025-03-04 08:43:32,130|exercise_group|INFO|Songs complete
+2025-03-04 08:43:32,130|exercise_group|INFO|Repetoire Review start
+2025-03-04 08:43:35,745|exercise_group|INFO|Repetoire Review complete
+2025-03-04 08:43:35,746|session|INFO|session complete: 2025-03-04 08:13
+2025-03-04 08:43:35,764|session|INFO|session saved to data/2025-03-04 08:13.log
+2025-03-04 20:54:02,503|session|INFO|starting session: 2025-03-04 20:54
+2025-03-04 20:54:03,292|exercise_group|INFO|Warm Ups start
+2025-03-04 20:54:04,863|exercise_group|INFO|Warm Ups complete
+2025-03-04 20:54:04,863|exercise_group|INFO|Scales and Chords start
+2025-03-04 20:54:06,981|exercise_group|INFO|Scales and Chords complete
+2025-03-04 20:54:06,981|exercise_group|INFO|Daily Dozen start
+2025-03-04 20:54:09,020|exercise|INFO|Book 2 4-1 start
+2025-03-04 20:56:41,467|exercise|INFO|Book 2 4-1 complete
+2025-03-04 20:56:41,468|exercise|INFO|Book 2 4-2 start
+2025-03-04 20:58:33,661|exercise|INFO|Book 2 4-2 complete
+2025-03-04 20:58:33,661|exercise|INFO|Book 2 4-3 start
+2025-03-04 20:59:20,178|exercise|INFO|Book 2 4-3 complete
+2025-03-04 20:59:20,178|exercise|INFO|Book 2 4-4 start
+2025-03-04 20:59:40,594|exercise|INFO|Book 2 4-4 complete
+2025-03-04 20:59:40,594|exercise|INFO|Book 2 4-5 start
+2025-03-04 21:00:24,769|exercise|INFO|Book 2 4-5 complete
+2025-03-04 21:00:24,770|exercise|INFO|Book 2 4-6 start
+2025-03-04 21:01:45,397|exercise|INFO|Book 2 4-6 complete
+2025-03-04 21:01:45,397|exercise|INFO|Book 2 4-7 start
+2025-03-04 21:03:36,755|exercise|INFO|Book 2 4-7 complete
+2025-03-04 21:03:36,756|exercise|INFO|Book 2 4-8 start
+2025-03-04 21:06:40,072|exercise|INFO|Book 2 4-8 complete
+2025-03-04 21:06:40,072|exercise|INFO|Book 2 4-9 start
+2025-03-04 21:08:33,425|exercise|INFO|Book 2 4-9 complete
+2025-03-04 21:08:33,425|exercise|INFO|Book 2 4-10 start
+2025-03-04 21:09:52,542|exercise|INFO|Book 2 4-10 complete
+2025-03-04 21:09:52,543|exercise|INFO|Book 2 4-11 start
+2025-03-04 21:11:30,310|exercise|INFO|Book 2 4-11 complete
+2025-03-04 21:11:30,310|exercise|INFO|Book 2 4-12 start
+2025-03-04 21:25:54,004|exercise|INFO|Book 2 4-12 complete
+2025-03-04 21:25:54,015|exercise_group|INFO|Daily Dozen complete
+2025-03-04 21:25:54,015|exercise_group|INFO|Songs start
+2025-03-04 21:26:23,787|exercise|INFO|Joy of Piano - Clair De Lune, Debussy (p20) start
+2025-03-04 21:26:23,811|exercise|INFO|Joy of Piano - Clair De Lune, Debussy (p20) complete
+2025-03-04 21:26:23,812|exercise|INFO|Easy Piano Classics - Sonatina (Op 36, No 1), Clementi (p60) start
+2025-03-04 21:28:31,085|exercise|INFO|Easy Piano Classics - Sonatina (Op 36, No 1), Clementi (p60) complete
+2025-03-04 21:28:31,089|exercise_group|INFO|Songs complete
+2025-03-04 21:28:31,089|exercise_group|INFO|Repetoire Review start
+2025-03-04 21:28:33,688|exercise_group|INFO|Repetoire Review complete
+2025-03-04 21:28:33,688|session|INFO|session complete: 2025-03-04 20:54
+2025-03-04 21:28:33,710|session|INFO|session saved to data/2025-03-04 20:54.log
+2025-03-05 13:06:35,639|session|INFO|starting session: 2025-03-05 13:06
+2025-03-05 13:06:36,357|exercise_group|INFO|Warm Ups start
+2025-03-05 13:06:37,581|exercise|INFO|Stretch start
+2025-03-05 13:07:03,701|exercise|INFO|Stretch complete
+2025-03-05 13:07:03,701|exercise|INFO|Rock start
+2025-03-05 13:07:29,781|exercise|INFO|Rock complete
+2025-03-05 13:07:29,785|exercise_group|INFO|Warm Ups complete
+2025-03-05 13:07:29,785|exercise_group|INFO|Scales and Chords start
+2025-03-05 13:07:32,044|exercise|INFO|Expanded Scale (C, G, Am, Dm) start
+2025-03-05 13:11:08,104|exercise|INFO|Expanded Scale (C, G, Am, Dm) complete
+2025-03-05 13:11:08,104|exercise|INFO|Four Octave Scale (C, G, D, A, F, Bb, E, Am, Dm, Em, Gm) start
+2025-03-05 13:16:34,938|exercise|INFO|Four Octave Scale (C, G, D, A, F, Bb, E, Am, Dm, Em, Gm) complete
+2025-03-05 13:16:34,939|exercise|INFO|Arpeggio (C, G, D, A, F, Bb, E, Am, Dm, Em, Gm) start
+2025-03-05 13:19:47,067|exercise|INFO|Arpeggio (C, G, D, A, F, Bb, E, Am, Dm, Em, Gm) complete
+2025-03-05 13:19:47,067|exercise|INFO|Chromatic Scale (D, Ab) start
+2025-03-05 13:20:06,027|exercise|INFO|Chromatic Scale (D, Ab) complete
+2025-03-05 13:20:06,027|exercise|INFO|Triads (C, G, D, A, F, Bb, E, Am, Dm, Em, Gm) start
+2025-03-05 13:21:47,715|exercise|INFO|Triads (C, G, D, A, F, Bb, E, Am, Dm, Em, Gm) complete
+2025-03-05 13:21:47,716|exercise|INFO|Broken Chords (C, G, D, A, F, Bb, E, Am, Dm, Em, Gm) start
+2025-03-05 13:30:09,252|exercise|INFO|Broken Chords (C, G, D, A, F, Bb, E, Am, Dm, Em, Gm) complete
+2025-03-05 13:30:09,253|exercise|INFO|Broken Triads (C, G, D, A, F, Bb, E, Am, Dm, Em, Gm) start
+2025-03-05 13:32:41,005|exercise|INFO|Broken Triads (C, G, D, A, F, Bb, E, Am, Dm, Em, Gm) complete
+2025-03-05 13:32:41,005|exercise|INFO|Running (C, G, D, A, F, Bb, E) start
+2025-03-05 13:37:42,710|exercise|INFO|Running (C, G, D, A, F, Bb, E) complete
+2025-03-05 13:37:42,719|exercise_group|INFO|Scales and Chords complete
+2025-03-05 13:37:42,719|exercise_group|INFO|Daily Dozen start
+2025-03-05 13:37:46,431|exercise_group|INFO|Daily Dozen complete
+2025-03-05 13:37:46,432|exercise_group|INFO|Songs start
+2025-03-05 13:37:47,719|exercise_group|INFO|Songs complete
+2025-03-05 13:37:47,720|exercise_group|INFO|Repetoire Review start
+2025-03-05 13:37:48,263|exercise_group|INFO|Repetoire Review complete
+2025-03-05 13:37:48,264|session|INFO|session complete: 2025-03-05 13:06
+2025-03-05 13:37:48,281|session|INFO|session saved to data/2025-03-05 13:06.log
+2025-03-06 08:08:49,038|session|INFO|starting session: 2025-03-06 08:08
+2025-03-06 08:08:50,695|exercise_group|INFO|Warm Ups start
+2025-03-06 08:08:52,487|exercise|INFO|Stretch start
+2025-03-06 08:09:22,952|exercise|INFO|Stretch complete
+2025-03-06 08:09:22,952|exercise|INFO|Rock start
+2025-03-06 08:09:44,304|exercise|INFO|Rock complete
+2025-03-06 08:09:44,307|exercise_group|INFO|Warm Ups complete
+2025-03-06 08:09:44,307|exercise_group|INFO|Scales and Chords start
+2025-03-06 08:09:59,127|exercise|INFO|Expanded Scale (C, G, Am, Dm) start
+2025-03-06 08:16:57,947|exercise|INFO|Expanded Scale (C, G, Am, Dm) complete
+2025-03-06 08:16:57,948|exercise|INFO|Four Octave Scale (C, G, D, A, F, Bb, E, Am, Dm, Em, Gm) start
+2025-03-06 08:23:00,262|exercise|INFO|Four Octave Scale (C, G, D, A, F, Bb, E, Am, Dm, Em, Gm) complete
+2025-03-06 08:23:00,262|exercise|INFO|Arpeggio (C, G, D, A, F, Bb, E, Am, Dm, Em, Gm) start
+2025-03-06 08:25:44,400|exercise|INFO|Arpeggio (C, G, D, A, F, Bb, E, Am, Dm, Em, Gm) complete
+2025-03-06 08:25:44,400|exercise|INFO|Chromatic Scale (D, Ab) start
+2025-03-06 08:26:07,200|exercise|INFO|Chromatic Scale (D, Ab) complete
+2025-03-06 08:26:07,200|exercise|INFO|Triads (C, G, D, A, F, Bb, E, Am, Dm, Em, Gm) start
+2025-03-06 08:28:47,977|exercise|INFO|Triads (C, G, D, A, F, Bb, E, Am, Dm, Em, Gm) complete
+2025-03-06 08:28:47,978|exercise|INFO|Broken Chords (C, G, D, A, F, Bb, E, Am, Dm, Em, Gm) start
+2025-03-06 08:37:24,001|exercise|INFO|Broken Chords (C, G, D, A, F, Bb, E, Am, Dm, Em, Gm) complete
+2025-03-06 08:37:24,001|exercise|INFO|Broken Triads (C, G, D, A, F, Bb, E, Am, Dm, Em, Gm) start
+2025-03-06 08:39:16,321|exercise|INFO|Broken Triads (C, G, D, A, F, Bb, E, Am, Dm, Em, Gm) complete
+2025-03-06 08:39:16,321|exercise|INFO|Running (C, G, D, A, F, Bb, E) start
+2025-03-06 08:43:00,329|exercise|INFO|Running (C, G, D, A, F, Bb, E) complete
+2025-03-06 08:43:00,337|exercise_group|INFO|Scales and Chords complete
+2025-03-06 08:43:00,337|exercise_group|INFO|Daily Dozen start
+2025-03-06 08:43:02,987|exercise_group|INFO|Daily Dozen complete
+2025-03-06 08:43:02,987|exercise_group|INFO|Songs start
+2025-03-06 08:43:03,339|exercise_group|INFO|Songs complete
+2025-03-06 08:43:03,339|exercise_group|INFO|Repetoire Review start
+2025-03-06 08:43:04,073|exercise_group|INFO|Repetoire Review complete
+2025-03-06 08:43:04,074|session|INFO|session complete: 2025-03-06 08:08
+2025-03-06 08:43:04,088|session|INFO|session saved to data/2025-03-06 08:08.log
+2025-03-06 14:40:38,961|session|INFO|starting session: 2025-03-06 14:40
+2025-03-06 14:40:40,356|exercise_group|INFO|Warm Ups start
+2025-03-06 14:40:41,219|exercise_group|INFO|Warm Ups complete
+2025-03-06 14:40:41,219|exercise_group|INFO|Scales and Chords start
+2025-03-06 14:40:42,195|exercise_group|INFO|Scales and Chords complete
+2025-03-06 14:40:42,195|exercise_group|INFO|Daily Dozen start
+2025-03-06 14:40:45,200|exercise|INFO|Book 2 4-1 start
+2025-03-06 14:42:32,216|exercise|INFO|Book 2 4-1 complete
+2025-03-06 14:42:32,216|exercise|INFO|Book 2 4-2 start
+2025-03-06 14:43:26,249|exercise|INFO|Book 2 4-2 complete
+2025-03-06 14:43:26,249|exercise|INFO|Book 2 4-3 start
+2025-03-06 14:44:38,737|exercise|INFO|Book 2 4-3 complete
+2025-03-06 14:44:38,737|exercise|INFO|Book 2 4-4 start
+2025-03-06 14:44:57,617|exercise|INFO|Book 2 4-4 complete
+2025-03-06 14:44:57,617|exercise|INFO|Book 2 4-5 start
+2025-03-06 14:45:24,834|exercise|INFO|Book 2 4-5 complete
+2025-03-06 14:45:24,834|exercise|INFO|Book 2 4-6 start
+2025-03-06 14:46:39,442|exercise|INFO|Book 2 4-6 complete
+2025-03-06 14:46:39,442|exercise|INFO|Book 2 4-7 start
+2025-03-06 14:47:42,650|exercise|INFO|Book 2 4-7 complete
+2025-03-06 14:47:42,651|exercise|INFO|Book 2 4-8 start
+2025-03-06 14:50:00,611|exercise|INFO|Book 2 4-8 complete
+2025-03-06 14:50:00,612|exercise|INFO|Book 2 4-9 start
+2025-03-06 14:50:52,044|exercise|INFO|Book 2 4-9 complete
+2025-03-06 14:50:52,044|exercise|INFO|Book 2 4-10 start
+2025-03-06 14:51:44,910|exercise|INFO|Book 2 4-10 complete
+2025-03-06 14:51:44,920|exercise_group|INFO|Daily Dozen complete
+2025-03-06 14:51:44,921|exercise_group|INFO|Songs start
+2025-03-06 14:51:46,974|exercise_group|INFO|Songs complete
+2025-03-06 14:51:46,974|exercise_group|INFO|Repetoire Review start
+2025-03-06 14:51:47,966|exercise_group|INFO|Repetoire Review complete
+2025-03-06 14:51:47,967|session|INFO|session complete: 2025-03-06 14:40
+2025-03-06 14:51:47,983|session|INFO|session saved to data/2025-03-06 14:40.log
+2025-03-06 20:56:01,600|session|INFO|starting session: 2025-03-06 20:56
+2025-03-06 20:56:02,323|exercise_group|INFO|Warm Ups start
+2025-03-06 20:56:03,476|exercise_group|INFO|Warm Ups complete
+2025-03-06 20:56:03,477|exercise_group|INFO|Scales and Chords start
+2025-03-06 20:56:05,380|exercise_group|INFO|Scales and Chords complete
+2025-03-06 20:56:05,380|exercise_group|INFO|Daily Dozen start
+2025-03-06 20:56:08,218|exercise|INFO|Book 2 4-11 start
+2025-03-06 20:56:49,437|exercise|INFO|Book 2 4-11 complete
+2025-03-06 20:56:49,438|exercise|INFO|Book 2 4-1 start
+2025-03-06 20:56:54,171|exercise|INFO|Book 2 4-1 complete
+2025-03-06 20:56:54,171|exercise|INFO|Book 2 4-12 start
+2025-03-06 21:13:39,168|exercise|INFO|Book 2 4-12 complete
+2025-03-06 21:13:39,168|exercise|INFO|Book 2 4-2 start
+2025-03-06 21:13:41,303|exercise|INFO|Book 2 4-2 complete
+2025-03-06 21:13:41,309|exercise_group|INFO|Daily Dozen complete
+2025-03-06 21:13:41,309|exercise_group|INFO|Songs start
+2025-03-06 21:13:46,898|exercise|INFO|Joy of Piano - Clair De Lune, Debussy (p20) start
+2025-03-06 21:25:45,765|exercise|INFO|Joy of Piano - Clair De Lune, Debussy (p20) complete
+2025-03-06 21:25:45,765|exercise|INFO|Easy Piano Classics - Sonatina (Op 36, No 1), Clementi (p60) start
+2025-03-06 22:08:44,513|exercise|INFO|Easy Piano Classics - Sonatina (Op 36, No 1), Clementi (p60) complete
+2025-03-06 22:08:44,518|exercise_group|INFO|Songs complete
+2025-03-06 22:08:44,518|exercise_group|INFO|Repetoire Review start
+2025-03-06 22:08:45,871|exercise_group|INFO|Repetoire Review complete
+2025-03-06 22:08:45,872|session|INFO|session complete: 2025-03-06 20:56
+2025-03-06 22:08:45,885|session|INFO|session saved to data/2025-03-06 20:56.log
+2025-03-07 08:20:44,277|session|INFO|starting session: 2025-03-07 08:20
+2025-03-07 08:20:46,719|exercise_group|INFO|Warm Ups start
+2025-03-07 08:21:20,015|exercise|INFO|Stretch start
+2025-03-07 08:21:41,311|exercise|INFO|Stretch complete
+2025-03-07 08:21:41,311|exercise|INFO|Rock start
+2025-03-07 08:22:16,987|exercise|INFO|Rock complete
+2025-03-07 08:22:16,991|exercise_group|INFO|Warm Ups complete
+2025-03-07 08:22:16,991|exercise_group|INFO|Scales and Chords start
+2025-03-07 08:22:18,706|exercise|INFO|Expanded Scale (C, G, Am, Dm) start
+2025-03-07 08:25:33,865|exercise|INFO|Expanded Scale (C, G, Am, Dm) complete
+2025-03-07 08:25:33,865|exercise|INFO|Four Octave Scale (C, G, D, A, F, Bb, E, Am, Dm, Em, Gm) start
+2025-03-07 08:32:09,310|exercise|INFO|Four Octave Scale (C, G, D, A, F, Bb, E, Am, Dm, Em, Gm) complete
+2025-03-07 08:32:09,310|exercise|INFO|Arpeggio (C, G, D, A, F, Bb, E, Am, Dm, Em, Gm) start
+2025-03-07 08:34:39,669|exercise|INFO|Arpeggio (C, G, D, A, F, Bb, E, Am, Dm, Em, Gm) complete
+2025-03-07 08:34:39,669|exercise|INFO|Chromatic Scale (D, Ab) start
+2025-03-07 08:36:52,075|exercise|INFO|Chromatic Scale (D, Ab) complete
+2025-03-07 08:36:52,076|exercise|INFO|Triads (C, G, D, A, F, Bb, E, Am, Dm, Em, Gm) start
+2025-03-07 08:37:22,299|exercise|INFO|Triads (C, G, D, A, F, Bb, E, Am, Dm, Em, Gm) complete
+2025-03-07 08:37:22,300|exercise|INFO|Broken Chords (C, G, D, A, F, Bb, E, Am, Dm, Em, Gm) start
+2025-03-07 08:46:37,735|exercise|INFO|Broken Chords (C, G, D, A, F, Bb, E, Am, Dm, Em, Gm) complete
+2025-03-07 08:46:37,736|exercise|INFO|Broken Triads (C, G, D, A, F, Bb, E, Am, Dm, Em, Gm) start
+2025-03-07 08:48:23,494|exercise|INFO|Broken Triads (C, G, D, A, F, Bb, E, Am, Dm, Em, Gm) complete
+2025-03-07 08:48:23,495|exercise|INFO|Running (C, G, D, A, F, Bb, E) start
+2025-03-07 08:52:28,689|exercise|INFO|Running (C, G, D, A, F, Bb, E) complete
+2025-03-07 08:52:28,697|exercise_group|INFO|Scales and Chords complete
+2025-03-07 08:52:28,697|exercise_group|INFO|Daily Dozen start
+2025-03-07 08:54:15,481|exercise|INFO|Book 2 4-1 start
+2025-03-07 08:54:42,593|exercise|INFO|Book 2 4-1 complete
+2025-03-07 08:54:42,594|exercise|INFO|Book 2 4-2 start
+2025-03-07 08:55:38,266|exercise|INFO|Book 2 4-2 complete
+2025-03-07 08:55:38,266|exercise|INFO|Book 2 4-3 start
+2025-03-07 08:56:33,450|exercise|INFO|Book 2 4-3 complete
+2025-03-07 08:56:33,450|exercise|INFO|Book 2 4-4 start
+2025-03-07 08:56:57,233|exercise|INFO|Book 2 4-4 complete
+2025-03-07 08:56:57,234|exercise|INFO|Book 2 4-5 start
+2025-03-07 08:57:26,443|exercise|INFO|Book 2 4-5 complete
+2025-03-07 08:57:26,443|exercise|INFO|Book 2 4-6 start
+2025-03-07 08:58:57,666|exercise|INFO|Book 2 4-6 complete
+2025-03-07 08:58:57,667|exercise|INFO|Book 2 4-7 start
+2025-03-07 08:59:53,867|exercise|INFO|Book 2 4-7 complete
+2025-03-07 08:59:53,875|exercise_group|INFO|Daily Dozen complete
+2025-03-07 08:59:53,875|exercise_group|INFO|Songs start
+2025-03-07 09:00:03,742|exercise_group|INFO|Songs complete
+2025-03-07 09:00:03,742|exercise_group|INFO|Repetoire Review start
+2025-03-07 09:00:04,998|exercise_group|INFO|Repetoire Review complete
+2025-03-07 09:00:04,999|session|INFO|session complete: 2025-03-07 08:20
+2025-03-07 09:00:05,024|session|INFO|session saved to data/2025-03-07 08:20.log
+2025-03-07 19:07:39,516|session|INFO|starting session: 2025-03-07 19:07
+2025-03-07 19:07:40,524|exercise_group|INFO|Warm Ups start
+2025-03-07 19:07:41,910|exercise_group|INFO|Warm Ups complete
+2025-03-07 19:07:41,910|exercise_group|INFO|Scales and Chords start
+2025-03-07 19:07:42,799|exercise_group|INFO|Scales and Chords complete
+2025-03-07 19:07:42,799|exercise_group|INFO|Daily Dozen start
+2025-03-07 19:08:00,436|exercise|INFO|Book 2 4-8 start
+2025-03-07 19:09:41,716|exercise|INFO|Book 2 4-8 complete
+2025-03-07 19:09:41,716|exercise|INFO|Book 2 4-9 start
+2025-03-07 19:10:46,011|exercise|INFO|Book 2 4-9 complete
+2025-03-07 19:10:46,011|exercise|INFO|Book 2 4-10 start
+2025-03-07 19:11:35,283|exercise|INFO|Book 2 4-10 complete
+2025-03-07 19:11:35,284|exercise|INFO|Book 2 4-1 start
+2025-03-07 19:11:37,514|exercise|INFO|Book 2 4-1 complete
+2025-03-07 19:11:37,514|exercise|INFO|Book 2 4-11 start
+2025-03-07 19:12:30,065|exercise|INFO|Book 2 4-11 complete
+2025-03-07 19:12:30,065|exercise|INFO|Book 2 4-12 start
+2025-03-07 19:20:37,574|exercise|INFO|Book 2 4-12 complete
+2025-03-07 19:20:37,582|exercise_group|INFO|Daily Dozen complete
+2025-03-07 19:20:37,582|exercise_group|INFO|Songs start
+2025-03-07 19:20:40,591|exercise|INFO|Joy of Piano - Clair De Lune, Debussy (p20) start
+2025-03-07 19:30:35,043|exercise|INFO|Joy of Piano - Clair De Lune, Debussy (p20) complete
+2025-03-07 19:30:35,043|exercise|INFO|Easy Piano Classics - Sonatina (Op 36, No 1), Clementi (p60) start
+2025-03-07 19:43:24,900|exercise|INFO|Easy Piano Classics - Sonatina (Op 36, No 1), Clementi (p60) complete
+2025-03-07 19:43:24,905|exercise_group|INFO|Songs complete
+2025-03-07 19:43:24,906|exercise_group|INFO|Repetoire Review start
+2025-03-07 19:43:26,202|exercise_group|INFO|Repetoire Review complete
+2025-03-07 19:43:26,202|session|INFO|session complete: 2025-03-07 19:07
+2025-03-07 19:43:26,221|session|INFO|session saved to data/2025-03-07 19:07.log
+2025-03-08 07:41:35,632|session|INFO|starting session: 2025-03-08 07:41
+2025-03-08 07:41:36,465|exercise_group|INFO|Warm Ups start
+2025-03-08 07:41:38,545|exercise|INFO|Stretch start
+2025-03-08 07:42:15,785|exercise|INFO|Stretch complete
+2025-03-08 07:42:15,785|exercise|INFO|Rock start
+2025-03-08 07:42:33,945|exercise|INFO|Rock complete
+2025-03-08 07:42:33,949|exercise_group|INFO|Warm Ups complete
+2025-03-08 07:42:33,949|exercise_group|INFO|Scales and Chords start
+2025-03-08 07:42:36,073|exercise|INFO|Expanded Scale (C, G, Am, Dm) start
+2025-03-08 07:47:25,921|exercise|INFO|Expanded Scale (C, G, Am, Dm) complete
+2025-03-08 07:47:25,921|exercise|INFO|Four Octave Scale (C, G, D, A, F, Bb, E, Am, Dm, Em, Gm) start
+2025-03-08 07:53:24,865|exercise|INFO|Four Octave Scale (C, G, D, A, F, Bb, E, Am, Dm, Em, Gm) complete
+2025-03-08 07:53:24,865|exercise|INFO|Arpeggio (C, G, D, A, F, Bb, E, Am, Dm, Em, Gm) start
+2025-03-08 07:56:33,800|exercise|INFO|Arpeggio (C, G, D, A, F, Bb, E, Am, Dm, Em, Gm) complete
+2025-03-08 07:56:33,800|exercise|INFO|Chromatic Scale (D, Ab) start
+2025-03-08 07:56:52,936|exercise|INFO|Chromatic Scale (D, Ab) complete
+2025-03-08 07:56:52,937|exercise|INFO|Triads (C, G, D, A, F, Bb, E, Am, Dm, Em, Gm) start
+2025-03-08 07:59:41,913|exercise|INFO|Triads (C, G, D, A, F, Bb, E, Am, Dm, Em, Gm) complete
+2025-03-08 07:59:41,913|exercise|INFO|Broken Chords (C, G, D, A, F, Bb, E, Am, Dm, Em, Gm) start
+2025-03-08 08:01:38,200|exercise|INFO|Broken Chords (C, G, D, A, F, Bb, E, Am, Dm, Em, Gm) complete
+2025-03-08 08:01:38,207|exercise_group|INFO|Scales and Chords complete
+2025-03-08 08:01:38,207|exercise_group|INFO|Daily Dozen start
+2025-03-08 08:01:39,170|exercise_group|INFO|Daily Dozen complete
+2025-03-08 08:01:39,170|exercise_group|INFO|Songs start
+2025-03-08 08:01:40,138|exercise_group|INFO|Songs complete
+2025-03-08 08:01:40,138|exercise_group|INFO|Repetoire Review start
+2025-03-08 08:15:07,333|exercise_group|INFO|Repetoire Review complete
+2025-03-08 08:15:07,334|session|INFO|session complete: 2025-03-08 07:41
+2025-03-08 08:15:07,351|session|INFO|session saved to data/2025-03-08 07:41.log
+2025-03-08 08:15:13,451|session|INFO|starting session: 2025-03-08 08:15
+2025-03-08 08:15:14,341|exercise_group|INFO|Warm Ups start
+2025-03-08 08:15:15,847|exercise_group|INFO|Warm Ups complete
+2025-03-08 08:15:15,847|exercise_group|INFO|Scales and Chords start
+2025-03-08 08:15:18,203|exercise|INFO|Broken Chords (C, G, D, A, F, Bb, E, Am, Dm, Em, Gm) start
+2025-03-08 08:27:36,760|exercise|INFO|Broken Chords (C, G, D, A, F, Bb, E, Am, Dm, Em, Gm) complete
+2025-03-08 08:27:36,761|exercise|INFO|Broken Triads (C, G, D, A, F, Bb, E, Am, Dm, Em, Gm) start
+2025-03-08 08:30:53,970|exercise|INFO|Broken Triads (C, G, D, A, F, Bb, E, Am, Dm, Em, Gm) complete
+2025-03-08 08:30:53,971|exercise|INFO|Running (C, G, D, A, F, Bb, E) start
+2025-03-08 08:34:01,011|exercise|INFO|Running (C, G, D, A, F, Bb, E) complete
+2025-03-08 08:34:01,017|exercise_group|INFO|Scales and Chords complete
+2025-03-08 08:34:01,018|exercise_group|INFO|Daily Dozen start
+2025-03-08 08:34:08,623|exercise_group|INFO|Daily Dozen complete
+2025-03-08 08:34:08,624|exercise_group|INFO|Songs start
+2025-03-08 08:34:10,399|exercise_group|INFO|Songs complete
+2025-03-08 08:34:10,399|exercise_group|INFO|Repetoire Review start
+2025-03-08 14:12:41,057|exercise_group|INFO|Repetoire Review complete
+2025-03-08 14:12:41,058|session|INFO|session complete: 2025-03-08 08:15
+2025-03-08 14:12:41,065|session|INFO|session saved to data/2025-03-08 08:15.log
+2025-03-08 14:12:46,312|session|INFO|starting session: 2025-03-08 14:12
+2025-03-08 14:12:53,479|exercise_group|INFO|Warm Ups start
+2025-03-08 14:12:55,626|exercise_group|INFO|Warm Ups complete
+2025-03-08 14:12:55,627|exercise_group|INFO|Scales and Chords start
+2025-03-08 14:12:56,675|exercise_group|INFO|Scales and Chords complete
+2025-03-08 14:12:56,675|exercise_group|INFO|Daily Dozen start
+2025-03-08 14:12:58,776|exercise|INFO|Book 2 4-1 start
+2025-03-08 14:14:24,648|exercise|INFO|Book 2 4-1 complete
+2025-03-08 14:14:24,648|exercise|INFO|Book 2 4-2 start
+2025-03-08 14:17:17,903|exercise|INFO|Book 2 4-2 complete
+2025-03-08 14:17:17,903|exercise|INFO|Book 2 4-3 start
+2025-03-08 14:18:03,998|exercise|INFO|Book 2 4-3 complete
+2025-03-08 14:18:03,998|exercise|INFO|Book 2 4-4 start
+2025-03-08 14:18:33,887|exercise|INFO|Book 2 4-4 complete
+2025-03-08 14:18:33,887|exercise|INFO|Book 2 4-5 start
+2025-03-08 14:19:16,525|exercise|INFO|Book 2 4-5 complete
+2025-03-08 14:19:16,526|exercise|INFO|Book 2 4-6 start
+2025-03-08 14:20:27,791|exercise|INFO|Book 2 4-6 complete
+2025-03-08 14:20:27,791|exercise|INFO|Book 2 4-7 start
+2025-03-08 14:21:28,406|exercise|INFO|Book 2 4-7 complete
+2025-03-08 14:21:28,407|exercise|INFO|Book 2 4-8 start
+2025-03-08 14:23:39,404|exercise|INFO|Book 2 4-8 complete
+2025-03-08 14:23:39,404|exercise|INFO|Book 2 4-9 start
+2025-03-08 14:24:38,620|exercise|INFO|Book 2 4-9 complete
+2025-03-08 14:24:38,621|exercise|INFO|Book 2 4-10 start
+2025-03-08 14:25:28,292|exercise|INFO|Book 2 4-10 complete
+2025-03-08 14:25:28,292|exercise|INFO|Book 2 4-11 start
+2025-03-08 14:26:33,814|exercise|INFO|Book 2 4-11 complete
+2025-03-08 14:26:33,814|exercise|INFO|Book 2 4-12 start
+2025-03-08 14:32:35,807|exercise|INFO|Book 2 4-12 complete
+2025-03-08 14:32:35,818|exercise_group|INFO|Daily Dozen complete
+2025-03-08 14:32:35,818|exercise_group|INFO|Songs start
+2025-03-08 14:32:37,296|exercise_group|INFO|Songs complete
+2025-03-08 14:32:37,296|exercise_group|INFO|Repetoire Review start
+2025-03-08 14:32:37,720|exercise_group|INFO|Repetoire Review complete
+2025-03-08 14:32:37,721|session|INFO|session complete: 2025-03-08 14:12
+2025-03-08 14:32:37,738|session|INFO|session saved to data/2025-03-08 14:12.log
+2025-03-09 09:10:22,873|session|INFO|starting session: 2025-03-09 09:10
+2025-03-09 09:10:23,408|exercise_group|INFO|Warm Ups start
+2025-03-09 09:10:25,113|exercise|INFO|Stretch start
+2025-03-09 09:10:48,873|exercise|INFO|Stretch complete
+2025-03-09 09:10:48,873|exercise|INFO|Rock start
+2025-03-09 09:11:11,464|exercise|INFO|Rock complete
+2025-03-09 09:11:11,467|exercise_group|INFO|Warm Ups complete
+2025-03-09 09:11:11,467|exercise_group|INFO|Scales and Chords start
+2025-03-09 09:11:12,415|exercise|INFO|Expanded Scale (C, G, Am, Dm) start
+2025-03-09 09:13:57,647|exercise|INFO|Expanded Scale (C, G, Am, Dm) complete
+2025-03-09 09:13:57,647|exercise|INFO|Four Octave Scale (C, G, D, A, F, Bb, E, Am, Dm, Em, Gm) start
+2025-03-09 09:19:40,843|exercise|INFO|Four Octave Scale (C, G, D, A, F, Bb, E, Am, Dm, Em, Gm) complete
+2025-03-09 09:19:40,844|exercise|INFO|Arpeggio (C, G, D, A, F, Bb, E, Am, Dm, Em, Gm) start
+2025-03-09 09:22:21,354|exercise|INFO|Arpeggio (C, G, D, A, F, Bb, E, Am, Dm, Em, Gm) complete
+2025-03-09 09:22:21,355|exercise|INFO|Chromatic Scale (D, Ab) start
+2025-03-09 09:22:42,427|exercise|INFO|Chromatic Scale (D, Ab) complete
+2025-03-09 09:22:42,427|exercise|INFO|Triads (C, G, D, A, F, Bb, E, Am, Dm, Em, Gm) start
+2025-03-09 09:25:11,654|exercise|INFO|Triads (C, G, D, A, F, Bb, E, Am, Dm, Em, Gm) complete
+2025-03-09 09:25:11,662|exercise_group|INFO|Scales and Chords complete
+2025-03-09 09:25:11,662|exercise_group|INFO|Daily Dozen start
+2025-03-09 09:25:12,203|exercise_group|INFO|Daily Dozen complete
+2025-03-09 09:25:12,203|exercise_group|INFO|Songs start
+2025-03-09 09:25:12,642|exercise_group|INFO|Songs complete
+2025-03-09 09:25:12,643|exercise_group|INFO|Repetoire Review start
+2025-03-09 09:25:13,474|exercise_group|INFO|Repetoire Review complete
+2025-03-09 09:25:13,475|session|INFO|session complete: 2025-03-09 09:10
+2025-03-09 09:25:13,491|session|INFO|session saved to data/2025-03-09 09:10.log
+2025-03-09 11:19:12,551|session|INFO|starting session: 2025-03-09 11:19
+2025-03-09 11:19:14,151|exercise_group|INFO|Warm Ups start
+2025-03-09 11:19:15,586|exercise_group|INFO|Warm Ups complete
+2025-03-09 11:19:15,586|exercise_group|INFO|Scales and Chords start
+2025-03-09 11:19:18,015|exercise|INFO|Broken Chords (C, G, D, A, F, Bb, E, Am, Dm, Em, Gm) start
+2025-03-09 11:19:18,752|exercise|INFO|Broken Chords (C, G, D, A, F, Bb, E, Am, Dm, Em, Gm) complete
+2025-03-09 11:19:18,752|exercise|INFO|Expanded Scale (C, G, Am, Dm) start
+2025-03-09 11:19:24,043|exercise|INFO|Expanded Scale (C, G, Am, Dm) complete
+2025-03-09 11:19:24,043|exercise|INFO|Broken Triads (C, G, D, A, F, Bb, E, Am, Dm, Em, Gm) start
+2025-03-09 11:21:29,139|exercise|INFO|Broken Triads (C, G, D, A, F, Bb, E, Am, Dm, Em, Gm) complete
+2025-03-09 11:21:29,139|exercise|INFO|Running (C, G, D, A, F, Bb, E) start
+2025-03-09 11:23:25,777|exercise|INFO|Running (C, G, D, A, F, Bb, E) complete
+2025-03-09 11:23:25,783|exercise_group|INFO|Scales and Chords complete
+2025-03-09 11:23:25,783|exercise_group|INFO|Daily Dozen start
+2025-03-09 11:23:26,924|exercise_group|INFO|Daily Dozen complete
+2025-03-09 11:23:26,924|exercise_group|INFO|Songs start
+2025-03-09 11:23:27,436|exercise_group|INFO|Songs complete
+2025-03-09 11:23:27,436|exercise_group|INFO|Repetoire Review start
+2025-03-09 11:23:28,182|exercise_group|INFO|Repetoire Review complete
+2025-03-09 11:23:28,182|session|INFO|session complete: 2025-03-09 11:19
+2025-03-09 11:23:28,192|session|INFO|session saved to data/2025-03-09 11:19.log
+2025-03-09 11:23:29,798|session|INFO|starting session: 2025-03-09 11:23
+2025-03-09 11:23:31,185|exercise_group|INFO|Warm Ups start
+2025-03-09 11:23:32,371|exercise_group|INFO|Warm Ups complete
+2025-03-09 11:23:32,372|exercise_group|INFO|Scales and Chords start
+2025-03-09 11:23:35,393|exercise|INFO|Broken Chords (C, G, D, A, F, Bb, E, Am, Dm, Em, Gm) start
+2025-03-09 11:31:20,910|exercise|INFO|Broken Chords (C, G, D, A, F, Bb, E, Am, Dm, Em, Gm) complete
+2025-03-09 11:31:20,914|exercise_group|INFO|Scales and Chords complete
+2025-03-09 11:31:20,914|exercise_group|INFO|Daily Dozen start
+2025-03-09 11:32:45,038|exercise|INFO|Book 2 4-1 start
+2025-03-09 11:33:06,718|exercise|INFO|Book 2 4-1 complete
+2025-03-09 11:33:06,718|exercise|INFO|Book 2 4-2 start
+2025-03-09 11:34:20,644|exercise|INFO|Book 2 4-2 complete
+2025-03-09 11:34:20,645|exercise|INFO|Book 2 4-3 start
+2025-03-09 11:35:04,053|exercise|INFO|Book 2 4-3 complete
+2025-03-09 11:35:04,053|exercise|INFO|Book 2 4-4 start
+2025-03-09 11:35:21,844|exercise|INFO|Book 2 4-4 complete
+2025-03-09 11:35:21,845|exercise|INFO|Book 2 4-5 start
+2025-03-09 11:35:46,620|exercise|INFO|Book 2 4-5 complete
+2025-03-09 11:35:46,621|exercise|INFO|Book 2 4-6 start
+2025-03-09 11:35:48,572|exercise|INFO|Book 2 4-6 complete
+2025-03-09 11:35:48,572|exercise|INFO|Book 2 4-7 start
+2025-03-09 11:37:20,939|exercise|INFO|Book 2 4-7 complete
+2025-03-09 11:37:20,939|exercise|INFO|Book 2 4-8 start
+2025-03-09 11:38:32,027|exercise|INFO|Book 2 4-8 complete
+2025-03-09 11:38:32,027|exercise|INFO|Book 2 4-9 start
+2025-03-09 11:39:21,818|exercise|INFO|Book 2 4-9 complete
+2025-03-09 11:39:21,819|exercise|INFO|Book 2 4-10 start
+2025-03-09 11:40:26,073|exercise|INFO|Book 2 4-10 complete
+2025-03-09 11:40:26,073|exercise|INFO|Book 2 4-11 start
+2025-03-09 11:41:14,280|exercise|INFO|Book 2 4-11 complete
+2025-03-09 11:41:14,280|exercise|INFO|Book 2 4-12 start
+2025-03-09 11:48:09,034|exercise|INFO|Book 2 4-12 complete
+2025-03-09 11:48:09,044|exercise_group|INFO|Daily Dozen complete
+2025-03-09 11:48:09,044|exercise_group|INFO|Songs start
+2025-03-09 11:48:09,499|exercise_group|INFO|Songs complete
+2025-03-09 11:48:09,499|exercise_group|INFO|Repetoire Review start
+2025-03-09 11:48:09,819|exercise_group|INFO|Repetoire Review complete
+2025-03-09 11:48:09,820|session|INFO|session complete: 2025-03-09 11:23
+2025-03-09 11:48:09,840|session|INFO|session saved to data/2025-03-09 11:23.log
+2025-03-09 11:48:11,589|session|INFO|starting session: 2025-03-09 11:48
+2025-03-09 11:48:12,978|exercise_group|INFO|Warm Ups start
+2025-03-09 11:48:14,028|exercise_group|INFO|Warm Ups complete
+2025-03-09 11:48:14,028|exercise_group|INFO|Scales and Chords start
+2025-03-09 11:48:15,202|exercise_group|INFO|Scales and Chords complete
+2025-03-09 11:48:15,202|exercise_group|INFO|Daily Dozen start
+2025-03-09 11:48:21,177|exercise|INFO|Book 2 4-6 start
+2025-03-09 11:50:02,049|exercise|INFO|Book 2 4-6 complete
+2025-03-09 11:50:02,052|exercise_group|INFO|Daily Dozen complete
+2025-03-09 11:50:02,052|exercise_group|INFO|Songs start
+2025-03-09 11:50:02,372|exercise_group|INFO|Songs complete
+2025-03-09 11:50:02,372|exercise_group|INFO|Repetoire Review start
+2025-03-09 11:50:02,570|exercise_group|INFO|Repetoire Review complete
+2025-03-09 11:50:02,571|session|INFO|session complete: 2025-03-09 11:48
+2025-03-09 11:50:02,577|session|INFO|session saved to data/2025-03-09 11:48.log
+2025-03-09 22:02:52,690|session|INFO|starting session: 2025-03-09 22:02
+2025-03-09 22:02:53,870|exercise_group|INFO|Warm Ups start
+2025-03-09 22:02:57,920|exercise_group|INFO|Warm Ups complete
+2025-03-09 22:02:57,921|exercise_group|INFO|Scales and Chords start
+2025-03-09 22:02:58,577|exercise_group|INFO|Scales and Chords complete
+2025-03-09 22:02:58,577|exercise_group|INFO|Daily Dozen start
+2025-03-09 22:03:18,057|exercise_group|INFO|Daily Dozen complete
+2025-03-09 22:03:18,057|exercise_group|INFO|Songs start
+2025-03-09 22:03:31,518|exercise|INFO|Joy of Piano - Clair De Lune, Debussy (p20) start
+2025-03-09 22:18:25,650|exercise|INFO|Joy of Piano - Clair De Lune, Debussy (p20) complete
+2025-03-09 22:18:25,651|exercise|INFO|Easy Piano Classics - Sonatina (Op 36, No 1), Clementi (p60) start
+2025-03-09 22:41:38,977|exercise|INFO|Easy Piano Classics - Sonatina (Op 36, No 1), Clementi (p60) complete
+2025-03-09 22:41:38,983|exercise_group|INFO|Songs complete
+2025-03-09 22:41:38,983|exercise_group|INFO|Repetoire Review start
+2025-03-09 22:41:40,812|exercise_group|INFO|Repetoire Review complete
+2025-03-09 22:41:40,812|session|INFO|session complete: 2025-03-09 22:02
+2025-03-09 22:41:40,821|session|INFO|session saved to data/2025-03-09 22:02.log

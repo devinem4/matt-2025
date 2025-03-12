@@ -19,20 +19,23 @@ default_keys = [
     "G",
     "D",
     "A",
+    "E",
     "F",
     "Bb",
     "Am",
     "Dm",
     "Em",
+    "Gm",
 ]
 scales_and_chords = {
-    "Expanded Scale": ["C", "G"],
+    "Expanded Scale": ["C", "G", "Am", "Dm"],
     "Four Octave Scale": default_keys,
     "Arpeggio": default_keys,
     "Chromatic Scale": ["D", "Ab"],
     "Triads": default_keys,
     "Broken Chords": default_keys,
     "Broken Triads": default_keys,
+    "Running": ["C", "G", "D", "A", "F", "Bb", "E"],
 }
 
 scale_exercises = []
@@ -41,9 +44,11 @@ for ex, keys in scales_and_chords.items():
 scales_group = Exercise_Group("Scales and Chords", scale_exercises)
 
 # dozen
-book = "Book 3"
+book = "Book 2"
 # dozen_ex = ["2-12", "3-1", "3-2", "3-3", "3-4"]
-dozen_ex = ["3-1", "3-2", "3-3", "3-4", "3-5", "3-6"]
+# dozen_ex = ["3-1", "3-2", "3-3", "3-4", "3-5", "3-6", "3-7", "3-8", "3-9", "3-10", "3-11", "3-12"]
+# dozen_ex = ["4-1", "4-2", "4-3", "4-4", "4-5", "4-6", "4-7", "4-8", "4-9", "4-10", "4-11", "4-12"]
+dozen_ex = ["5-1"]
 dozen_exercises = []
 for ex in dozen_ex:
     dozen_exercises.append(Exercise(f"{book} {ex}"))
@@ -51,7 +56,6 @@ dozen_group = Exercise_Group("Daily Dozen", dozen_exercises)
 
 # songs
 songs = [
-    "Joy of Piano - Clair De Lune, Debussy (p20)",
     "Easy Piano Classics - Sonatina (Op 36, No 1), Clementi (p60)",
 ]
 song_ex = [Exercise(song) for song in songs]
@@ -72,9 +76,11 @@ repetoire = [
     "Jazzin Americana - Bird in the Bebop (p12)",
     "Jazzin Americana - California Cool (p14)",
     "Jazzin Americana - Battle in Carnegie Hall (p18)",
+    "Joy of Piano - Clair De Lune, Debussy (p20)",
 ]
 repetoire_ex = [Exercise(rep) for rep in repetoire]
 repetoire_group = Exercise_Group("Repetoire Review", repetoire_ex)
 
 my_session = Session([warm_ups, scales_group, dozen_group, song_group, repetoire_group])
 my_session.run_session()
+

@@ -17,9 +17,14 @@ class Session:
         self.groups = groups
 
     def show_session(self) -> None:
-        console.print(f"[bold magenta]Session {self.session_name}[/bold magenta]")
+        session_end = datetime.now().strftime("%Y-%m-%d %H:%M")
+        console.print(f"[bold magenta]Session Start: {self.session_name}[/bold magenta]")
+        console.print(f"[bold magenta]Session End:   {session_end}[/bold magenta]")
+        # for group in self.groups:
+        #     console.print(group.make_table())
         for group in self.groups:
-            console.print(group.make_table())
+            if group.is_done_with_any_exercises():
+                console.print(group.make_table(complete_ex_only=True))
 
     def save_session(self, path="data") -> None:
         if not os.path.exists(path):
@@ -39,13 +44,13 @@ class Session:
         logger.info(f"session saved to {file_path}")
 
     def run_session(self):
-        logger.info("starting session")
+        logger.info(f"starting session: {self.session_name}")
         self.show_session()
         Prompt.ask("Press any key to continue (ctrl+z to abort)")
         for g in self.groups:
             g.run_group(console)
 
         console.print(":tada: All done! See you next time.")
-        logger.info("session complete")
+        logger.info(f"session complete: {self.session_name}")
         self.show_session()
         self.save_session()
